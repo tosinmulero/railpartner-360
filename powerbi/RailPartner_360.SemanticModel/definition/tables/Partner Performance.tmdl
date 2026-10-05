@@ -1,0 +1,185 @@
+table 'Partner Performance'
+	lineageTag: a4ee1870-417a-4f90-9bc1-2c25e8864e9d
+
+	measure 'Partner Count' = DISTINCTCOUNT('Partner Performance'[partner_id])
+		formatString: #,0
+		lineageTag: 03a52b75-6fed-435a-8202-ca1a18648c93
+
+	measure 'Partner Revenue' = SUM('Partner Performance'[platform_revenue_gbp])
+		formatString: £#,0.00
+		lineageTag: 443400b2-c729-419d-9750-6604f9fdd47a
+
+	measure 'Partner Bookings' = SUM('Partner Performance'[bookings])
+		formatString: #,0
+		lineageTag: 1cdd3cf6-7cc7-408f-9dcc-500ce176cd32
+
+	measure 'Average Partner Conversion %' = AVERAGE('Partner Performance'[conversion_rate_pct])
+		formatString: 0.00
+		lineageTag: 5b8d1a2f-9562-45d2-b9d0-11af3c524b80
+
+	measure 'Partner Value at Risk' = SUM('Partner Performance'[commercial_value_at_risk_gbp])
+		formatString: £#,0.00
+		lineageTag: d81fc8ad-1469-45c6-885f-0f3f3570b1e2
+
+	column partner_id
+		dataType: string
+		lineageTag: 700b762e-fdbf-486b-8976-7ba0b53e22b3
+		summarizeBy: none
+		sourceColumn: partner_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column partner_name
+		dataType: string
+		lineageTag: 145909a7-7b18-40fb-8286-7dc420022260
+		summarizeBy: none
+		sourceColumn: partner_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column partner_type
+		dataType: string
+		lineageTag: 0e1c8abd-e2ea-4f1d-b86c-e3f407cd55b1
+		summarizeBy: none
+		sourceColumn: partner_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column partner_segment
+		dataType: string
+		lineageTag: 7ac049ef-fb4c-4cf0-a976-5a401206ffe3
+		summarizeBy: none
+		sourceColumn: partner_segment
+
+		annotation SummarizationSetBy = Automatic
+
+	column service_tier
+		dataType: string
+		lineageTag: eacd2df1-6038-4fc5-b657-30d9669a6fd2
+		summarizeBy: none
+		sourceColumn: service_tier
+
+		annotation SummarizationSetBy = Automatic
+
+	column searches
+		dataType: int64
+		lineageTag: 78537b14-3d35-46fe-a9d6-2b7c10f1ad3e
+		summarizeBy: none
+		sourceColumn: searches
+
+		annotation SummarizationSetBy = Automatic
+
+	column bookings
+		dataType: int64
+		lineageTag: 1bb0b20d-9403-4d00-8d82-57d9cd60c650
+		summarizeBy: none
+		sourceColumn: bookings
+
+		annotation SummarizationSetBy = Automatic
+
+	column conversion_rate_pct
+		dataType: double
+		lineageTag: 604b6536-8837-4cdf-a80f-83c46fbbb70d
+		summarizeBy: none
+		sourceColumn: conversion_rate_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column gross_booking_value_gbp
+		dataType: double
+		lineageTag: 5cc97bba-e4cd-4718-a447-ad2f096b65b1
+		summarizeBy: none
+		sourceColumn: gross_booking_value_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column platform_revenue_gbp
+		dataType: double
+		lineageTag: de74a92a-7ca9-45f5-a3e3-56007a885c16
+		summarizeBy: none
+		sourceColumn: platform_revenue_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column disruption_rate_pct
+		dataType: double
+		lineageTag: 452094f6-9ea4-4c42-aa5b-9b69b1580391
+		summarizeBy: none
+		sourceColumn: disruption_rate_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column operator_cancellations
+		dataType: int64
+		lineageTag: 42e80a7c-eef7-465b-b109-f6456298b1a0
+		summarizeBy: none
+		sourceColumn: operator_cancellations
+
+		annotation SummarizationSetBy = Automatic
+
+	column refund_records
+		dataType: int64
+		lineageTag: 3254c1d1-8e53-4f7d-a617-d5de0901c495
+		summarizeBy: none
+		sourceColumn: refund_records
+
+		annotation SummarizationSetBy = Automatic
+
+	column refund_amount_gbp
+		dataType: double
+		lineageTag: ff46679c-9071-4ff0-b628-6dbb7c900965
+		summarizeBy: none
+		sourceColumn: refund_amount_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column commercial_value_at_risk_gbp
+		dataType: double
+		lineageTag: bd93536d-b6be-49a9-8da4-556622721a61
+		summarizeBy: none
+		sourceColumn: commercial_value_at_risk_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column revenue_per_booking_gbp
+		dataType: double
+		lineageTag: 879d2a13-cfe9-4429-be7d-ce758c32fd71
+		summarizeBy: none
+		sourceColumn: revenue_per_booking_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column revenue_rank
+		dataType: int64
+		lineageTag: 43473a57-0422-4e5f-870d-5f8c4f53d7d7
+		summarizeBy: none
+		sourceColumn: revenue_rank
+
+		annotation SummarizationSetBy = Automatic
+
+	column conversion_rank
+		dataType: int64
+		lineageTag: 6b16eaf3-6fc9-42c1-983d-c65f341c3f3b
+		summarizeBy: none
+		sourceColumn: conversion_rank
+
+		annotation SummarizationSetBy = Automatic
+
+	column risk_rank
+		dataType: int64
+		lineageTag: a46630c8-476e-414f-9aa0-7ae14f9a5ba8
+		summarizeBy: none
+		sourceColumn: risk_rank
+
+		annotation SummarizationSetBy = Automatic
+
+	partition PartnerPerformance = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents("C:\Users\OLUWATOSIN OLUWASEUN\Downloads\railpartner-360\powerbi\data\02_partner_opportunity.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"partner_id", type text}, {"partner_name", type text}, {"partner_type", type text}, {"partner_segment", type text}, {"service_tier", type text}, {"searches", Int64.Type}, {"bookings", Int64.Type}, {"conversion_rate_pct", type number}, {"gross_booking_value_gbp", type number}, {"platform_revenue_gbp", type number}, {"disruption_rate_pct", type number}, {"operator_cancellations", Int64.Type}, {"refund_records", Int64.Type}, {"refund_amount_gbp", type number}, {"commercial_value_at_risk_gbp", type number}, {"revenue_per_booking_gbp", type number}, {"revenue_rank", Int64.Type}, {"conversion_rank", Int64.Type}, {"risk_rank", Int64.Type}}, "en-GB")
+				in
+					#"Changed Type"
+

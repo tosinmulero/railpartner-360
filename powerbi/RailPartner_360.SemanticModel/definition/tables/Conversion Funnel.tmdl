@@ -1,0 +1,85 @@
+table 'Conversion Funnel'
+	lineageTag: c1b5098e-6653-4c4c-98f2-35f6fe9234d2
+
+	column sales_channel
+		dataType: string
+		lineageTag: 8de6d98f-fd1d-4f50-a2e0-b65be1d4d624
+		summarizeBy: none
+		sourceColumn: sales_channel
+
+		annotation SummarizationSetBy = Automatic
+
+	column customer_segment
+		dataType: string
+		lineageTag: 01d3b6a8-9678-4663-8c13-91e4c23f69a0
+		summarizeBy: none
+		sourceColumn: customer_segment
+
+		annotation SummarizationSetBy = Automatic
+
+	column business_traveller_flag
+		dataType: boolean
+		lineageTag: 07175600-bfcf-475e-930e-282f8557782d
+		summarizeBy: none
+		sourceColumn: business_traveller_flag
+
+		annotation SummarizationSetBy = Automatic
+
+	column searches
+		dataType: int64
+		lineageTag: 12fe4228-f27e-4b97-bcba-d66d7b7cfa6a
+		summarizeBy: none
+		sourceColumn: searches
+
+		annotation SummarizationSetBy = Automatic
+
+	column searches_with_availability
+		dataType: int64
+		lineageTag: e4112303-25b8-4040-941e-a49c069c4359
+		summarizeBy: none
+		sourceColumn: searches_with_availability
+
+		annotation SummarizationSetBy = Automatic
+
+	column bookings
+		dataType: int64
+		lineageTag: d5ddb728-9bc2-46ce-943a-3c7c817c58c6
+		summarizeBy: none
+		sourceColumn: bookings
+
+		annotation SummarizationSetBy = Automatic
+
+	column conversion_rate_pct
+		dataType: double
+		lineageTag: 8de98810-63b7-468d-972e-134aa9719576
+		summarizeBy: none
+		sourceColumn: conversion_rate_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column average_lowest_fare_gbp
+		dataType: double
+		lineageTag: 059e1190-fac0-46c5-9eaf-82db775924cf
+		summarizeBy: none
+		sourceColumn: average_lowest_fare_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column average_booking_lead_days
+		dataType: double
+		lineageTag: 72d6e9ce-0473-4cc4-8638-c9f8463c8cd9
+		summarizeBy: none
+		sourceColumn: average_booking_lead_days
+
+		annotation SummarizationSetBy = Automatic
+
+	partition ConversionFunnel = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents("C:\Users\OLUWATOSIN OLUWASEUN\Downloads\railpartner-360\powerbi\data\03_conversion_funnel.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"sales_channel", type text}, {"customer_segment", type text}, {"business_traveller_flag", type logical}, {"searches", Int64.Type}, {"searches_with_availability", Int64.Type}, {"bookings", Int64.Type}, {"conversion_rate_pct", type number}, {"average_lowest_fare_gbp", type number}, {"average_booking_lead_days", type number}}, "en-GB")
+				in
+					#"Changed Type"
+

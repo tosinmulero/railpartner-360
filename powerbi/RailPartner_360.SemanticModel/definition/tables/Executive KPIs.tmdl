@@ -1,0 +1,213 @@
+table 'Executive KPIs'
+	lineageTag: 1d987b24-d40d-4219-b2c5-d65d36168f02
+
+	measure 'Total Searches' = MAX('Executive KPIs'[total_searches])
+		formatString: #,0
+		lineageTag: 5caae987-aac3-49c8-9aee-66bd59c25760
+
+	measure 'Total Bookings' = MAX('Executive KPIs'[total_bookings])
+		formatString: #,0
+		lineageTag: ef6658d7-7062-4974-87cd-641e3dbbe827
+
+	measure 'Conversion Rate %' = MAX('Executive KPIs'[conversion_rate_pct])
+		formatString: 0.00
+		lineageTag: 8a71f36a-e3ff-411f-890b-607c2c7947ab
+
+	measure 'Gross Booking Value' = MAX('Executive KPIs'[gross_booking_value_gbp])
+		formatString: £#,0.00
+		lineageTag: 118d16a6-ec39-4373-8a38-3f34a3d71ef0
+
+	measure 'Platform Revenue' = MAX('Executive KPIs'[platform_revenue_gbp])
+		formatString: £#,0.00
+		lineageTag: e4bcd9d0-22f9-47bb-9339-15f48fa5108d
+
+	measure 'Average Booking Value' = MAX('Executive KPIs'[average_booking_value_gbp])
+		formatString: £#,0.00
+		lineageTag: 27d5df0d-fe3f-487c-ad4d-b6f099222b6a
+
+	measure 'B2B Booking Share %' = MAX('Executive KPIs'[b2b_booking_share_pct])
+		formatString: 0.00
+		lineageTag: 903dbab8-9cbd-4650-b1c6-5962baa7dd79
+
+	measure 'Total Journeys' = MAX('Executive KPIs'[total_journeys])
+		formatString: #,0
+		lineageTag: 6f55c5ea-2461-4703-b651-a5292ab24ba5
+
+	measure 'Disruption Rate %' = MAX('Executive KPIs'[disruption_rate_pct])
+		formatString: 0.00
+		lineageTag: f0dccc94-50e1-47a2-aa22-703badf93e48
+
+	measure 'Cancellation Rate %' = MAX('Executive KPIs'[operator_cancellation_rate_pct])
+		formatString: 0.00
+		lineageTag: 3cf059f0-97d3-4abb-8105-e3e8833c0dff
+
+	measure 'Within 3 Minutes %' = MAX('Executive KPIs'[within_3_minutes_pct])
+		formatString: 0.00
+		lineageTag: 5ff5b063-290a-402b-9d8c-b2a6c87dd57b
+
+	measure 'Refund Records' = MAX('Executive KPIs'[refund_records])
+		formatString: #,0
+		lineageTag: 0b47e415-09da-4b3c-893a-286ea049935c
+
+	measure 'Refund Amount' = MAX('Executive KPIs'[total_refund_amount_gbp])
+		formatString: £#,0.00
+		lineageTag: 9f928af0-2565-4dbd-ad51-672c74c4a0df
+
+	measure 'Commercial Value at Risk' = MAX('Executive KPIs'[commercial_value_at_risk_gbp])
+		formatString: £#,0.00
+		lineageTag: 860c8dcd-2f4a-4a63-b101-1038bfd90097
+
+	column total_searches
+		dataType: int64
+		lineageTag: 2c76801c-c920-4f65-94d3-d6026f60a98f
+		summarizeBy: none
+		sourceColumn: total_searches
+
+		annotation SummarizationSetBy = Automatic
+
+	column total_bookings
+		dataType: int64
+		lineageTag: c7041b3e-5cfe-44ca-adf8-32e9c98b830d
+		summarizeBy: none
+		sourceColumn: total_bookings
+
+		annotation SummarizationSetBy = Automatic
+
+	column total_passengers
+		dataType: int64
+		lineageTag: 49ab7732-c62f-43f0-b90e-5b6163ed0f2f
+		summarizeBy: none
+		sourceColumn: total_passengers
+
+		annotation SummarizationSetBy = Automatic
+
+	column conversion_rate_pct
+		dataType: double
+		lineageTag: 4d97e7b9-bbfb-4d88-b883-e37781412e73
+		summarizeBy: none
+		sourceColumn: conversion_rate_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column gross_booking_value_gbp
+		dataType: double
+		lineageTag: 9c756445-6f8d-4b81-bfb0-be166581a256
+		summarizeBy: none
+		sourceColumn: gross_booking_value_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column net_ticket_value_gbp
+		dataType: double
+		lineageTag: b9027c08-93aa-49cd-a354-7ebc15fff508
+		summarizeBy: none
+		sourceColumn: net_ticket_value_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column platform_revenue_gbp
+		dataType: double
+		lineageTag: 5f25a371-b8f6-4152-869d-64df2a85a842
+		summarizeBy: none
+		sourceColumn: platform_revenue_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column average_booking_value_gbp
+		dataType: double
+		lineageTag: 2f3f6089-68f1-42ae-a89f-d5e9bc6a1a1e
+		summarizeBy: none
+		sourceColumn: average_booking_value_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column b2b_booking_share_pct
+		dataType: double
+		lineageTag: b4ee5e92-dbc2-4332-976a-b991f58322e6
+		summarizeBy: none
+		sourceColumn: b2b_booking_share_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column total_journeys
+		dataType: int64
+		lineageTag: 785c5652-9f6a-4526-909c-f544eb9b3464
+		summarizeBy: none
+		sourceColumn: total_journeys
+
+		annotation SummarizationSetBy = Automatic
+
+	column completed_journeys
+		dataType: int64
+		lineageTag: b0984ea2-5df9-4ec4-9c41-0e91ab38cb33
+		summarizeBy: none
+		sourceColumn: completed_journeys
+
+		annotation SummarizationSetBy = Automatic
+
+	column operator_cancelled_journeys
+		dataType: int64
+		lineageTag: 37aa19a5-9dbd-4497-b822-fedc0fa460c0
+		summarizeBy: none
+		sourceColumn: operator_cancelled_journeys
+
+		annotation SummarizationSetBy = Automatic
+
+	column disruption_rate_pct
+		dataType: double
+		lineageTag: 7458cd21-26b6-4c9b-a4b8-b21b020aba44
+		summarizeBy: none
+		sourceColumn: disruption_rate_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column operator_cancellation_rate_pct
+		dataType: double
+		lineageTag: 5faf1d2e-0b9b-4c42-831a-ca91f00fc7bb
+		summarizeBy: none
+		sourceColumn: operator_cancellation_rate_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column within_3_minutes_pct
+		dataType: double
+		lineageTag: 25c24731-b9ae-444d-8f6a-88822d174e11
+		summarizeBy: none
+		sourceColumn: within_3_minutes_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column refund_records
+		dataType: int64
+		lineageTag: 0f622156-bf09-45b0-8841-a2e1dc367878
+		summarizeBy: none
+		sourceColumn: refund_records
+
+		annotation SummarizationSetBy = Automatic
+
+	column total_refund_amount_gbp
+		dataType: double
+		lineageTag: 2f831d41-19f3-4651-90eb-48767a51b575
+		summarizeBy: none
+		sourceColumn: total_refund_amount_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column commercial_value_at_risk_gbp
+		dataType: double
+		lineageTag: 2d95f164-06cb-4b13-acfb-b167eda18b62
+		summarizeBy: none
+		sourceColumn: commercial_value_at_risk_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	partition ExecutiveKPIs = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents("C:\Users\OLUWATOSIN OLUWASEUN\Downloads\railpartner-360\powerbi\data\01_executive_kpis.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"total_searches", Int64.Type}, {"total_bookings", Int64.Type}, {"total_passengers", Int64.Type}, {"conversion_rate_pct", type number}, {"gross_booking_value_gbp", type number}, {"net_ticket_value_gbp", type number}, {"platform_revenue_gbp", type number}, {"average_booking_value_gbp", type number}, {"b2b_booking_share_pct", type number}, {"total_journeys", Int64.Type}, {"completed_journeys", Int64.Type}, {"operator_cancelled_journeys", Int64.Type}, {"disruption_rate_pct", type number}, {"operator_cancellation_rate_pct", type number}, {"within_3_minutes_pct", type number}, {"refund_records", Int64.Type}, {"total_refund_amount_gbp", type number}, {"commercial_value_at_risk_gbp", type number}}, "en-GB")
+				in
+					#"Changed Type"
+

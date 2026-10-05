@@ -1,0 +1,117 @@
+table 'Customer Segments'
+	lineageTag: 307a4a93-881f-48bc-9063-c80fe69789a0
+
+	column customer_segment
+		dataType: string
+		lineageTag: f267db9f-98e9-4f3f-a516-9b30e92bc93d
+		summarizeBy: none
+		sourceColumn: customer_segment
+
+		annotation SummarizationSetBy = Automatic
+
+	column loyalty_tier
+		dataType: string
+		lineageTag: 317a65cd-ac77-4617-b32f-9c423652a152
+		summarizeBy: none
+		sourceColumn: loyalty_tier
+
+		annotation SummarizationSetBy = Automatic
+
+	column business_traveller_flag
+		dataType: boolean
+		lineageTag: 13891cee-fe7a-47a4-a085-2d9485f2acb3
+		summarizeBy: none
+		sourceColumn: business_traveller_flag
+
+		annotation SummarizationSetBy = Automatic
+
+	column customers
+		dataType: int64
+		lineageTag: 142c0871-b9e3-4d43-8ee3-4ed1e2471b22
+		summarizeBy: none
+		sourceColumn: customers
+
+		annotation SummarizationSetBy = Automatic
+
+	column searches
+		dataType: int64
+		lineageTag: d503fc43-61f5-4d21-9477-095f305724db
+		summarizeBy: none
+		sourceColumn: searches
+
+		annotation SummarizationSetBy = Automatic
+
+	column bookings
+		dataType: int64
+		lineageTag: 6c070c65-9998-4e1f-8b64-fce4bd61c5e7
+		summarizeBy: none
+		sourceColumn: bookings
+
+		annotation SummarizationSetBy = Automatic
+
+	column conversion_rate_pct
+		dataType: double
+		lineageTag: 698405df-f55e-48d0-b3c8-8cfc0afd4725
+		summarizeBy: none
+		sourceColumn: conversion_rate_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column gross_booking_value_gbp
+		dataType: double
+		lineageTag: d1acdaab-3a94-4627-96f1-d2ed19fdf44f
+		summarizeBy: none
+		sourceColumn: gross_booking_value_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column platform_revenue_gbp
+		dataType: double
+		lineageTag: 6578f7fb-ec2c-4f32-8ab4-a9efbd4361ed
+		summarizeBy: none
+		sourceColumn: platform_revenue_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column average_booking_value_gbp
+		dataType: double
+		lineageTag: ad7b6465-c866-4279-b4fb-b45f45fa8c2f
+		summarizeBy: none
+		sourceColumn: average_booking_value_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column disrupted_journeys
+		dataType: int64
+		lineageTag: 90bd5c3a-3bf4-4114-90e9-45506b3e24f0
+		summarizeBy: none
+		sourceColumn: disrupted_journeys
+
+		annotation SummarizationSetBy = Automatic
+
+	column refund_records
+		dataType: int64
+		lineageTag: 8ef45a26-470f-4402-9e16-e37584292603
+		summarizeBy: none
+		sourceColumn: refund_records
+
+		annotation SummarizationSetBy = Automatic
+
+	column refund_amount_gbp
+		dataType: double
+		lineageTag: 7f87acc8-50ec-40a2-8859-fcfe4b394ec4
+		summarizeBy: none
+		sourceColumn: refund_amount_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	partition CustomerSegments = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents("C:\Users\OLUWATOSIN OLUWASEUN\Downloads\railpartner-360\powerbi\data\04_customer_segments.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"customer_segment", type text}, {"loyalty_tier", type text}, {"business_traveller_flag", type logical}, {"customers", Int64.Type}, {"searches", Int64.Type}, {"bookings", Int64.Type}, {"conversion_rate_pct", type number}, {"gross_booking_value_gbp", type number}, {"platform_revenue_gbp", type number}, {"average_booking_value_gbp", type number}, {"disrupted_journeys", Int64.Type}, {"refund_records", Int64.Type}, {"refund_amount_gbp", type number}}, "en-GB")
+				in
+					#"Changed Type"
+

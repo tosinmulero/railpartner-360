@@ -1,0 +1,165 @@
+table 'Route Opportunity'
+	lineageTag: a518fd9f-1a64-4f46-a7fc-2caa2220ace9
+
+	column route_id
+		dataType: string
+		lineageTag: 82fdaa4e-5cc6-4a09-a98c-8810cbef6778
+		summarizeBy: none
+		sourceColumn: route_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column origin_station
+		dataType: string
+		lineageTag: 2ddc264d-1e35-47fd-af94-8cc6dc6e8faa
+		summarizeBy: none
+		sourceColumn: origin_station
+
+		annotation SummarizationSetBy = Automatic
+
+	column destination_station
+		dataType: string
+		lineageTag: e6ac4185-f7d8-41df-b932-766541b259a6
+		summarizeBy: none
+		sourceColumn: destination_station
+
+		annotation SummarizationSetBy = Automatic
+
+	column operator_name
+		dataType: string
+		lineageTag: c1b44727-e548-448d-9b15-eaf403433044
+		summarizeBy: none
+		sourceColumn: operator_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column route_type
+		dataType: string
+		lineageTag: 8418d0db-4497-4399-944f-caad26c935df
+		summarizeBy: none
+		sourceColumn: route_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column distance_km
+		dataType: double
+		lineageTag: 5da6dd96-944e-43f8-b47a-82c04139e693
+		summarizeBy: none
+		sourceColumn: distance_km
+
+		annotation SummarizationSetBy = Automatic
+
+	column searches
+		dataType: int64
+		lineageTag: 5239adde-5dd1-4ced-9b1f-eab69c0be754
+		summarizeBy: none
+		sourceColumn: searches
+
+		annotation SummarizationSetBy = Automatic
+
+	column bookings
+		dataType: int64
+		lineageTag: 6dced53c-6e61-4494-95f6-cb1fc7fa3b2e
+		summarizeBy: none
+		sourceColumn: bookings
+
+		annotation SummarizationSetBy = Automatic
+
+	column conversion_rate_pct
+		dataType: double
+		lineageTag: 703a61f9-6481-46bc-8c91-1200b60872da
+		summarizeBy: none
+		sourceColumn: conversion_rate_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column gross_booking_value_gbp
+		dataType: double
+		lineageTag: 111fb8a6-79b8-441f-bb8e-7555c24b68e0
+		summarizeBy: none
+		sourceColumn: gross_booking_value_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column platform_revenue_gbp
+		dataType: double
+		lineageTag: 2956b44d-0430-4cbf-aae1-14de73f509ae
+		summarizeBy: none
+		sourceColumn: platform_revenue_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column journeys
+		dataType: int64
+		lineageTag: b6525425-3772-4d2b-b793-28829570dddb
+		summarizeBy: none
+		sourceColumn: journeys
+
+		annotation SummarizationSetBy = Automatic
+
+	column disrupted_journeys
+		dataType: int64
+		lineageTag: ffbcfcb8-e2c7-4a43-847a-ac920ef792c7
+		summarizeBy: none
+		sourceColumn: disrupted_journeys
+
+		annotation SummarizationSetBy = Automatic
+
+	column disruption_rate_pct
+		dataType: double
+		lineageTag: d61bfb58-15e8-4b73-bd38-2f5c96d1848c
+		summarizeBy: none
+		sourceColumn: disruption_rate_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column operator_cancellations
+		dataType: int64
+		lineageTag: 35838918-f12f-41da-9032-833d81468c38
+		summarizeBy: none
+		sourceColumn: operator_cancellations
+
+		annotation SummarizationSetBy = Automatic
+
+	column average_arrival_delay_minutes
+		dataType: double
+		lineageTag: 7404657d-d990-4cd1-a1f6-a7643a821d34
+		summarizeBy: none
+		sourceColumn: average_arrival_delay_minutes
+
+		annotation SummarizationSetBy = Automatic
+
+	column within_3_minutes_pct
+		dataType: double
+		lineageTag: 95523e68-67e8-415d-9a85-245094699f76
+		summarizeBy: none
+		sourceColumn: within_3_minutes_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column revenue_per_booking_gbp
+		dataType: double
+		lineageTag: c0bb3484-d5dd-49f2-99d9-73021f3f0436
+		summarizeBy: none
+		sourceColumn: revenue_per_booking_gbp
+
+		annotation SummarizationSetBy = Automatic
+
+	column commercial_priority
+		dataType: string
+		lineageTag: ad3ff0e4-ec2a-46d4-ad1c-a6871b4d936a
+		summarizeBy: none
+		sourceColumn: commercial_priority
+
+		annotation SummarizationSetBy = Automatic
+
+	partition RouteOpportunity = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents("C:\Users\OLUWATOSIN OLUWASEUN\Downloads\railpartner-360\powerbi\data\05_route_opportunity.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"route_id", type text}, {"origin_station", type text}, {"destination_station", type text}, {"operator_name", type text}, {"route_type", type text}, {"distance_km", type number}, {"searches", Int64.Type}, {"bookings", Int64.Type}, {"conversion_rate_pct", type number}, {"gross_booking_value_gbp", type number}, {"platform_revenue_gbp", type number}, {"journeys", Int64.Type}, {"disrupted_journeys", Int64.Type}, {"disruption_rate_pct", type number}, {"operator_cancellations", Int64.Type}, {"average_arrival_delay_minutes", type number}, {"within_3_minutes_pct", type number}, {"revenue_per_booking_gbp", type number}, {"commercial_priority", type text}}, "en-GB")
+				in
+					#"Changed Type"
+

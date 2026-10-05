@@ -1,0 +1,1201 @@
+route_id,origin_station,destination_station,operator_name,route_type,distance_km,searches,bookings,conversion_rate_pct,gross_booking_value_gbp,platform_revenue_gbp,journeys,disrupted_journeys,disruption_rate_pct,operator_cancellations,average_arrival_delay_minutes,within_3_minutes_pct,revenue_per_booking_gbp,commercial_priority
+R00104,RailPartner Station 034,RailPartner Station 008,Coastal Link,Intercity,573.3,6370,1970,30.93,515106.35,27534.26,1970,206,10.46,63,3.44,85.64,13.98,Monitor
+R00542,RailPartner Station 082,RailPartner Station 157,Anglia Rail Services,Intercity,599.5,5881,1786,30.37,480080.95,25454.69,1786,215,12.04,66,3.91,84.50,14.25,Monitor
+R00684,RailPartner Station 144,RailPartner Station 135,Western Express,Intercity,539.9,6308,1894,30.03,472165.76,25313.21,1894,187,9.87,64,3.24,85.53,13.36,Monitor
+R00367,RailPartner Station 002,RailPartner Station 186,Capital Intercity,Intercity,516.0,6539,1997,30.54,463385.89,25044.89,1997,239,11.97,83,3.72,84.66,12.54,Monitor
+R00111,RailPartner Station 212,RailPartner Station 162,Coastal Link,Intercity,594.3,5947,1751,29.44,466302.61,25036.96,1751,203,11.59,52,4.14,84.06,14.30,Conversion Opportunity
+R00809,RailPartner Station 204,RailPartner Station 101,Northern Connect Rail,Intercity,518.8,6521,1979,30.35,467348.00,24854.00,1979,208,10.51,60,3.55,84.83,12.56,Monitor
+R00971,RailPartner Station 131,RailPartner Station 122,Coastal Link,Intercity,565.1,5818,1714,29.46,440843.02,23485.02,1714,189,11.03,52,3.74,86.09,13.70,Conversion Opportunity
+R01007,RailPartner Station 068,RailPartner Station 027,Anglia Rail Services,Intercity,510.3,6070,1911,31.48,437846.94,23483.88,1911,176,9.21,58,3.21,87.22,12.29,Monitor
+R00991,RailPartner Station 175,RailPartner Station 103,CrossCountry Connect,Intercity,397.3,6505,2218,34.10,403848.14,22539.86,2218,235,10.60,75,3.51,85.04,10.16,Monitor
+R00298,RailPartner Station 178,RailPartner Station 144,Midlands Railways,Intercity,381.3,6947,2339,33.67,405707.44,22487.63,2339,262,11.20,72,3.64,83.22,9.61,Monitor
+R01104,RailPartner Station 099,RailPartner Station 028,Capital Intercity,Intercity,424.4,6378,2071,32.47,390866.09,21603.95,2071,220,10.62,68,3.79,84.93,10.43,Monitor
+R00500,RailPartner Station 066,RailPartner Station 003,Midlands Railways,Intercity,479.4,5847,1839,31.45,399073.39,21424.31,1839,196,10.66,64,3.35,85.70,11.65,Monitor
+R00526,RailPartner Station 186,RailPartner Station 007,Eastern Regional,Intercity,381.7,6722,2189,32.56,377951.65,21313.75,2189,261,11.92,73,3.92,83.34,9.74,Monitor
+R00937,RailPartner Station 175,RailPartner Station 239,Northern Connect Rail,Intercity,431.6,6022,1967,32.66,386394.95,21199.89,1967,224,11.39,74,3.79,85.37,10.78,Monitor
+R00475,RailPartner Station 169,RailPartner Station 220,Midlands Railways,Intercity,415.9,6063,2015,33.23,383136.25,20870.49,2015,213,10.57,61,3.36,85.95,10.36,Monitor
+R00605,RailPartner Station 241,RailPartner Station 062,CrossCountry Connect,Intercity,534.7,5266,1599,30.36,387178.25,20639.92,1599,175,10.94,50,3.27,85.52,12.91,Monitor
+R00721,RailPartner Station 199,RailPartner Station 159,Western Express,Intercity,434.5,5993,1916,31.97,375488.56,20438.45,1916,196,10.23,56,3.26,84.87,10.67,Monitor
+R00927,RailPartner Station 241,RailPartner Station 181,Anglia Rail Services,Intercity,396.1,5957,1962,32.94,364062.19,20010.88,1962,216,11.01,62,3.58,84.13,10.20,Monitor
+R00903,RailPartner Station 035,RailPartner Station 029,CrossCountry Connect,Intercity,359.8,6803,2171,31.91,357176.51,20005.82,2171,230,10.59,71,3.69,85.06,9.22,Monitor
+R00023,RailPartner Station 216,RailPartner Station 002,Midlands Railways,Intercity,434.1,5732,1876,32.73,360990.19,19904.86,1876,205,10.93,54,3.78,84.36,10.61,Monitor
+R00552,RailPartner Station 240,RailPartner Station 236,Western Express,Intercity,486.1,5648,1703,30.15,367259.70,19807.30,1703,183,10.75,55,3.56,85.71,11.63,Monitor
+R00902,RailPartner Station 096,RailPartner Station 005,Central Metro Rail,Intercity,518.1,5378,1594,29.64,369101.85,19720.14,1594,175,10.98,53,3.52,85.07,12.37,Conversion Opportunity
+R00058,RailPartner Station 132,RailPartner Station 138,Central Metro Rail,Intercity,482.9,5463,1672,30.61,365088.25,19665.99,1672,183,10.94,62,3.30,85.75,11.76,Monitor
+R01174,RailPartner Station 184,RailPartner Station 200,Anglia Rail Services,Intercity,417.7,5734,1869,32.60,355687.13,19573.55,1869,207,11.08,69,3.35,84.94,10.47,Monitor
+R00176,RailPartner Station 053,RailPartner Station 224,Southern Coast Rail,Intercity,451.7,5396,1692,31.36,352309.12,19304.52,1692,206,12.17,59,3.93,82.35,11.41,Monitor
+R00325,RailPartner Station 011,RailPartner Station 183,Eastern Regional,Intercity,355.0,6176,2110,34.16,344234.84,19238.38,2110,203,9.62,57,3.39,85.77,9.12,Monitor
+R00225,RailPartner Station 034,RailPartner Station 197,Western Express,Intercity,444.3,5586,1760,31.51,353790.54,19216.13,1760,203,11.53,58,3.76,84.93,10.92,Monitor
+R00033,RailPartner Station 178,RailPartner Station 079,CrossCountry Connect,Intercity,278.2,7055,2458,34.84,322469.27,18757.56,2458,262,10.66,81,3.69,85.21,7.63,Monitor
+R00547,RailPartner Station 162,RailPartner Station 088,CrossCountry Connect,Intercity,410.8,5629,1815,32.24,339488.46,18704.33,1815,188,10.36,68,3.58,85.96,10.31,Monitor
+R00899,RailPartner Station 195,RailPartner Station 106,Western Express,Intercity,352.8,6127,2028,33.10,331147.61,18629.94,2028,234,11.54,77,3.55,85.22,9.19,Monitor
+R01172,RailPartner Station 045,RailPartner Station 187,Central Metro Rail,Intercity,364.3,5944,1998,33.61,330888.02,18465.21,1998,216,10.81,66,3.42,84.43,9.24,Monitor
+R00092,RailPartner Station 077,RailPartner Station 091,Welsh Regional Rail,Intercity,349.4,6107,2048,33.54,331856.66,18462.17,2048,246,12.01,65,3.61,83.57,9.01,Monitor
+R01002,RailPartner Station 181,RailPartner Station 173,Midlands Railways,Intercity,304.6,6768,2239,33.08,326805.94,18403.72,2239,241,10.76,67,3.34,85.71,8.22,Monitor
+R00141,RailPartner Station 191,RailPartner Station 128,Coastal Link,Intercity,356.7,5900,1965,33.31,324857.94,18351.86,1965,229,11.65,72,3.42,84.36,9.34,Monitor
+R00187,RailPartner Station 187,RailPartner Station 213,Capital Intercity,Intercity,375.3,5836,1901,32.57,326532.67,18224.69,1901,198,10.42,59,3.62,85.88,9.59,Monitor
+R00659,RailPartner Station 084,RailPartner Station 104,Capital Intercity,Intercity,400.8,5368,1792,33.38,330116.88,18224.49,1792,204,11.38,60,3.90,84.56,10.17,Monitor
+R00521,RailPartner Station 125,RailPartner Station 028,Highland Connect,Intercity,406.6,5615,1807,32.18,328971.19,18220.53,1807,185,10.24,60,3.33,85.36,10.08,Monitor
+R00798,RailPartner Station 242,RailPartner Station 061,Highland Connect,Intercity,452.5,5218,1666,31.93,337691.43,18195.83,1666,208,12.48,52,3.96,83.70,10.92,Monitor
+R01196,RailPartner Station 222,RailPartner Station 123,CrossCountry Connect,Intercity,415.9,5414,1759,32.49,332468.26,18047.01,1759,200,11.37,63,3.75,85.19,10.26,Monitor
+R00384,RailPartner Station 157,RailPartner Station 172,Capital Intercity,Intercity,347.2,5914,1933,32.69,317764.96,17964.41,1933,206,10.66,61,3.51,85.09,9.29,Monitor
+R01022,RailPartner Station 157,RailPartner Station 146,Central Metro Rail,Intercity,291.9,6493,2241,34.51,310300.67,17782.16,2241,263,11.74,85,3.50,84.26,7.93,Monitor
+R00672,RailPartner Station 228,RailPartner Station 128,Central Metro Rail,Intercity,337.2,6275,2074,33.05,314040.05,17756.22,2074,240,11.57,67,4.17,84.19,8.56,Monitor
+R00755,RailPartner Station 014,RailPartner Station 103,Southern Coast Rail,Intercity,376.0,5597,1827,32.64,316782.62,17721.17,1827,212,11.60,69,3.62,84.96,9.70,Monitor
+R00820,RailPartner Station 021,RailPartner Station 215,Central Metro Rail,Intercity,380.3,5676,1852,32.63,319153.36,17608.11,1852,214,11.56,66,3.83,83.36,9.51,Monitor
+R00063,RailPartner Station 174,RailPartner Station 050,Central Metro Rail,Intercity,359.8,5771,1949,33.77,317532.28,17504.23,1949,202,10.36,60,3.63,84.69,8.98,Monitor
+R00138,RailPartner Station 230,RailPartner Station 095,Eastern Regional,Intercity,432.1,4876,1605,32.92,319979.63,17496.75,1605,169,10.53,49,3.44,85.48,10.90,Monitor
+R00480,RailPartner Station 062,RailPartner Station 120,Coastal Link,Intercity,377.8,5398,1789,33.14,308890.87,17350.38,1789,190,10.62,66,3.45,85.33,9.70,Monitor
+R00209,RailPartner Station 052,RailPartner Station 042,Welsh Regional Rail,Intercity,373.5,5342,1765,33.04,304594.59,17262.64,1765,182,10.31,71,2.93,86.70,9.78,Monitor
+R00756,RailPartner Station 178,RailPartner Station 152,CrossCountry Connect,Intercity,305.8,6246,2095,33.54,301558.07,17148.91,2095,239,11.41,71,3.43,84.59,8.19,Monitor
+R01042,RailPartner Station 065,RailPartner Station 226,Anglia Rail Services,Intercity,323.9,6166,2033,32.97,303950.96,17125.95,2033,202,9.94,56,3.42,84.74,8.42,Monitor
+R00351,RailPartner Station 121,RailPartner Station 038,Midlands Railways,Intercity,294.1,6377,2149,33.70,301357.58,17124.12,2149,232,10.80,68,3.68,85.09,7.97,Monitor
+R00838,RailPartner Station 240,RailPartner Station 080,Midlands Railways,Intercity,325.1,5960,1999,33.54,303348.67,17114.09,1999,211,10.56,69,3.59,85.58,8.56,Monitor
+R00378,RailPartner Station 035,RailPartner Station 050,Anglia Rail Services,Intercity,300.2,6310,2167,34.34,299810.82,17105.08,2167,238,10.98,72,3.31,85.50,7.89,Monitor
+R00931,RailPartner Station 015,RailPartner Station 148,CrossCountry Connect,Intercity,335.4,5802,1962,33.82,303364.75,17102.91,1962,204,10.40,68,3.52,86.57,8.72,Monitor
+R01056,RailPartner Station 088,RailPartner Station 156,Anglia Rail Services,Intercity,327.3,6021,1997,33.17,302965.47,17097.42,1997,215,10.77,77,3.64,85.84,8.56,Monitor
+R00698,RailPartner Station 226,RailPartner Station 215,Southern Coast Rail,Intercity,362.7,5473,1803,32.94,304458.48,17028.34,1803,202,11.20,61,3.58,84.41,9.44,Monitor
+R00042,RailPartner Station 171,RailPartner Station 241,Welsh Regional Rail,Intercity,370.7,5281,1812,34.31,306391.11,17021.61,1812,201,11.09,62,3.38,83.87,9.39,Monitor
+R00166,RailPartner Station 010,RailPartner Station 080,Highland Connect,Intercity,345.4,5856,1876,32.04,300384.08,17018.86,1876,180,9.59,51,3.64,86.07,9.07,Monitor
+R00641,RailPartner Station 224,RailPartner Station 194,Coastal Link,Intercity,320.2,5839,1984,33.98,298156.36,16941.69,1984,212,10.69,58,3.57,85.39,8.54,Monitor
+R00391,RailPartner Station 167,RailPartner Station 146,Anglia Rail Services,Intercity,297.2,6299,2111,33.51,296298.86,16938.71,2111,241,11.42,70,3.78,83.74,8.02,Monitor
+R01182,RailPartner Station 109,RailPartner Station 090,Anglia Rail Services,Intercity,370.9,5344,1813,33.93,301457.03,16930.35,1813,186,10.26,61,3.56,85.79,9.34,Monitor
+R01083,RailPartner Station 128,RailPartner Station 068,Northern Connect Rail,Intercity,327.8,5963,2018,33.84,299586.88,16898.13,2018,271,13.43,77,3.97,83.22,8.37,Monitor
+R00762,RailPartner Station 142,RailPartner Station 130,Western Express,Intercity,318.9,5868,1970,33.57,294492.56,16851.12,1970,214,10.86,64,3.47,85.10,8.55,Monitor
+R00040,RailPartner Station 031,RailPartner Station 087,Southern Coast Rail,Intercity,328.5,5860,1969,33.60,301971.43,16840.66,1969,225,11.43,69,3.69,85.13,8.55,Monitor
+R00976,RailPartner Station 148,RailPartner Station 217,Midlands Railways,Intercity,316.9,5860,1958,33.41,296447.69,16809.61,1958,213,10.88,63,3.87,84.37,8.59,Monitor
+R00403,RailPartner Station 174,RailPartner Station 074,Western Express,Intercity,290.8,6289,2143,34.08,290315.89,16734.95,2143,214,9.99,66,3.31,86.48,7.81,Monitor
+R01021,RailPartner Station 198,RailPartner Station 066,Southern Coast Rail,Intercity,328.1,5946,1922,32.32,290353.10,16606.01,1922,212,11.03,63,3.56,85.23,8.64,Monitor
+R00555,RailPartner Station 229,RailPartner Station 232,Coastal Link,Intercity,337.7,5652,1899,33.60,293454.88,16553.89,1899,206,10.85,55,3.57,85.72,8.72,Monitor
+R00476,RailPartner Station 198,RailPartner Station 044,CrossCountry Connect,Intercity,407.9,4994,1589,31.82,300762.57,16515.23,1589,159,10.01,52,3.47,85.41,10.39,Monitor
+R00167,RailPartner Station 007,RailPartner Station 179,CrossCountry Connect,Intercity,302.1,6310,2076,32.90,287751.89,16468.81,2076,204,9.83,67,3.26,85.88,7.93,Monitor
+R01197,RailPartner Station 188,RailPartner Station 018,Western Express,Intercity,318.5,5647,1903,33.70,288118.53,16411.85,1903,190,9.98,67,3.69,86.25,8.62,Monitor
+R00098,RailPartner Station 082,RailPartner Station 187,Midlands Railways,Intercity,328.1,5695,1923,33.77,290067.44,16381.73,1923,211,10.97,68,3.57,84.19,8.52,Monitor
+R00118,RailPartner Station 053,RailPartner Station 122,CrossCountry Connect,Intercity,361.5,5227,1749,33.46,291264.53,16378.21,1749,169,9.66,54,3.06,85.17,9.36,Monitor
+R00495,RailPartner Station 080,RailPartner Station 213,Coastal Link,Intercity,345.9,5632,1839,32.65,291063.30,16371.47,1839,198,10.77,59,3.98,85.20,8.90,Monitor
+R00979,RailPartner Station 235,RailPartner Station 162,Southern Coast Rail,Intercity,344.2,5542,1826,32.95,290605.18,16339.59,1826,223,12.21,68,3.99,83.68,8.95,Monitor
+R00021,RailPartner Station 220,RailPartner Station 098,Coastal Link,Intercity,265.7,6707,2249,33.53,278288.05,16328.62,2249,259,11.52,92,3.45,84.66,7.26,Monitor
+R01105,RailPartner Station 052,RailPartner Station 224,Welsh Regional Rail,Intercity,331.1,5606,1887,33.66,289744.52,16294.25,1887,214,11.34,57,3.88,84.41,8.64,Monitor
+R00250,RailPartner Station 116,RailPartner Station 094,Highland Connect,Intercity,272.4,6437,2174,33.77,281387.26,16251.34,2174,210,9.66,67,3.32,84.93,7.48,Monitor
+R00924,RailPartner Station 202,RailPartner Station 075,CrossCountry Connect,Intercity,321.8,5826,1913,32.84,285816.75,16172.60,1913,211,11.03,66,3.59,85.55,8.45,Monitor
+R00671,RailPartner Station 068,RailPartner Station 157,Northern Connect Rail,Intercity,280.7,6255,2095,33.49,278155.03,16153.76,2095,213,10.17,69,3.53,85.12,7.71,Monitor
+R00917,RailPartner Station 079,RailPartner Station 148,Coastal Link,Intercity,277.2,6435,2155,33.49,277642.33,16129.89,2155,227,10.53,60,3.69,84.91,7.48,Monitor
+R00161,RailPartner Station 190,RailPartner Station 039,Eastern Regional,Intercity,315.2,5884,1963,33.36,286516.33,16117.12,1963,204,10.39,60,3.52,85.45,8.21,Monitor
+R00467,RailPartner Station 004,RailPartner Station 103,Welsh Regional Rail,Intercity,282.7,6284,2084,33.16,275693.79,16097.12,2084,208,9.98,66,3.56,85.12,7.72,Monitor
+R00370,RailPartner Station 127,RailPartner Station 123,CrossCountry Connect,Intercity,331.1,5794,1878,32.41,288268.33,16061.45,1878,203,10.81,60,3.45,85.95,8.55,Monitor
+R00780,RailPartner Station 158,RailPartner Station 115,CrossCountry Connect,Intercity,274.8,6236,2127,34.11,277719.68,16025.67,2127,224,10.53,78,3.25,85.51,7.53,Monitor
+R00017,RailPartner Station 084,RailPartner Station 022,Central Metro Rail,Intercity,304.3,5834,1946,33.36,279610.74,16010.32,1946,204,10.48,56,3.76,84.83,8.23,Monitor
+R01157,RailPartner Station 171,RailPartner Station 205,Western Express,Intercity,352.5,5286,1740,32.92,285456.96,15980.01,1740,189,10.86,59,3.58,85.92,9.18,Monitor
+R00036,RailPartner Station 127,RailPartner Station 001,Anglia Rail Services,Intercity,306.1,5947,1976,33.23,281437.79,15973.22,1976,203,10.27,60,3.33,85.19,8.08,Monitor
+R00458,RailPartner Station 186,RailPartner Station 200,Midlands Railways,Intercity,276.2,6403,2166,33.83,274284.59,15971.41,2166,242,11.17,70,3.79,84.75,7.37,Monitor
+R00355,RailPartner Station 180,RailPartner Station 131,Western Express,Intercity,298.2,5955,2023,33.97,279200.48,15952.49,2023,240,11.86,69,3.65,84.32,7.89,Monitor
+R00746,RailPartner Station 091,RailPartner Station 112,Anglia Rail Services,Intercity,309.5,5987,1941,32.42,276080.09,15892.93,1941,202,10.41,61,3.47,85.50,8.19,Monitor
+R00543,RailPartner Station 124,RailPartner Station 010,Capital Intercity,Intercity,356.5,5401,1782,32.99,283793.40,15884.73,1782,185,10.38,64,3.45,85.96,8.91,Monitor
+R00494,RailPartner Station 233,RailPartner Station 237,Capital Intercity,Intercity,287.7,6059,2044,33.73,275895.56,15869.23,2044,214,10.47,63,3.55,86.16,7.76,Monitor
+R01017,RailPartner Station 215,RailPartner Station 119,Midlands Railways,Intercity,364.0,5348,1745,32.63,283256.06,15838.47,1745,188,10.77,64,3.61,85.62,9.08,Monitor
+R00046,RailPartner Station 248,RailPartner Station 246,Anglia Rail Services,Intercity,286.9,6182,2030,32.84,273984.03,15835.75,2030,213,10.49,60,3.52,84.33,7.80,Monitor
+R01199,RailPartner Station 125,RailPartner Station 249,Northern Connect Rail,Intercity,373.6,5033,1654,32.86,284042.21,15831.43,1654,168,10.16,66,3.13,86.13,9.57,Monitor
+R00353,RailPartner Station 085,RailPartner Station 142,CrossCountry Connect,Intercity,313.5,5553,1891,34.05,276260.26,15812.18,1891,217,11.48,61,3.55,84.65,8.36,Monitor
+R01008,RailPartner Station 001,RailPartner Station 016,CrossCountry Connect,Intercity,297.9,5955,1997,33.53,275379.20,15785.05,1997,218,10.92,63,3.65,84.86,7.90,Monitor
+R01191,RailPartner Station 090,RailPartner Station 189,Capital Intercity,Intercity,358.3,5282,1726,32.68,280593.22,15746.46,1726,208,12.05,72,3.74,84.35,9.12,Monitor
+R00512,RailPartner Station 133,RailPartner Station 174,Anglia Rail Services,Intercity,280.1,6096,2071,33.97,271124.38,15707.77,2071,245,11.83,83,3.87,84.33,7.58,Monitor
+R00530,RailPartner Station 164,RailPartner Station 178,Northern Connect Rail,Intercity,281.6,6233,2077,33.32,275057.28,15694.05,2077,210,10.11,63,3.75,85.93,7.56,Monitor
+R00139,RailPartner Station 005,RailPartner Station 090,Southern Coast Rail,Intercity,327.7,5442,1791,32.91,272344.01,15600.64,1791,196,10.94,71,3.75,84.45,8.71,Monitor
+R00535,RailPartner Station 210,RailPartner Station 121,Coastal Link,Intercity,252.9,6801,2262,33.26,265761.19,15597.39,2262,243,10.74,73,3.82,85.54,6.90,Monitor
+R00057,RailPartner Station 054,RailPartner Station 189,Highland Connect,Intercity,360.1,4971,1656,33.31,275494.09,15563.66,1656,177,10.69,54,3.43,85.90,9.40,Monitor
+R01018,RailPartner Station 038,RailPartner Station 222,Eastern Regional,Intercity,304.7,5792,1892,32.67,271397.44,15562.58,1892,204,10.78,49,3.73,84.20,8.23,Monitor
+R00640,RailPartner Station 002,RailPartner Station 115,Eastern Regional,Intercity,292.6,6079,1999,32.88,268348.68,15516.50,1999,238,11.91,70,4.21,83.36,7.76,Monitor
+R00101,RailPartner Station 106,RailPartner Station 154,Coastal Link,Intercity,336.1,5245,1762,33.59,272622.29,15481.92,1762,199,11.29,61,3.69,85.68,8.79,Monitor
+R00360,RailPartner Station 086,RailPartner Station 167,Western Express,Intercity,286.0,5841,1985,33.98,265110.67,15430.56,1985,218,10.98,68,3.66,85.40,7.77,Monitor
+R00693,RailPartner Station 159,RailPartner Station 026,Coastal Link,Intercity,344.2,5232,1738,33.22,277633.96,15422.67,1738,195,11.22,59,3.97,84.85,8.87,Monitor
+R00782,RailPartner Station 246,RailPartner Station 198,Southern Coast Rail,Intercity,281.7,6151,2016,32.78,266033.60,15391.27,2016,234,11.61,55,4.17,83.15,7.63,Monitor
+R01098,RailPartner Station 042,RailPartner Station 068,Welsh Regional Rail,Intercity,311.7,5616,1869,33.28,267258.63,15287.84,1869,229,12.25,79,3.61,85.12,8.18,Monitor
+R00658,RailPartner Station 037,RailPartner Station 066,Northern Connect Rail,Intercity,297.3,5638,1877,33.29,262148.57,15225.54,1877,226,12.04,62,3.54,84.12,8.11,Monitor
+R01049,RailPartner Station 178,RailPartner Station 068,Western Express,Intercity,246.9,6547,2211,33.77,255969.45,15203.86,2211,222,10.04,60,3.69,85.62,6.88,Monitor
+R00155,RailPartner Station 018,RailPartner Station 123,Capital Intercity,Intercity,315.5,5532,1840,33.26,266364.85,15185.10,1840,173,9.40,64,3.17,86.85,8.25,Monitor
+R00842,RailPartner Station 201,RailPartner Station 038,Northern Connect Rail,Intercity,298.6,5992,1917,31.99,264972.81,15151.67,1917,192,10.02,60,3.64,86.27,7.90,Monitor
+R00509,RailPartner Station 189,RailPartner Station 019,Coastal Link,Intercity,301.5,5436,1892,34.81,263767.15,15136.24,1892,199,10.52,62,3.56,85.57,8.00,Monitor
+R00278,RailPartner Station 240,RailPartner Station 227,Central Metro Rail,Intercity,293.3,5609,1903,33.93,264250.46,15120.59,1903,204,10.72,52,4.09,84.55,7.95,Monitor
+R00565,RailPartner Station 021,RailPartner Station 220,Anglia Rail Services,Intercity,257.0,6585,2177,33.06,257899.07,15103.83,2177,220,10.11,57,3.70,85.61,6.94,Monitor
+R01159,RailPartner Station 235,RailPartner Station 133,Welsh Regional Rail,Intercity,292.4,5819,1921,33.01,259155.58,15086.48,1921,213,11.09,49,4.00,82.98,7.85,Monitor
+R00582,RailPartner Station 020,RailPartner Station 123,Eastern Regional,Intercity,336.1,5053,1728,34.20,267342.70,14964.63,1728,185,10.71,57,3.32,86.29,8.66,Monitor
+R00056,RailPartner Station 008,RailPartner Station 108,Western Express,Intercity,297.9,5648,1885,33.37,261289.56,14939.73,1885,225,11.94,76,3.61,85.18,7.93,Monitor
+R00503,RailPartner Station 118,RailPartner Station 017,Eastern Regional,Intercity,342.6,5187,1697,32.72,262246.68,14802.80,1697,202,11.90,52,4.01,83.63,8.72,Monitor
+R00078,RailPartner Station 207,RailPartner Station 093,Eastern Regional,Intercity,339.2,4693,1641,34.97,261385.63,14695.60,1641,161,9.81,47,3.42,84.85,8.96,Monitor
+R00435,RailPartner Station 016,RailPartner Station 028,Capital Intercity,Intercity,266.2,6086,2037,33.47,251285.70,14570.75,2037,246,12.08,59,3.92,82.36,7.15,Monitor
+R00124,RailPartner Station 012,RailPartner Station 211,Southern Coast Rail,Intercity,294.4,5555,1870,33.66,253198.14,14530.14,1870,221,11.82,67,3.60,84.57,7.77,Monitor
+R01141,RailPartner Station 095,RailPartner Station 021,Eastern Regional,Intercity,294.2,5522,1841,33.34,252650.36,14516.96,1841,197,10.70,56,3.66,84.73,7.89,Monitor
+R00663,RailPartner Station 027,RailPartner Station 092,Western Express,Intercity,299.3,5556,1813,32.63,254504.78,14502.03,1813,192,10.59,56,3.71,83.86,8.00,Monitor
+R00216,RailPartner Station 009,RailPartner Station 180,Midlands Railways,Intercity,267.0,5876,1992,33.90,249309.54,14443.97,1992,229,11.50,72,3.73,84.70,7.25,Monitor
+R00831,RailPartner Station 103,RailPartner Station 007,Central Metro Rail,Intercity,234.6,6411,2155,33.61,240803.65,14388.82,2155,245,11.37,67,3.84,84.84,6.68,Monitor
+R00301,RailPartner Station 075,RailPartner Station 113,Midlands Railways,Intercity,283.5,5429,1850,34.08,249550.49,14387.74,1850,204,11.03,70,3.48,84.95,7.78,Monitor
+R00603,RailPartner Station 097,RailPartner Station 226,Central Metro Rail,Intercity,267.8,5806,1979,34.09,249095.60,14286.11,1979,219,11.07,72,3.48,84.44,7.22,Monitor
+R00015,RailPartner Station 036,RailPartner Station 196,Highland Connect,Intercity,304.5,5261,1774,33.72,250526.11,14285.60,1774,184,10.37,56,3.64,85.12,8.05,Monitor
+R00655,RailPartner Station 210,RailPartner Station 024,Midlands Railways,Intercity,249.9,6135,2078,33.87,241968.23,14219.80,2078,236,11.36,79,3.39,85.61,6.84,Monitor
+R00336,RailPartner Station 012,RailPartner Station 126,Central Metro Rail,Intercity,306.5,5125,1736,33.87,246298.16,14187.14,1736,187,10.77,54,3.43,83.79,8.17,Monitor
+R01116,RailPartner Station 151,RailPartner Station 242,Northern Connect Rail,Intercity,275.8,5598,1876,33.51,244218.13,14127.58,1876,206,10.98,58,3.60,84.09,7.53,Monitor
+R00213,RailPartner Station 222,RailPartner Station 133,Eastern Regional,Intercity,257.5,5820,1982,34.05,242371.93,14089.87,1982,212,10.70,67,3.41,84.55,7.11,Monitor
+R01113,RailPartner Station 179,RailPartner Station 085,Welsh Regional Rail,Intercity,276.2,5487,1887,34.39,243006.07,14059.05,1887,227,12.03,73,3.43,84.93,7.45,Monitor
+R00774,RailPartner Station 004,RailPartner Station 061,Western Express,Intercity,307.2,5170,1703,32.94,244074.73,14057.92,1703,176,10.33,52,3.51,85.66,8.25,Monitor
+R00140,RailPartner Station 030,RailPartner Station 224,CrossCountry Connect,Intercity,247.5,6032,2069,34.30,235843.39,14036.53,2069,237,11.45,63,4.14,83.85,6.78,Monitor
+R00488,RailPartner Station 130,RailPartner Station 136,Southern Coast Rail,Intercity,283.3,5436,1821,33.50,245201.80,14028.02,1821,190,10.43,64,3.25,85.61,7.70,Monitor
+R01121,RailPartner Station 205,RailPartner Station 136,Capital Intercity,Intercity,283.0,5372,1835,34.16,241880.05,14008.60,1835,219,11.93,77,3.67,86.15,7.63,Monitor
+R00749,RailPartner Station 221,RailPartner Station 166,Anglia Rail Services,Intercity,332.6,4831,1628,33.70,249872.62,13986.63,1628,181,11.12,55,3.72,84.23,8.59,Monitor
+R00551,RailPartner Station 217,RailPartner Station 029,Coastal Link,Intercity,253.6,5954,1958,32.89,237162.99,13969.49,1958,187,9.55,60,3.32,85.35,7.13,Monitor
+R00926,RailPartner Station 060,RailPartner Station 168,Western Express,Intercity,272.5,5398,1862,34.49,240084.74,13913.31,1862,180,9.67,61,3.71,85.71,7.47,Monitor
+R00374,RailPartner Station 075,RailPartner Station 050,Eastern Regional,Intercity,269.4,5488,1881,34.27,237094.48,13911.28,1881,184,9.78,66,3.30,86.30,7.40,Monitor
+R01073,RailPartner Station 001,RailPartner Station 157,Highland Connect,Intercity,231.9,6380,2113,33.12,232178.67,13835.77,2113,223,10.55,61,3.35,85.96,6.55,Monitor
+R00892,RailPartner Station 162,RailPartner Station 175,Western Express,Intercity,251.1,5940,2007,33.79,237447.24,13812.31,2007,241,12.01,72,3.89,83.03,6.88,Monitor
+R01025,RailPartner Station 233,RailPartner Station 182,Anglia Rail Services,Intercity,275.0,5611,1846,32.90,238368.67,13811.53,1846,207,11.21,57,3.98,84.71,7.48,Monitor
+R00890,RailPartner Station 149,RailPartner Station 018,Coastal Link,Intercity,267.8,5617,1882,33.51,236474.45,13788.51,1882,184,9.78,60,2.97,85.10,7.33,Monitor
+R00041,RailPartner Station 156,RailPartner Station 130,Western Express,Intercity,237.2,5986,2025,33.83,229951.08,13764.01,2025,219,10.81,75,3.65,85.49,6.80,Monitor
+R00602,RailPartner Station 133,RailPartner Station 200,Highland Connect,Intercity,248.7,5903,1990,33.71,233721.34,13758.53,1990,217,10.90,73,3.70,85.22,6.91,Monitor
+R00623,RailPartner Station 009,RailPartner Station 206,Western Express,Intercity,276.7,5548,1838,33.13,234932.39,13750.81,1838,170,9.25,48,3.39,83.60,7.48,Monitor
+R01040,RailPartner Station 222,RailPartner Station 229,Western Express,Intercity,302.4,5281,1735,32.85,242840.66,13736.99,1735,197,11.35,62,3.76,84.17,7.92,Monitor
+R00510,RailPartner Station 017,RailPartner Station 092,Welsh Regional Rail,Intercity,314.9,5033,1660,32.98,241269.54,13735.42,1660,175,10.54,43,3.61,85.68,8.27,Monitor
+R00099,RailPartner Station 162,RailPartner Station 031,Central Metro Rail,Intercity,265.9,5795,1892,32.65,234933.34,13709.68,1892,217,11.47,64,3.56,84.78,7.25,Monitor
+R00973,RailPartner Station 055,RailPartner Station 105,Capital Intercity,Intercity,236.0,6172,2057,33.33,230227.70,13707.47,2057,238,11.57,66,3.67,84.50,6.66,Monitor
+R00590,RailPartner Station 102,RailPartner Station 055,Northern Connect Rail,Intercity,257.7,5722,1947,34.03,233741.63,13688.63,1947,198,10.17,64,3.34,85.70,7.03,Monitor
+R00627,RailPartner Station 172,RailPartner Station 057,Western Express,Intercity,276.0,5301,1770,33.39,234809.03,13625.94,1770,172,9.72,56,3.27,86.07,7.70,Monitor
+R01091,RailPartner Station 117,RailPartner Station 144,Eastern Regional,Intercity,222.6,6394,2155,33.70,226305.83,13583.69,2155,226,10.49,71,3.44,85.76,6.30,Monitor
+R00447,RailPartner Station 118,RailPartner Station 107,Midlands Railways,Intercity,280.5,5419,1795,33.12,233692.07,13562.74,1795,214,11.92,62,4.15,83.15,7.56,Monitor
+R00014,RailPartner Station 159,RailPartner Station 197,CrossCountry Connect,Intercity,288.1,5421,1752,32.32,234264.60,13538.89,1752,182,10.39,66,3.66,85.09,7.73,Monitor
+R00439,RailPartner Station 237,RailPartner Station 067,CrossCountry Connect,Intercity,248.5,5726,1940,33.88,228981.71,13508.81,1940,192,9.90,69,3.47,85.75,6.96,Monitor
+R00987,RailPartner Station 182,RailPartner Station 219,Western Express,Intercity,299.7,5045,1669,33.08,236196.15,13466.51,1669,152,9.11,56,3.18,86.86,8.07,Monitor
+R00268,RailPartner Station 198,RailPartner Station 050,Central Metro Rail,Intercity,274.6,5350,1775,33.18,228789.34,13455.74,1775,232,13.07,63,4.08,83.12,7.58,Monitor
+R00518,RailPartner Station 131,RailPartner Station 171,Capital Intercity,Intercity,253.2,5666,1903,33.59,227695.85,13426.54,1903,199,10.46,64,3.43,86.63,7.06,Monitor
+R00157,RailPartner Station 004,RailPartner Station 042,Coastal Link,Intercity,254.5,5669,1897,33.46,229164.65,13406.88,1897,213,11.23,67,3.52,84.69,7.07,Monitor
+R00087,RailPartner Station 053,RailPartner Station 205,Anglia Rail Services,Intercity,263.2,5363,1832,34.16,228982.39,13378.49,1832,206,11.24,65,3.48,84.58,7.30,Monitor
+R00269,RailPartner Station 204,RailPartner Station 128,Coastal Link,Intercity,224.7,6450,2136,33.12,222104.71,13334.63,2136,250,11.70,77,3.85,85.12,6.24,Monitor
+R00992,RailPartner Station 135,RailPartner Station 036,Coastal Link,Intercity,272.0,5185,1749,33.73,228931.58,13249.82,1749,199,11.38,68,3.40,84.06,7.58,Monitor
+R00732,RailPartner Station 067,RailPartner Station 218,CrossCountry Connect,Intercity,303.0,5013,1645,32.81,230856.68,13244.79,1645,166,10.09,50,3.20,85.94,8.05,Monitor
+R00295,RailPartner Station 059,RailPartner Station 141,Capital Intercity,Intercity,233.0,5963,2029,34.03,221155.63,13240.16,2029,207,10.20,67,3.08,85.40,6.53,Monitor
+R00990,RailPartner Station 242,RailPartner Station 172,Capital Intercity,Intercity,249.8,5785,1924,33.26,225174.48,13219.64,1924,211,10.97,64,3.51,85.98,6.87,Monitor
+R00051,RailPartner Station 020,RailPartner Station 091,Coastal Link,Intercity,257.4,5373,1857,34.56,227112.27,13212.71,1857,209,11.25,66,3.49,85.40,7.12,Monitor
+R00010,RailPartner Station 070,RailPartner Station 043,Central Metro Rail,Intercity,227.6,6179,2062,33.37,222861.27,13211.55,2062,211,10.23,52,3.78,85.46,6.41,Monitor
+R00455,RailPartner Station 209,RailPartner Station 093,Southern Coast Rail,Intercity,263.1,5192,1794,34.55,226742.35,13205.37,1794,210,11.71,70,3.56,84.40,7.36,Monitor
+R00704,RailPartner Station 045,RailPartner Station 019,Northern Connect Rail,Intercity,271.1,5462,1778,32.55,223682.49,13167.14,1778,191,10.74,52,3.41,84.58,7.41,Monitor
+R00286,RailPartner Station 120,RailPartner Station 017,Western Express,Intercity,254.1,5433,1847,34.00,221648.41,13077.91,1847,207,11.21,67,3.26,84.74,7.08,Monitor
+R00862,RailPartner Station 197,RailPartner Station 150,Western Express,Intercity,274.2,5093,1742,34.20,223671.36,13073.55,1742,192,11.02,57,3.59,84.13,7.50,Monitor
+R01027,RailPartner Station 169,RailPartner Station 015,CrossCountry Connect,Intercity,264.6,5447,1807,33.17,223463.58,13061.79,1807,195,10.79,56,3.35,85.35,7.23,Monitor
+R00424,RailPartner Station 094,RailPartner Station 063,CrossCountry Connect,Intercity,259.4,5527,1839,33.27,225096.25,13030.23,1839,206,11.20,54,3.81,83.89,7.09,Monitor
+R00690,RailPartner Station 141,RailPartner Station 191,Western Express,Intercity,225.6,5958,2025,33.99,213358.45,12962.26,2025,224,11.06,72,3.65,85.04,6.40,Monitor
+R01146,RailPartner Station 188,RailPartner Station 158,Eastern Regional,Intercity,246.5,5801,1914,32.99,220523.49,12930.75,1914,196,10.24,58,3.51,84.72,6.76,Monitor
+R00086,RailPartner Station 150,RailPartner Station 110,Western Express,Intercity,242.6,5865,1899,32.38,218601.25,12903.32,1899,202,10.64,61,3.74,84.42,6.79,Monitor
+R00748,RailPartner Station 059,RailPartner Station 160,Welsh Regional Rail,Intercity,253.2,5594,1836,32.82,220085.25,12899.07,1836,221,12.04,67,3.75,84.41,7.03,Monitor
+R00536,RailPartner Station 146,RailPartner Station 112,Welsh Regional Rail,Intercity,242.5,5846,1920,32.84,218413.56,12866.86,1920,222,11.56,65,3.91,85.08,6.70,Monitor
+R00691,RailPartner Station 211,RailPartner Station 230,CrossCountry Connect,Intercity,263.7,5427,1764,32.50,218384.44,12802.80,1764,176,9.98,56,3.45,85.52,7.26,Monitor
+R00263,RailPartner Station 087,RailPartner Station 117,Capital Intercity,Intercity,232.8,5852,1958,33.46,213790.65,12750.95,1958,201,10.27,62,3.60,86.26,6.51,Monitor
+R00803,RailPartner Station 181,RailPartner Station 215,Northern Connect Rail,Intercity,221.3,5949,1993,33.50,210988.62,12749.40,1993,208,10.44,66,3.59,86.36,6.40,Monitor
+R00634,RailPartner Station 081,RailPartner Station 205,Eastern Regional,Intercity,245.7,5506,1852,33.64,214410.34,12731.15,1852,187,10.10,55,3.42,86.74,6.87,Monitor
+R00695,RailPartner Station 014,RailPartner Station 068,CrossCountry Connect,Intercity,259.0,5319,1802,33.88,218283.12,12686.87,1802,210,11.65,67,3.63,85.03,7.04,Monitor
+R01000,RailPartner Station 219,RailPartner Station 019,Western Express,Intercity,284.1,5037,1676,33.27,219618.19,12615.54,1676,170,10.14,41,3.83,84.65,7.53,Monitor
+R01151,RailPartner Station 210,RailPartner Station 143,Highland Connect,Intercity,230.7,5792,1930,33.32,210803.31,12607.65,1930,208,10.78,66,3.35,84.34,6.53,Monitor
+R00611,RailPartner Station 178,RailPartner Station 177,Northern Connect Rail,Intercity,231.3,5917,1969,33.28,212676.14,12566.51,1969,235,11.93,69,3.86,83.86,6.38,Monitor
+R00900,RailPartner Station 205,RailPartner Station 045,Eastern Regional,Intercity,229.6,5779,1924,33.29,209696.82,12535.14,1924,201,10.45,60,3.76,85.76,6.52,Monitor
+R00697,RailPartner Station 123,RailPartner Station 010,Midlands Railways,Intercity,257.1,5391,1786,33.13,214919.77,12502.10,1786,201,11.25,64,3.21,84.45,7.00,Monitor
+R01001,RailPartner Station 214,RailPartner Station 033,Western Express,Intercity,258.9,5338,1782,33.38,214135.37,12480.94,1782,201,11.28,55,3.83,84.01,7.00,Monitor
+R00879,RailPartner Station 162,RailPartner Station 208,Coastal Link,Intercity,236.9,5623,1875,33.35,209803.72,12451.65,1875,215,11.47,72,3.71,85.11,6.64,Monitor
+R00916,RailPartner Station 085,RailPartner Station 189,Coastal Link,Intercity,254.3,5245,1745,33.27,209824.46,12430.46,1745,205,11.75,59,3.45,84.32,7.12,Monitor
+R00735,RailPartner Station 191,RailPartner Station 093,Eastern Regional,Intercity,225.0,5489,1911,34.82,205152.98,12395.65,1911,212,11.09,63,3.92,84.59,6.49,Monitor
+R01112,RailPartner Station 119,RailPartner Station 171,Eastern Regional,Intercity,256.3,5270,1763,33.45,210227.19,12304.64,1763,196,11.12,54,3.80,84.67,6.98,Monitor
+R00871,RailPartner Station 104,RailPartner Station 200,Eastern Regional,Intercity,258.6,5290,1742,32.93,209439.28,12270.35,1742,193,11.08,54,3.83,84.14,7.04,Monitor
+R01124,RailPartner Station 099,RailPartner Station 037,Welsh Regional Rail,Intercity,227.3,5655,1932,34.16,206391.11,12234.48,1932,206,10.66,66,3.24,85.30,6.33,Monitor
+R00651,RailPartner Station 085,RailPartner Station 052,CrossCountry Connect,Intercity,267.0,5220,1686,32.30,210507.77,12213.88,1686,193,11.45,65,3.65,85.03,7.24,Monitor
+R00235,RailPartner Station 159,RailPartner Station 053,Central Metro Rail,Intercity,225.6,5579,1879,33.68,203670.98,12209.19,1879,199,10.59,58,3.36,86.19,6.50,Monitor
+R00792,RailPartner Station 057,RailPartner Station 248,Welsh Regional Rail,Intercity,239.8,5274,1786,33.86,207558.01,12186.94,1786,196,10.97,50,3.86,84.40,6.82,Monitor
+R00144,RailPartner Station 120,RailPartner Station 096,Midlands Railways,Intercity,240.4,5330,1805,33.86,204383.82,12167.58,1805,205,11.36,66,3.52,84.62,6.74,Monitor
+R00705,RailPartner Station 216,RailPartner Station 013,Southern Coast Rail,Intercity,243.2,5376,1794,33.37,207250.10,12158.01,1794,205,11.43,74,3.65,85.09,6.78,Monitor
+R00422,RailPartner Station 209,RailPartner Station 108,Eastern Regional,Intercity,244.5,5403,1795,33.22,205861.26,12125.98,1795,180,10.03,63,3.44,84.35,6.76,Monitor
+R00683,RailPartner Station 050,RailPartner Station 159,Midlands Railways,Intercity,229.3,5769,1876,32.52,202468.67,12097.96,1876,193,10.29,64,3.58,85.89,6.45,Monitor
+R01142,RailPartner Station 008,RailPartner Station 117,Central Metro Rail,Intercity,221.0,5853,1927,32.92,202689.65,12054.25,1927,226,11.73,70,3.75,83.71,6.26,Monitor
+R00173,RailPartner Station 073,RailPartner Station 112,Midlands Railways,Intercity,235.1,5433,1833,33.74,203847.93,12048.74,1833,206,11.24,63,3.50,85.09,6.57,Monitor
+R00052,RailPartner Station 211,RailPartner Station 136,Eastern Regional,Intercity,241.5,5440,1790,32.90,203416.77,12037.87,1790,214,11.96,52,4.26,83.12,6.73,Monitor
+R01128,RailPartner Station 015,RailPartner Station 009,Midlands Railways,Intercity,230.9,5680,1874,32.99,199736.33,11992.45,1874,181,9.66,48,3.56,84.88,6.40,Monitor
+R00852,RailPartner Station 080,RailPartner Station 061,Capital Intercity,Intercity,268.1,5107,1643,32.17,205712.91,11963.39,1643,165,10.04,55,3.53,85.82,7.28,Monitor
+R00050,RailPartner Station 205,RailPartner Station 226,Southern Coast Rail,Intercity,228.3,5865,1873,31.94,200214.14,11929.89,1873,219,11.69,67,3.83,84.14,6.37,Monitor
+R00049,RailPartner Station 096,RailPartner Station 119,Welsh Regional Rail,Intercity,237.2,5196,1783,34.31,199309.53,11923.85,1783,221,12.39,73,3.57,83.85,6.69,Monitor
+R00497,RailPartner Station 117,RailPartner Station 044,Central Metro Rail,Intercity,244.7,5310,1741,32.79,201931.11,11910.49,1741,162,9.30,41,3.33,85.83,6.84,Monitor
+R00335,RailPartner Station 026,RailPartner Station 195,Highland Connect,Intercity,247.4,5242,1716,32.74,200860.48,11810.98,1716,204,11.89,55,4.20,83.07,6.88,Monitor
+R00262,RailPartner Station 221,RailPartner Station 114,Welsh Regional Rail,Intercity,241.3,5093,1746,34.28,196486.70,11791.46,1746,179,10.25,64,3.51,85.40,6.75,Monitor
+R00003,RailPartner Station 063,RailPartner Station 155,Southern Coast Rail,Intercity,249.6,4984,1711,34.33,201058.57,11775.85,1711,182,10.64,49,3.61,84.31,6.88,Monitor
+R00255,RailPartner Station 113,RailPartner Station 054,Coastal Link,Intercity,248.6,4829,1646,34.09,197156.33,11649.15,1646,161,9.78,55,3.23,86.82,7.08,Monitor
+R00579,RailPartner Station 010,RailPartner Station 206,Midlands Railways,Intercity,235.6,5287,1744,32.99,193426.69,11634.54,1744,173,9.92,54,3.57,85.55,6.67,Monitor
+R00580,RailPartner Station 022,RailPartner Station 057,CrossCountry Connect,Intercity,224.0,5542,1820,32.84,192160.77,11634.45,1820,201,11.04,74,3.50,84.81,6.39,Monitor
+R00192,RailPartner Station 177,RailPartner Station 213,Coastal Link,Intercity,259.3,4910,1639,33.38,198963.01,11573.01,1639,193,11.78,55,3.70,84.14,7.06,Monitor
+R00533,RailPartner Station 092,RailPartner Station 039,Capital Intercity,Intercity,240.8,5210,1699,32.61,196115.04,11387.42,1699,177,10.42,63,3.51,85.77,6.70,Monitor
+R00273,RailPartner Station 024,RailPartner Station 218,Midlands Railways,Intercity,226.9,5434,1776,32.68,189785.80,11369.00,1776,196,11.04,52,3.54,84.76,6.40,Monitor
+R00502,RailPartner Station 055,RailPartner Station 072,Western Express,Intercity,230.3,5220,1744,33.41,188928.19,11268.00,1744,190,10.89,56,3.37,85.51,6.46,Monitor
+R01145,RailPartner Station 046,RailPartner Station 025,Capital Intercity,Intercity,245.7,4933,1687,34.20,192903.53,11261.36,1687,180,10.67,51,3.60,84.31,6.68,Monitor
+R00737,RailPartner Station 061,RailPartner Station 192,Anglia Rail Services,Intercity,266.6,4724,1556,32.94,189726.71,11246.59,1556,189,12.15,50,3.85,84.87,7.23,Monitor
+R00855,RailPartner Station 025,RailPartner Station 033,Highland Connect,Intercity,234.9,5165,1707,33.05,187355.72,11172.52,1707,168,9.84,40,3.63,85.52,6.55,Monitor
+R00068,RailPartner Station 163,RailPartner Station 037,Southern Coast Rail,Intercity,229.7,5022,1686,33.57,186682.56,11114.06,1686,159,9.43,44,3.24,85.68,6.59,Monitor
+R00443,RailPartner Station 049,RailPartner Station 138,Southern Coast Rail,Intercity,244.7,4779,1591,33.29,185740.30,11056.19,1591,192,12.07,64,3.96,84.43,6.95,Monitor
+R00525,RailPartner Station 168,RailPartner Station 207,Eastern Regional,Intercity,247.0,4672,1580,33.82,185781.22,11028.18,1580,153,9.68,38,3.56,85.29,6.98,Monitor
+R00893,RailPartner Station 223,RailPartner Station 224,Coastal Link,Intercity,226.2,5102,1713,33.58,180905.26,10923.18,1713,187,10.92,66,3.01,86.05,6.38,Monitor
+R00123,RailPartner Station 111,RailPartner Station 026,Eastern Regional,Intercity,228.6,5012,1652,32.96,179610.89,10659.49,1652,179,10.84,50,3.35,84.19,6.45,Monitor
+R00266,RailPartner Station 147,RailPartner Station 218,Highland Connect,Intercity,221.0,5045,1696,33.62,174139.89,10550.22,1696,196,11.56,74,3.51,84.73,6.22,Monitor
+R01120,RailPartner Station 238,RailPartner Station 041,Northern Connect Rail,Intercity,231.0,4720,1611,34.13,173495.78,10296.64,1611,180,11.17,65,3.52,86.16,6.39,Monitor
+R00865,RailPartner Station 247,RailPartner Station 085,CrossCountry Connect,Intercity,235.3,4780,1558,32.59,171370.76,10277.90,1558,179,11.49,51,3.92,85.28,6.60,Monitor
+R00560,RailPartner Station 008,RailPartner Station 116,Welsh Regional Rail,Regional,219.4,5495,1901,34.60,161648.69,10200.29,1901,201,10.57,68,3.37,86.25,5.37,Monitor
+R00405,RailPartner Station 234,RailPartner Station 037,CrossCountry Connect,Intercity,249.1,4534,1480,32.64,170985.71,10146.97,1480,144,9.73,42,3.35,86.52,6.86,Monitor
+R00177,RailPartner Station 095,RailPartner Station 223,Highland Connect,Intercity,240.9,4751,1521,32.01,171172.19,10128.33,1521,175,11.51,48,4.04,84.47,6.66,Monitor
+R00854,RailPartner Station 221,RailPartner Station 177,Central Metro Rail,Intercity,234.4,4484,1497,33.39,167565.64,9902.62,1497,161,10.75,40,3.47,85.36,6.61,Monitor
+R00077,RailPartner Station 108,RailPartner Station 238,Welsh Regional Rail,Intercity,221.2,4756,1590,33.43,163145.04,9856.72,1590,163,10.25,44,3.65,85.17,6.20,Monitor
+R00190,RailPartner Station 202,RailPartner Station 157,Capital Intercity,Regional,216.7,5385,1796,33.35,156742.94,9640.54,1796,213,11.86,74,3.57,84.22,5.37,Monitor
+R00002,RailPartner Station 019,RailPartner Station 116,Capital Intercity,Regional,205.4,5321,1822,34.24,150668.01,9477.28,1822,220,12.07,69,3.66,84.44,5.20,Monitor
+R00661,RailPartner Station 087,RailPartner Station 043,Central Metro Rail,Regional,219.0,5112,1739,34.02,149023.46,9405.26,1739,215,12.36,64,4.26,83.74,5.41,Monitor
+R00165,RailPartner Station 106,RailPartner Station 187,Highland Connect,Regional,215.9,5245,1752,33.40,148577.92,9395.17,1752,211,12.04,74,3.72,85.77,5.36,Monitor
+R01070,RailPartner Station 137,RailPartner Station 193,Northern Connect Rail,Regional,217.4,5140,1725,33.56,148089.88,9378.20,1725,192,11.13,64,3.38,85.19,5.44,Monitor
+R00731,RailPartner Station 169,RailPartner Station 157,Midlands Railways,Regional,219.2,4983,1679,33.69,147406.20,9248.94,1679,184,10.96,76,3.27,86.29,5.51,Monitor
+R00019,RailPartner Station 035,RailPartner Station 217,Western Express,Regional,199.6,5376,1816,33.78,145278.70,9187.32,1816,203,11.18,63,3.53,85.74,5.06,Monitor
+R00162,RailPartner Station 148,RailPartner Station 202,Welsh Regional Rail,Regional,217.4,4997,1658,33.18,146114.96,9072.54,1658,179,10.80,61,3.88,85.60,5.47,Monitor
+R00064,RailPartner Station 070,RailPartner Station 066,Capital Intercity,Regional,207.7,5233,1777,33.96,143976.08,9065.89,1777,224,12.61,85,3.55,84.12,5.10,Monitor
+R00875,RailPartner Station 060,RailPartner Station 135,Northern Connect Rail,Regional,208.1,5020,1704,33.94,142698.08,9011.53,1704,201,11.80,72,3.67,84.44,5.29,Monitor
+R00343,RailPartner Station 077,RailPartner Station 141,Eastern Regional,Regional,216.5,5089,1664,32.70,141643.60,8868.19,1664,183,11.00,48,3.60,84.92,5.33,Monitor
+R00790,RailPartner Station 052,RailPartner Station 237,Highland Connect,Regional,205.6,5099,1700,33.34,139538.04,8840.82,1700,199,11.71,69,3.32,85.62,5.20,Monitor
+R00282,RailPartner Station 038,RailPartner Station 148,Midlands Railways,Regional,214.3,4892,1651,33.75,140040.60,8821.99,1651,191,11.57,59,3.48,84.32,5.34,Monitor
+R01101,RailPartner Station 100,RailPartner Station 185,Western Express,Regional,202.3,5166,1695,32.81,139659.31,8813.14,1695,203,11.98,70,3.58,84.18,5.20,Monitor
+R00853,RailPartner Station 135,RailPartner Station 110,Midlands Railways,Regional,208.1,4923,1681,34.15,141212.82,8807.77,1681,199,11.84,64,3.80,84.47,5.24,Monitor
+R00171,RailPartner Station 010,RailPartner Station 018,Welsh Regional Rail,Regional,206.3,4961,1713,34.53,138861.45,8724.74,1713,200,11.68,68,3.37,83.73,5.09,Monitor
+R00221,RailPartner Station 063,RailPartner Station 157,Midlands Railways,Regional,210.2,4880,1645,33.71,137757.74,8720.12,1645,186,11.31,66,3.67,85.42,5.30,Monitor
+R00873,RailPartner Station 178,RailPartner Station 090,Central Metro Rail,Regional,209.0,5105,1671,32.73,138179.33,8704.09,1671,198,11.85,76,3.38,85.26,5.21,Monitor
+R01135,RailPartner Station 121,RailPartner Station 075,Welsh Regional Rail,Regional,191.7,5270,1733,32.88,134864.13,8630.27,1733,201,11.60,66,3.48,85.81,4.98,Monitor
+R00529,RailPartner Station 157,RailPartner Station 195,Highland Connect,Regional,190.3,5280,1751,33.16,132066.48,8560.93,1751,215,12.28,77,3.49,83.96,4.89,Monitor
+R00534,RailPartner Station 079,RailPartner Station 161,Midlands Railways,Regional,178.6,5314,1815,34.16,130501.08,8543.59,1815,205,11.29,71,3.27,84.61,4.71,Monitor
+R00175,RailPartner Station 235,RailPartner Station 112,Western Express,Regional,217.7,4776,1580,33.08,134903.44,8520.36,1580,191,12.09,71,3.90,85.05,5.39,Monitor
+R00708,RailPartner Station 066,RailPartner Station 035,CrossCountry Connect,Regional,167.7,5705,1891,33.15,127878.35,8517.47,1891,226,11.95,79,3.73,83.94,4.50,Monitor
+R00964,RailPartner Station 068,RailPartner Station 035,Midlands Railways,Regional,179.5,5415,1811,33.44,128787.07,8471.46,1811,200,11.04,68,3.79,83.58,4.68,Monitor
+R00806,RailPartner Station 242,RailPartner Station 110,Western Express,Regional,204.7,4993,1657,33.19,132260.13,8456.75,1657,178,10.74,53,3.48,86.08,5.10,Monitor
+R00219,RailPartner Station 007,RailPartner Station 136,CrossCountry Connect,Regional,210.6,4819,1592,33.04,133350.51,8406.60,1592,189,11.87,67,3.84,85.73,5.28,Monitor
+R00669,RailPartner Station 126,RailPartner Station 242,Southern Coast Rail,Regional,215.0,4704,1555,33.06,135438.48,8401.55,1555,162,10.42,64,3.67,87.21,5.40,Monitor
+R00202,RailPartner Station 012,RailPartner Station 074,Welsh Regional Rail,Regional,205.2,4768,1607,33.70,134701.74,8382.34,1607,178,11.08,60,3.64,85.31,5.22,Monitor
+R00736,RailPartner Station 142,RailPartner Station 032,Welsh Regional Rail,Regional,205.7,4816,1603,33.28,133119.94,8371.50,1603,180,11.23,66,3.72,84.95,5.22,Monitor
+R01077,RailPartner Station 094,RailPartner Station 012,Southern Coast Rail,Regional,207.8,4734,1614,34.09,133192.60,8368.48,1614,178,11.03,66,3.41,85.23,5.18,Monitor
+R00440,RailPartner Station 136,RailPartner Station 117,Highland Connect,Regional,218.3,4571,1518,33.21,132292.86,8366.57,1518,171,11.26,61,3.90,85.89,5.51,Monitor
+R00649,RailPartner Station 126,RailPartner Station 193,Coastal Link,Regional,214.1,4648,1558,33.52,133441.82,8362.40,1558,173,11.10,56,3.53,84.50,5.37,Monitor
+R00588,RailPartner Station 117,RailPartner Station 185,Coastal Link,Regional,204.6,4887,1613,33.01,132665.11,8361.24,1613,190,11.78,64,3.44,84.41,5.18,Monitor
+R00389,RailPartner Station 068,RailPartner Station 119,Western Express,Regional,201.8,4891,1617,33.06,133644.51,8360.36,1617,181,11.19,74,3.40,85.85,5.17,Monitor
+R00960,RailPartner Station 052,RailPartner Station 139,Southern Coast Rail,Regional,207.6,4869,1611,33.09,133884.21,8353.30,1611,182,11.30,62,3.58,84.81,5.19,Monitor
+R00354,RailPartner Station 085,RailPartner Station 233,Central Metro Rail,Regional,209.1,4638,1601,34.52,132674.41,8351.84,1601,173,10.81,56,3.80,85.15,5.22,Monitor
+R00189,RailPartner Station 007,RailPartner Station 131,Highland Connect,Regional,180.1,5238,1741,33.24,127240.42,8336.74,1741,202,11.60,66,4.09,84.79,4.79,Monitor
+R00260,RailPartner Station 131,RailPartner Station 179,Coastal Link,Regional,191.5,4972,1663,33.45,129173.47,8313.05,1663,176,10.58,61,3.39,85.65,5.00,Monitor
+R00515,RailPartner Station 100,RailPartner Station 240,Eastern Regional,Regional,195.9,5236,1647,31.46,127952.54,8292.03,1647,185,11.23,68,3.41,85.79,5.03,Monitor
+R01114,RailPartner Station 224,RailPartner Station 124,Western Express,Regional,208.9,4518,1562,34.57,130117.49,8234.65,1562,147,9.41,48,3.23,85.93,5.27,Monitor
+R00228,RailPartner Station 121,RailPartner Station 031,Southern Coast Rail,Regional,168.1,5483,1798,32.79,123736.79,8223.12,1798,191,10.62,70,3.03,86.84,4.57,Monitor
+R00539,RailPartner Station 224,RailPartner Station 043,Northern Connect Rail,Regional,186.8,5078,1699,33.46,127898.77,8222.17,1699,179,10.54,61,3.44,85.81,4.84,Monitor
+R00256,RailPartner Station 030,RailPartner Station 159,Eastern Regional,Regional,181.4,5043,1710,33.91,126450.96,8221.15,1710,196,11.46,62,3.50,85.16,4.81,Monitor
+R00054,RailPartner Station 039,RailPartner Station 018,Capital Intercity,Regional,208.2,4617,1560,33.79,129740.03,8184.83,1560,163,10.45,66,3.07,86.49,5.25,Monitor
+R00614,RailPartner Station 013,RailPartner Station 074,Eastern Regional,Regional,201.3,4812,1592,33.08,129375.71,8167.16,1592,169,10.62,50,3.55,85.89,5.13,Monitor
+R00758,RailPartner Station 174,RailPartner Station 098,Western Express,Regional,168.4,5318,1768,33.25,123032.38,8144.53,1768,203,11.48,60,3.54,84.76,4.61,Monitor
+R01044,RailPartner Station 216,RailPartner Station 108,Western Express,Regional,218.7,4613,1504,32.60,131399.40,8117.16,1504,162,10.77,54,3.35,84.81,5.40,Monitor
+R00860,RailPartner Station 150,RailPartner Station 016,Anglia Rail Services,Regional,188.7,4834,1671,34.57,125274.38,8116.47,1671,176,10.53,59,3.02,86.16,4.86,Monitor
+R00186,RailPartner Station 237,RailPartner Station 187,Coastal Link,Regional,164.6,5440,1839,33.81,122630.59,8115.88,1839,212,11.53,74,3.44,84.13,4.41,Monitor
+R00441,RailPartner Station 087,RailPartner Station 148,Northern Connect Rail,Regional,193.2,5018,1644,32.76,126374.84,8113.98,1644,199,12.10,71,3.77,84.85,4.94,Monitor
+R00415,RailPartner Station 212,RailPartner Station 036,Eastern Regional,Regional,218.0,4581,1500,32.74,127782.29,8099.59,1500,169,11.27,61,3.83,85.57,5.40,Monitor
+R00107,RailPartner Station 065,RailPartner Station 080,Capital Intercity,Regional,190.2,5144,1656,32.19,125102.52,8095.31,1656,169,10.21,63,3.17,86.95,4.89,Monitor
+R01163,RailPartner Station 098,RailPartner Station 233,Midlands Railways,Regional,174.3,5081,1734,34.13,122475.13,8090.12,1734,205,11.82,60,4.34,83.68,4.67,Monitor
+R00319,RailPartner Station 212,RailPartner Station 014,Central Metro Rail,Regional,209.3,4723,1561,33.05,127127.19,8089.04,1561,193,12.36,66,3.87,83.92,5.18,Monitor
+R00984,RailPartner Station 165,RailPartner Station 094,Eastern Regional,Regional,193.9,4807,1609,33.47,126641.84,8082.14,1609,180,11.19,67,3.61,85.55,5.02,Monitor
+R00451,RailPartner Station 030,RailPartner Station 135,Eastern Regional,Regional,194.8,4833,1618,33.48,124362.14,8079.96,1618,188,11.62,72,3.65,86.11,4.99,Monitor
+R00918,RailPartner Station 019,RailPartner Station 007,Northern Connect Rail,Regional,196.3,4971,1620,32.59,124582.83,8060.47,1620,181,11.17,65,3.32,86.20,4.98,Monitor
+R00847,RailPartner Station 091,RailPartner Station 148,Western Express,Regional,195.4,4904,1615,32.93,125837.30,8059.06,1615,178,11.02,68,3.09,85.69,4.99,Monitor
+R00240,RailPartner Station 226,RailPartner Station 237,Central Metro Rail,Regional,174.6,5120,1710,33.40,121556.06,8055.79,1710,194,11.35,66,3.19,85.54,4.71,Monitor
+R00402,RailPartner Station 157,RailPartner Station 034,Midlands Railways,Regional,163.9,5411,1817,33.58,120252.66,8043.51,1817,216,11.89,71,3.78,84.47,4.43,Monitor
+R00517,RailPartner Station 225,RailPartner Station 216,Central Metro Rail,Regional,212.4,4589,1500,32.69,127124.54,8022.12,1500,157,10.47,51,3.20,84.99,5.35,Monitor
+R00728,RailPartner Station 203,RailPartner Station 084,Central Metro Rail,Regional,193.4,4743,1596,33.65,124440.73,8011.95,1596,191,11.97,82,3.45,85.22,5.02,Monitor
+R00212,RailPartner Station 097,RailPartner Station 232,Northern Connect Rail,Regional,191.6,5035,1601,31.80,123452.60,8009.12,1601,169,10.56,51,3.09,85.61,5.00,Monitor
+R00939,RailPartner Station 098,RailPartner Station 007,Welsh Regional Rail,Regional,153.1,5435,1856,34.15,117019.03,8008.88,1856,226,12.18,77,3.39,84.14,4.32,Monitor
+R00999,RailPartner Station 071,RailPartner Station 091,Capital Intercity,Regional,177.1,4930,1679,34.06,121969.35,8004.60,1679,203,12.09,70,3.45,84.84,4.77,Monitor
+R01076,RailPartner Station 189,RailPartner Station 066,Capital Intercity,Regional,181.5,5064,1699,33.55,123173.58,7973.41,1699,215,12.65,76,3.69,83.99,4.69,Monitor
+R00294,RailPartner Station 071,RailPartner Station 012,Eastern Regional,Regional,193.9,4706,1605,34.11,124214.51,7969.99,1605,181,11.28,60,3.73,83.44,4.97,Monitor
+R00716,RailPartner Station 230,RailPartner Station 142,Anglia Rail Services,Regional,199.6,4675,1584,33.88,126276.37,7960.17,1584,180,11.36,69,3.71,85.96,5.03,Monitor
+R01078,RailPartner Station 167,RailPartner Station 175,Western Express,Regional,172.3,5299,1755,33.12,120438.22,7918.95,1755,197,11.23,67,3.57,84.81,4.51,Monitor
+R00849,RailPartner Station 055,RailPartner Station 012,Western Express,Regional,190.9,4644,1563,33.66,121488.34,7907.43,1563,210,13.44,81,3.81,84.13,5.06,Monitor
+R00136,RailPartner Station 042,RailPartner Station 089,Central Metro Rail,Regional,212.0,4523,1512,33.43,126011.46,7906.48,1512,167,11.04,48,3.22,83.91,5.23,Monitor
+R00932,RailPartner Station 183,RailPartner Station 044,Anglia Rail Services,Regional,202.7,4571,1508,32.99,124769.73,7889.49,1508,162,10.74,61,3.38,84.60,5.23,Monitor
+R01192,RailPartner Station 183,RailPartner Station 120,Southern Coast Rail,Regional,178.8,5005,1646,32.89,119058.71,7887.10,1646,200,12.15,62,3.41,83.77,4.79,Monitor
+R00047,RailPartner Station 032,RailPartner Station 038,Highland Connect,Regional,178.1,4942,1667,33.73,118825.45,7877.35,1667,194,11.64,71,3.37,84.06,4.73,Monitor
+R00740,RailPartner Station 138,RailPartner Station 065,Western Express,Regional,200.2,4562,1527,33.47,123356.88,7873.85,1527,206,13.49,77,3.95,84.66,5.16,Monitor
+R00934,RailPartner Station 209,RailPartner Station 008,Western Express,Regional,191.5,4754,1572,33.07,122150.12,7848.91,1572,189,12.02,67,3.56,84.45,4.99,Monitor
+R01107,RailPartner Station 141,RailPartner Station 011,Anglia Rail Services,Regional,169.3,5161,1747,33.85,117305.40,7843.20,1747,210,12.02,66,3.71,84.50,4.49,Monitor
+R00910,RailPartner Station 123,RailPartner Station 201,Highland Connect,Regional,207.6,4651,1508,32.42,124001.29,7829.48,1508,157,10.41,50,3.68,86.35,5.19,Monitor
+R00356,RailPartner Station 096,RailPartner Station 156,Anglia Rail Services,Regional,211.0,4515,1491,33.02,124766.95,7827.71,1491,160,10.73,52,3.20,84.42,5.25,Monitor
+R00846,RailPartner Station 080,RailPartner Station 027,Capital Intercity,Regional,169.4,4977,1706,34.28,119373.06,7826.94,1706,206,12.08,83,3.23,84.03,4.59,Monitor
+R00564,RailPartner Station 164,RailPartner Station 060,Coastal Link,Regional,193.8,4697,1585,33.74,121006.43,7815.52,1585,179,11.29,65,3.32,84.99,4.93,Monitor
+R00538,RailPartner Station 222,RailPartner Station 158,Capital Intercity,Regional,161.6,5117,1735,33.91,117501.88,7806.62,1735,213,12.28,74,3.34,83.41,4.50,Monitor
+R00621,RailPartner Station 027,RailPartner Station 109,Eastern Regional,Regional,183.0,4901,1630,33.26,120284.42,7806.24,1630,177,10.86,67,3.15,86.21,4.79,Monitor
+R00928,RailPartner Station 094,RailPartner Station 160,Welsh Regional Rail,Regional,184.1,4797,1633,34.04,120404.51,7793.76,1633,171,10.47,63,3.23,86.56,4.77,Monitor
+R00337,RailPartner Station 180,RailPartner Station 150,Northern Connect Rail,Regional,195.4,4707,1564,33.23,120408.20,7780.04,1564,186,11.89,54,3.96,84.70,4.97,Monitor
+R00247,RailPartner Station 056,RailPartner Station 067,Western Express,Regional,183.8,4677,1603,34.27,119846.97,7773.62,1603,178,11.10,68,3.46,85.59,4.85,Monitor
+R00121,RailPartner Station 159,RailPartner Station 188,Eastern Regional,Regional,195.9,4744,1520,32.04,119408.00,7766.27,1520,162,10.66,65,3.28,86.78,5.11,Monitor
+R01155,RailPartner Station 213,RailPartner Station 119,Capital Intercity,Regional,207.2,4519,1483,32.82,121214.53,7735.12,1483,179,12.07,56,3.71,83.91,5.22,Monitor
+R01075,RailPartner Station 239,RailPartner Station 192,Central Metro Rail,Regional,206.9,4424,1483,33.52,120913.18,7721.74,1483,160,10.79,66,3.23,84.67,5.21,Monitor
+R01072,RailPartner Station 240,RailPartner Station 145,Anglia Rail Services,Regional,182.5,4761,1623,34.09,119453.02,7706.87,1623,188,11.58,67,3.23,85.94,4.75,Monitor
+R01090,RailPartner Station 183,RailPartner Station 203,Western Express,Regional,178.2,4698,1610,34.27,117956.89,7702.64,1610,202,12.55,69,3.65,84.30,4.78,Monitor
+R00768,RailPartner Station 166,RailPartner Station 128,Western Express,Regional,196.1,4709,1577,33.49,119787.44,7697.94,1577,179,11.35,57,3.56,85.20,4.88,Monitor
+R00815,RailPartner Station 184,RailPartner Station 012,Coastal Link,Regional,218.5,4384,1408,32.12,123108.76,7695.24,1408,171,12.14,68,3.51,85.51,5.47,Monitor
+R00418,RailPartner Station 240,RailPartner Station 044,Welsh Regional Rail,Regional,199.3,4494,1510,33.60,120517.29,7678.05,1510,150,9.93,52,3.25,86.05,5.08,Monitor
+R00231,RailPartner Station 125,RailPartner Station 214,Highland Connect,Regional,218.1,4361,1395,31.99,122118.14,7677.88,1395,173,12.40,59,3.39,84.16,5.50,Monitor
+R00957,RailPartner Station 223,RailPartner Station 035,Western Express,Regional,184.7,4907,1609,32.79,118641.10,7666.74,1609,164,10.19,43,4.03,84.26,4.76,Monitor
+R00113,RailPartner Station 065,RailPartner Station 121,Eastern Regional,Regional,144.8,5625,1878,33.39,111813.21,7627.76,1878,218,11.61,81,3.70,84.71,4.06,Monitor
+R01183,RailPartner Station 144,RailPartner Station 153,Eastern Regional,Regional,159.9,5361,1769,33.00,114593.86,7618.91,1769,192,10.85,59,3.75,83.75,4.31,Monitor
+R01011,RailPartner Station 246,RailPartner Station 232,Eastern Regional,Regional,145.3,5598,1860,33.23,111923.72,7616.21,1860,238,12.80,88,3.72,85.06,4.09,Monitor
+R00270,RailPartner Station 199,RailPartner Station 164,Western Express,Regional,202.5,4521,1496,33.09,119573.74,7612.94,1496,157,10.49,56,3.38,86.39,5.09,Monitor
+R01119,RailPartner Station 114,RailPartner Station 192,Midlands Railways,Regional,181.4,4677,1588,33.95,115486.44,7609.56,1588,195,12.28,71,3.59,84.12,4.79,Monitor
+R00028,RailPartner Station 151,RailPartner Station 011,Central Metro Rail,Regional,170.4,4887,1652,33.80,115075.21,7604.30,1652,185,11.20,75,3.40,85.56,4.60,Monitor
+R00754,RailPartner Station 149,RailPartner Station 057,Northern Connect Rail,Regional,214.3,4432,1417,31.97,121115.61,7569.09,1417,172,12.14,68,3.59,85.70,5.34,Monitor
+R00993,RailPartner Station 127,RailPartner Station 237,CrossCountry Connect,Regional,161.5,5266,1728,32.81,113943.42,7568.73,1728,185,10.71,72,3.32,86.06,4.38,Monitor
+R00234,RailPartner Station 194,RailPartner Station 159,CrossCountry Connect,Regional,168.7,4892,1652,33.77,112931.43,7565.86,1652,206,12.47,77,4.10,84.53,4.58,Monitor
+R01122,RailPartner Station 002,RailPartner Station 168,Eastern Regional,Regional,197.2,4472,1506,33.68,117878.16,7543.86,1506,156,10.36,61,3.21,85.88,5.01,Monitor
+R01123,RailPartner Station 040,RailPartner Station 129,Eastern Regional,Regional,154.7,5143,1718,33.40,111181.50,7543.04,1718,209,12.17,81,3.95,85.44,4.39,Monitor
+R01052,RailPartner Station 030,RailPartner Station 016,Southern Coast Rail,Regional,157.4,5122,1733,33.83,111560.59,7539.62,1733,182,10.50,67,3.64,85.16,4.35,Monitor
+R00950,RailPartner Station 057,RailPartner Station 168,Capital Intercity,Regional,200.5,4259,1469,34.49,117502.93,7533.41,1469,158,10.76,61,3.13,86.94,5.13,Monitor
+R00007,RailPartner Station 243,RailPartner Station 141,Western Express,Regional,148.4,5141,1775,34.53,110493.38,7531.02,1775,200,11.27,74,3.64,84.86,4.24,Monitor
+R00633,RailPartner Station 048,RailPartner Station 075,CrossCountry Connect,Regional,209.5,4423,1424,32.20,119504.18,7524.97,1424,142,9.97,43,3.54,85.62,5.28,Monitor
+R00891,RailPartner Station 221,RailPartner Station 083,Central Metro Rail,Regional,194.5,4351,1513,34.77,117330.55,7516.05,1513,179,11.83,63,3.76,84.56,4.97,Monitor
+R00548,RailPartner Station 169,RailPartner Station 198,Midlands Railways,Regional,207.9,4420,1451,32.83,119586.68,7512.70,1451,166,11.44,50,3.69,84.44,5.18,Monitor
+R00647,RailPartner Station 003,RailPartner Station 099,Central Metro Rail,Regional,168.5,4954,1688,34.07,112983.83,7505.02,1688,183,10.84,66,3.33,85.74,4.45,Monitor
+R01186,RailPartner Station 038,RailPartner Station 055,CrossCountry Connect,Regional,187.9,4859,1586,32.64,117310.00,7497.97,1586,163,10.28,55,3.40,85.92,4.73,Monitor
+R00666,RailPartner Station 186,RailPartner Station 029,Southern Coast Rail,Regional,143.2,5480,1832,33.43,107828.87,7492.63,1832,213,11.63,80,3.80,85.49,4.09,Monitor
+R00868,RailPartner Station 073,RailPartner Station 210,Southern Coast Rail,Regional,181.8,4739,1566,33.04,115097.93,7488.86,1566,154,9.83,56,3.34,86.40,4.78,Monitor
+R00001,RailPartner Station 228,RailPartner Station 082,Central Metro Rail,Regional,174.9,4789,1600,33.41,113689.77,7483.26,1600,189,11.81,67,3.59,85.33,4.68,Monitor
+R00578,RailPartner Station 127,RailPartner Station 244,CrossCountry Connect,Regional,177.1,4846,1608,33.18,113938.47,7463.37,1608,194,12.06,72,3.48,85.40,4.64,Monitor
+R00473,RailPartner Station 048,RailPartner Station 209,Eastern Regional,Regional,193.7,4352,1491,34.26,115897.28,7451.80,1491,172,11.54,62,3.75,85.65,5.00,Monitor
+R00583,RailPartner Station 166,RailPartner Station 211,Eastern Regional,Regional,169.1,4659,1621,34.79,111581.96,7451.61,1621,179,11.04,52,3.36,84.85,4.60,Monitor
+R00468,RailPartner Station 050,RailPartner Station 108,Central Metro Rail,Regional,190.9,4430,1506,34.00,116017.16,7450.98,1506,180,11.95,60,3.78,85.08,4.95,Monitor
+R00720,RailPartner Station 133,RailPartner Station 036,CrossCountry Connect,Regional,206.2,4412,1448,32.82,117412.52,7449.89,1448,148,10.22,55,3.23,86.10,5.14,Monitor
+R00983,RailPartner Station 187,RailPartner Station 249,Northern Connect Rail,Regional,169.6,4918,1634,33.22,113407.47,7440.46,1634,192,11.75,63,3.76,84.35,4.55,Monitor
+R00132,RailPartner Station 073,RailPartner Station 099,Northern Connect Rail,Regional,176.8,4746,1577,33.23,113733.01,7434.97,1577,176,11.16,53,3.29,84.50,4.71,Monitor
+R00102,RailPartner Station 182,RailPartner Station 115,Eastern Regional,Regional,154.8,4993,1716,34.37,109644.93,7434.83,1716,205,11.95,66,3.92,84.25,4.33,Monitor
+R01133,RailPartner Station 250,RailPartner Station 229,Central Metro Rail,Regional,215.8,4098,1385,33.80,116371.58,7434.22,1385,157,11.34,47,3.65,85.32,5.37,Monitor
+R00090,RailPartner Station 227,RailPartner Station 180,CrossCountry Connect,Regional,185.0,4516,1554,34.41,114053.54,7429.83,1554,169,10.88,72,3.52,86.01,4.78,Monitor
+R00969,RailPartner Station 106,RailPartner Station 027,Eastern Regional,Regional,153.1,5100,1735,34.02,109618.66,7420.42,1735,194,11.18,65,3.59,85.73,4.28,Monitor
+R00020,RailPartner Station 007,RailPartner Station 045,Welsh Regional Rail,Regional,170.7,4999,1634,32.69,113704.22,7408.91,1634,191,11.69,67,3.51,85.47,4.53,Monitor
+R00032,RailPartner Station 142,RailPartner Station 055,Western Express,Regional,158.8,5017,1680,33.49,109667.48,7402.74,1680,215,12.80,84,3.35,84.84,4.41,Monitor
+R00719,RailPartner Station 130,RailPartner Station 143,Capital Intercity,Regional,188.1,4547,1537,33.80,113711.95,7391.60,1537,166,10.80,61,3.26,85.40,4.81,Monitor
+R00156,RailPartner Station 089,RailPartner Station 136,CrossCountry Connect,Regional,192.3,4380,1484,33.88,116345.08,7381.95,1484,176,11.86,62,3.81,83.80,4.97,Monitor
+R01093,RailPartner Station 017,RailPartner Station 206,Anglia Rail Services,Regional,209.6,4110,1387,33.75,116380.62,7376.54,1387,136,9.81,46,3.11,85.44,5.32,Monitor
+R00158,RailPartner Station 168,RailPartner Station 059,Anglia Rail Services,Regional,194.3,4492,1467,32.66,116868.77,7375.59,1467,160,10.91,60,3.43,84.93,5.03,Monitor
+R01003,RailPartner Station 043,RailPartner Station 192,Western Express,Regional,183.2,4664,1505,32.27,112915.83,7366.68,1505,166,11.03,58,3.92,85.21,4.89,Monitor
+R00715,RailPartner Station 243,RailPartner Station 112,Coastal Link,Regional,161.8,5087,1673,32.89,110906.79,7365.46,1673,184,11.00,59,3.99,85.60,4.40,Monitor
+R00540,RailPartner Station 009,RailPartner Station 020,Central Metro Rail,Regional,199.0,4392,1478,33.65,117317.56,7364.52,1478,180,12.18,68,3.88,84.35,4.98,Monitor
+R00631,RailPartner Station 187,RailPartner Station 212,Eastern Regional,Regional,140.1,5307,1815,34.20,107034.19,7357.77,1815,209,11.52,86,3.63,83.97,4.05,Monitor
+R01039,RailPartner Station 121,RailPartner Station 175,Anglia Rail Services,Regional,128.9,5693,1910,33.55,104655.17,7357.21,1910,246,12.88,91,3.88,83.81,3.85,Monitor
+R00417,RailPartner Station 058,RailPartner Station 231,CrossCountry Connect,Regional,196.2,4408,1480,33.58,114975.46,7350.01,1480,151,10.20,57,3.38,84.82,4.97,Monitor
+R00745,RailPartner Station 249,RailPartner Station 151,Coastal Link,Regional,203.8,4332,1443,33.31,116197.51,7348.19,1443,180,12.47,48,3.56,83.52,5.09,Monitor
+R00217,RailPartner Station 234,RailPartner Station 239,Eastern Regional,Regional,214.9,4045,1357,33.55,117970.66,7345.96,1357,167,12.31,61,3.59,85.30,5.41,Monitor
+R00436,RailPartner Station 129,RailPartner Station 047,Midlands Railways,Regional,192.6,4402,1481,33.64,115409.44,7341.98,1481,174,11.75,53,3.81,84.68,4.96,Monitor
+R00571,RailPartner Station 156,RailPartner Station 236,Midlands Railways,Regional,179.2,4684,1582,33.77,112543.79,7339.66,1582,185,11.69,74,3.45,84.67,4.64,Monitor
+R00120,RailPartner Station 185,RailPartner Station 229,Eastern Regional,Regional,198.9,4560,1467,32.17,115742.66,7314.08,1467,176,12.00,70,3.54,85.65,4.99,Monitor
+R01045,RailPartner Station 076,RailPartner Station 014,Midlands Railways,Regional,191.1,4455,1502,33.71,114192.65,7301.77,1502,169,11.25,56,3.57,83.94,4.86,Monitor
+R01048,RailPartner Station 082,RailPartner Station 250,Northern Connect Rail,Regional,193.6,4267,1432,33.56,113307.32,7301.48,1432,169,11.80,61,3.35,84.59,5.10,Monitor
+R00511,RailPartner Station 075,RailPartner Station 241,Central Metro Rail,Regional,176.2,4440,1544,34.77,112151.95,7300.88,1544,165,10.69,59,3.67,85.22,4.73,Monitor
+R00513,RailPartner Station 020,RailPartner Station 138,CrossCountry Connect,Regional,215.5,3947,1355,34.33,115790.60,7299.02,1355,142,10.48,55,3.14,87.37,5.39,Monitor
+R00352,RailPartner Station 116,RailPartner Station 250,Capital Intercity,Regional,166.5,4967,1618,32.57,109760.33,7292.96,1618,171,10.57,59,3.42,85.60,4.51,Monitor
+R00872,RailPartner Station 209,RailPartner Station 241,CrossCountry Connect,Regional,196.0,4378,1458,33.30,114748.60,7292.63,1458,158,10.84,53,3.75,85.37,5.00,Monitor
+R01187,RailPartner Station 128,RailPartner Station 054,Southern Coast Rail,Regional,190.6,4259,1445,33.93,113723.24,7282.47,1445,181,12.53,59,3.53,84.07,5.04,Monitor
+R00823,RailPartner Station 106,RailPartner Station 173,Welsh Regional Rail,Regional,146.4,5276,1765,33.45,106885.84,7279.67,1765,212,12.01,67,3.44,83.92,4.12,Monitor
+R00283,RailPartner Station 033,RailPartner Station 145,CrossCountry Connect,Regional,193.7,4262,1460,34.26,112882.93,7274.03,1460,154,10.55,57,3.73,86.08,4.98,Monitor
+R00769,RailPartner Station 105,RailPartner Station 040,Welsh Regional Rail,Regional,150.3,5274,1724,32.69,106309.89,7269.40,1724,178,10.32,62,3.39,86.61,4.22,Monitor
+R00055,RailPartner Station 120,RailPartner Station 026,Western Express,Regional,183.6,4312,1484,34.42,112927.38,7267.45,1484,170,11.46,60,3.68,84.88,4.90,Monitor
+R00943,RailPartner Station 246,RailPartner Station 177,Welsh Regional Rail,Regional,167.7,4803,1614,33.60,109258.95,7257.74,1614,175,10.84,58,3.62,85.32,4.50,Monitor
+R00677,RailPartner Station 133,RailPartner Station 048,Northern Connect Rail,Regional,175.8,4594,1545,33.63,111475.47,7256.97,1545,181,11.72,69,3.60,84.41,4.70,Monitor
+R01064,RailPartner Station 212,RailPartner Station 046,Western Express,Regional,183.1,4717,1523,32.29,111895.01,7227.40,1523,183,12.02,79,3.14,85.12,4.75,Monitor
+R00423,RailPartner Station 185,RailPartner Station 174,Capital Intercity,Regional,151.4,5142,1722,33.49,106874.49,7223.00,1722,185,10.74,62,3.46,84.87,4.19,Monitor
+R00074,RailPartner Station 050,RailPartner Station 109,Southern Coast Rail,Regional,164.8,4777,1593,33.35,106923.23,7219.73,1593,167,10.48,67,3.22,87.08,4.53,Monitor
+R00302,RailPartner Station 096,RailPartner Station 169,Capital Intercity,Regional,192.8,4311,1448,33.59,111734.42,7200.49,1448,150,10.36,50,3.94,84.67,4.97,Monitor
+R00837,RailPartner Station 184,RailPartner Station 050,Capital Intercity,Regional,201.7,4373,1421,32.49,113615.60,7180.22,1421,170,11.96,58,3.54,84.18,5.05,Monitor
+R01015,RailPartner Station 200,RailPartner Station 079,Northern Connect Rail,Regional,147.0,5339,1757,32.91,104632.67,7172.98,1757,224,12.75,84,3.94,84.15,4.08,Monitor
+R00584,RailPartner Station 196,RailPartner Station 125,Highland Connect,Regional,201.7,4258,1412,33.16,112227.05,7167.43,1412,157,11.12,43,3.77,84.18,5.08,Monitor
+R00670,RailPartner Station 098,RailPartner Station 207,Midlands Railways,Regional,177.5,4556,1522,33.41,109205.80,7138.82,1522,187,12.29,64,3.36,85.00,4.69,Monitor
+R00452,RailPartner Station 069,RailPartner Station 106,Midlands Railways,Regional,181.3,4496,1501,33.39,108451.92,7136.78,1501,172,11.46,57,3.42,83.99,4.75,Monitor
+R00224,RailPartner Station 024,RailPartner Station 034,Central Metro Rail,Regional,149.6,5114,1698,33.20,104073.05,7122.17,1698,188,11.07,48,3.79,82.86,4.19,Monitor
+R00203,RailPartner Station 057,RailPartner Station 154,Welsh Regional Rail,Regional,210.2,4141,1345,32.48,114415.94,7111.94,1345,158,11.75,54,3.58,84.25,5.29,Monitor
+R00528,RailPartner Station 021,RailPartner Station 199,Eastern Regional,Regional,160.4,4975,1629,32.74,107431.07,7108.14,1629,185,11.36,75,3.47,86.30,4.36,Monitor
+R00844,RailPartner Station 092,RailPartner Station 185,Eastern Regional,Regional,169.0,4750,1568,33.01,107882.88,7096.58,1568,198,12.63,68,4.01,84.00,4.53,Monitor
+R00076,RailPartner Station 135,RailPartner Station 193,Highland Connect,Regional,165.4,4821,1603,33.25,106571.49,7078.77,1603,187,11.67,74,3.55,85.13,4.42,Monitor
+R00654,RailPartner Station 179,RailPartner Station 169,Central Metro Rail,Regional,173.6,4577,1557,34.02,108605.56,7069.30,1557,177,11.37,61,3.56,85.65,4.54,Monitor
+R01184,RailPartner Station 169,RailPartner Station 194,Southern Coast Rail,Regional,167.3,4591,1566,34.11,106998.75,7068.45,1566,164,10.47,49,3.63,84.35,4.51,Monitor
+R01080,RailPartner Station 040,RailPartner Station 186,Western Express,Regional,132.4,5411,1830,33.82,101655.72,7063.02,1830,212,11.58,80,3.50,85.45,3.86,Monitor
+R00490,RailPartner Station 022,RailPartner Station 144,Midlands Railways,Regional,125.1,5472,1889,34.52,97910.18,7058.53,1889,210,11.12,69,3.92,84.81,3.74,Monitor
+R01060,RailPartner Station 132,RailPartner Station 142,Northern Connect Rail,Regional,151.2,4900,1652,33.71,104222.32,7054.29,1652,182,11.02,73,3.66,86.18,4.27,Monitor
+R01099,RailPartner Station 036,RailPartner Station 137,Northern Connect Rail,Regional,174.2,4571,1531,33.49,107663.44,7052.62,1531,159,10.39,59,3.30,85.52,4.61,Monitor
+R00574,RailPartner Station 058,RailPartner Station 188,Southern Coast Rail,Regional,168.5,4653,1547,33.25,105842.43,7052.11,1547,161,10.41,64,3.25,85.79,4.56,Monitor
+R00825,RailPartner Station 128,RailPartner Station 162,Highland Connect,Regional,176.2,4704,1543,32.80,105620.90,7049.06,1543,182,11.80,63,3.50,83.68,4.57,Monitor
+R00387,RailPartner Station 095,RailPartner Station 155,Northern Connect Rail,Regional,202.6,4204,1402,33.35,111690.48,7045.78,1402,173,12.34,52,4.32,84.25,5.03,Monitor
+R00300,RailPartner Station 059,RailPartner Station 148,Southern Coast Rail,Regional,169.4,4784,1554,32.48,105516.48,7044.71,1554,189,12.16,63,3.78,84.51,4.53,Monitor
+R00933,RailPartner Station 072,RailPartner Station 121,Coastal Link,Regional,156.4,4937,1648,33.38,104809.65,7044.53,1648,171,10.38,58,3.20,85.51,4.27,Monitor
+R01138,RailPartner Station 112,RailPartner Station 039,CrossCountry Connect,Regional,162.8,4669,1606,34.40,106167.40,7044.31,1606,184,11.46,68,3.61,85.31,4.39,Monitor
+R00396,RailPartner Station 201,RailPartner Station 231,Midlands Railways,Regional,194.4,4302,1420,33.01,109424.97,7039.52,1420,169,11.90,46,3.64,84.32,4.96,Monitor
+R00911,RailPartner Station 168,RailPartner Station 092,Highland Connect,Regional,183.8,4080,1423,34.88,109320.53,7035.48,1423,174,12.23,59,3.87,84.30,4.94,Monitor
+R00575,RailPartner Station 094,RailPartner Station 046,Welsh Regional Rail,Regional,183.8,4369,1476,33.78,108266.66,7027.17,1476,162,10.98,59,3.47,85.92,4.76,Monitor
+R00813,RailPartner Station 137,RailPartner Station 011,Coastal Link,Regional,137.4,5315,1749,32.91,101564.12,7025.37,1749,193,11.03,75,3.65,84.79,4.02,Monitor
+R00135,RailPartner Station 229,RailPartner Station 215,Coastal Link,Regional,188.0,4235,1445,34.12,107829.69,7015.83,1445,177,12.25,55,3.61,83.25,4.86,Monitor
+R00060,RailPartner Station 249,RailPartner Station 132,Central Metro Rail,Regional,184.3,4554,1477,32.43,108882.66,6999.96,1477,170,11.51,58,3.55,85.32,4.74,Monitor
+R00729,RailPartner Station 082,RailPartner Station 230,Midlands Railways,Regional,180.8,4275,1466,34.29,106524.13,6989.53,1466,143,9.75,49,3.45,86.38,4.77,Monitor
+R01177,RailPartner Station 222,RailPartner Station 076,Highland Connect,Regional,140.4,5171,1753,33.90,100443.30,6979.11,1753,197,11.24,78,3.32,84.54,3.98,Monitor
+R00277,RailPartner Station 211,RailPartner Station 126,Coastal Link,Regional,168.3,4552,1570,34.49,106410.99,6969.49,1570,206,13.12,74,3.95,83.66,4.44,Monitor
+R00169,RailPartner Station 040,RailPartner Station 204,Anglia Rail Services,Regional,142.2,5204,1708,32.82,100775.37,6969.30,1708,161,9.43,52,3.14,86.12,4.08,Monitor
+R01136,RailPartner Station 037,RailPartner Station 107,Highland Connect,Regional,189.6,4271,1425,33.36,107100.22,6954.14,1425,174,12.21,58,3.98,83.65,4.88,Monitor
+R01152,RailPartner Station 040,RailPartner Station 075,CrossCountry Connect,Regional,151.0,4940,1658,33.56,103265.65,6943.45,1658,187,11.28,58,3.87,84.80,4.19,Monitor
+R00462,RailPartner Station 241,RailPartner Station 226,Coastal Link,Regional,167.8,4619,1513,32.76,105303.98,6938.82,1513,154,10.18,53,3.42,86.28,4.59,Monitor
+R01065,RailPartner Station 146,RailPartner Station 090,CrossCountry Connect,Regional,169.3,4671,1531,32.78,105307.37,6921.23,1531,182,11.89,59,3.36,84.69,4.52,Monitor
+R00507,RailPartner Station 041,RailPartner Station 248,Northern Connect Rail,Regional,175.1,4426,1488,33.62,106372.96,6905.26,1488,193,12.97,54,3.95,83.03,4.64,Monitor
+R00760,RailPartner Station 023,RailPartner Station 112,Highland Connect,Regional,140.2,5005,1709,34.15,99281.18,6899.60,1709,179,10.47,63,3.41,86.48,4.04,Monitor
+R01127,RailPartner Station 044,RailPartner Station 125,Welsh Regional Rail,Regional,194.4,4015,1366,34.02,107442.88,6869.66,1366,135,9.88,55,3.13,87.03,5.03,Monitor
+R00541,RailPartner Station 117,RailPartner Station 136,Welsh Regional Rail,Regional,174.5,4480,1477,32.97,104979.08,6862.27,1477,174,11.78,61,3.62,85.37,4.65,Monitor
+R00794,RailPartner Station 101,RailPartner Station 013,Central Metro Rail,Regional,155.3,4879,1587,32.53,101731.60,6857.41,1587,169,10.65,54,3.64,85.60,4.32,Monitor
+R00137,RailPartner Station 022,RailPartner Station 036,Eastern Regional,Regional,170.0,4532,1479,32.63,103931.03,6853.45,1479,187,12.64,63,3.66,84.95,4.63,Monitor
+R00675,RailPartner Station 150,RailPartner Station 057,CrossCountry Connect,Regional,157.3,4453,1553,34.88,101840.65,6837.95,1553,155,9.98,55,3.40,86.68,4.40,Monitor
+R01050,RailPartner Station 227,RailPartner Station 082,Northern Connect Rail,Regional,161.9,4483,1528,34.08,102349.73,6832.82,1528,182,11.91,57,4.04,84.29,4.47,Monitor
+R01111,RailPartner Station 234,RailPartner Station 246,CrossCountry Connect,Regional,157.9,4727,1578,33.38,102374.36,6830.90,1578,187,11.85,73,3.42,85.56,4.33,Monitor
+R01035,RailPartner Station 071,RailPartner Station 098,Southern Coast Rail,Regional,133.3,5186,1776,34.25,97211.80,6830.08,1776,186,10.47,60,3.60,85.92,3.85,Monitor
+R00876,RailPartner Station 215,RailPartner Station 014,Capital Intercity,Regional,195.9,4068,1364,33.53,107996.10,6829.82,1364,159,11.66,48,3.72,84.29,5.01,Monitor
+R01137,RailPartner Station 243,RailPartner Station 057,Eastern Regional,Regional,150.6,4948,1623,32.80,100367.72,6826.36,1623,199,12.26,71,3.54,85.76,4.21,Monitor
+R00130,RailPartner Station 154,RailPartner Station 117,Midlands Railways,Regional,193.0,4218,1402,33.24,107455.52,6824.31,1402,158,11.27,46,3.79,83.28,4.87,Monitor
+R00851,RailPartner Station 139,RailPartner Station 212,Capital Intercity,Regional,121.6,5256,1822,34.67,94316.87,6822.07,1822,203,11.14,86,4.27,85.28,3.74,Monitor
+R00808,RailPartner Station 106,RailPartner Station 037,CrossCountry Connect,Regional,164.9,4540,1507,33.19,103068.44,6817.04,1507,191,12.67,73,3.51,83.95,4.52,Monitor
+R01087,RailPartner Station 180,RailPartner Station 173,Welsh Regional Rail,Regional,149.6,4897,1602,32.71,99774.24,6812.04,1602,184,11.49,67,3.59,85.16,4.25,Monitor
+R00714,RailPartner Station 184,RailPartner Station 006,Southern Coast Rail,Regional,210.6,4013,1298,32.34,108476.89,6803.74,1298,148,11.40,52,3.91,85.36,5.24,Monitor
+R00145,RailPartner Station 117,RailPartner Station 065,Northern Connect Rail,Regional,149.6,4972,1624,32.66,100936.01,6803.18,1624,171,10.53,60,3.61,84.72,4.19,Monitor
+R00688,RailPartner Station 014,RailPartner Station 087,Coastal Link,Regional,176.3,4323,1487,34.40,103928.66,6793.28,1487,174,11.70,60,3.47,84.78,4.57,Monitor
+R00797,RailPartner Station 045,RailPartner Station 223,Welsh Regional Rail,Regional,184.6,4159,1418,34.09,102911.77,6787.69,1418,157,11.07,48,3.82,84.58,4.79,Monitor
+R00848,RailPartner Station 032,RailPartner Station 102,CrossCountry Connect,Regional,154.6,4637,1544,33.30,100030.73,6782.71,1544,171,11.08,47,3.82,85.43,4.39,Monitor
+R01014,RailPartner Station 185,RailPartner Station 082,Northern Connect Rail,Regional,164.6,4644,1532,32.99,102506.13,6776.27,1532,162,10.57,67,3.32,86.55,4.42,Monitor
+R01103,RailPartner Station 229,RailPartner Station 079,Welsh Regional Rail,Regional,141.0,5046,1665,33.00,98805.44,6775.46,1665,190,11.41,58,3.46,85.86,4.07,Monitor
+R00644,RailPartner Station 211,RailPartner Station 205,Southern Coast Rail,Regional,149.8,4802,1601,33.34,99225.20,6751.90,1601,182,11.37,66,3.28,85.25,4.22,Monitor
+R00967,RailPartner Station 046,RailPartner Station 212,Central Metro Rail,Regional,147.1,4643,1614,34.76,97206.69,6742.24,1614,210,13.01,79,3.77,83.28,4.18,Monitor
+R01019,RailPartner Station 167,RailPartner Station 151,Anglia Rail Services,Regional,152.6,4767,1590,33.35,100000.67,6727.90,1590,177,11.13,55,3.36,84.80,4.23,Monitor
+R00211,RailPartner Station 089,RailPartner Station 197,Northern Connect Rail,Regional,175.2,4313,1459,33.83,104027.81,6724.15,1459,148,10.14,42,3.64,85.60,4.61,Monitor
+R00723,RailPartner Station 008,RailPartner Station 236,Highland Connect,Regional,154.8,4785,1567,32.75,98665.57,6712.78,1567,186,11.87,69,3.88,84.41,4.28,Monitor
+R00082,RailPartner Station 098,RailPartner Station 061,Northern Connect Rail,Regional,170.5,4420,1477,33.42,102260.35,6705.86,1477,180,12.19,55,3.92,82.99,4.54,Monitor
+R00412,RailPartner Station 116,RailPartner Station 101,Coastal Link,Regional,115.4,5648,1892,33.50,92255.42,6704.06,1892,217,11.47,67,3.56,85.28,3.54,Monitor
+R00048,RailPartner Station 122,RailPartner Station 079,Northern Connect Rail,Regional,142.0,5134,1644,32.02,98315.22,6701.46,1644,182,11.07,55,3.93,84.99,4.08,Monitor
+R00884,RailPartner Station 193,RailPartner Station 225,Eastern Regional,Regional,161.8,4702,1521,32.35,99529.15,6692.49,1521,180,11.83,60,3.81,84.32,4.40,Monitor
+R00134,RailPartner Station 235,RailPartner Station 054,Welsh Regional Rail,Regional,199.8,4090,1323,32.35,105548.04,6681.78,1323,149,11.26,54,3.11,84.76,5.05,Monitor
+R00767,RailPartner Station 215,RailPartner Station 116,Anglia Rail Services,Regional,151.1,5043,1571,31.15,97514.77,6669.06,1571,188,11.97,49,4.08,84.77,4.25,Monitor
+R00496,RailPartner Station 164,RailPartner Station 074,Highland Connect,Regional,150.7,4740,1589,33.52,98436.99,6665.22,1589,187,11.77,78,3.15,84.71,4.19,Monitor
+R00116,RailPartner Station 049,RailPartner Station 082,Coastal Link,Regional,194.9,4114,1335,32.45,103703.34,6657.47,1335,151,11.31,54,3.45,84.34,4.99,Monitor
+R00595,RailPartner Station 180,RailPartner Station 119,Eastern Regional,Regional,144.4,4711,1651,35.05,97745.32,6653.86,1651,182,11.02,64,3.16,85.46,4.03,Protect High Demand
+R01063,RailPartner Station 066,RailPartner Station 216,Coastal Link,Regional,133.8,4997,1692,33.86,95066.74,6646.29,1692,193,11.41,74,3.46,84.78,3.93,Monitor
+R00307,RailPartner Station 097,RailPartner Station 105,Northern Connect Rail,Regional,137.8,5060,1689,33.38,95522.76,6644.00,1689,191,11.31,69,3.81,83.94,3.93,Monitor
+R01190,RailPartner Station 232,RailPartner Station 129,Highland Connect,Regional,119.3,5192,1790,34.48,92291.73,6641.78,1790,201,11.23,70,3.40,86.31,3.71,Monitor
+R01054,RailPartner Station 179,RailPartner Station 113,Welsh Regional Rail,Regional,162.7,4591,1495,32.56,100769.28,6629.69,1495,179,11.97,72,3.87,84.14,4.43,Monitor
+R00222,RailPartner Station 142,RailPartner Station 119,Northern Connect Rail,Regional,149.4,4790,1605,33.51,97432.35,6628.13,1605,183,11.40,65,3.53,83.80,4.13,Monitor
+R00279,RailPartner Station 060,RailPartner Station 200,Northern Connect Rail,Regional,132.2,5005,1691,33.79,93184.84,6627.40,1691,191,11.30,69,3.30,83.95,3.92,Monitor
+R00867,RailPartner Station 084,RailPartner Station 028,Coastal Link,Regional,140.7,4900,1622,33.10,94297.53,6619.79,1622,173,10.67,65,3.26,86.79,4.08,Monitor
+R00276,RailPartner Station 050,RailPartner Station 094,Northern Connect Rail,Regional,145.0,4771,1598,33.49,95374.39,6618.01,1598,176,11.01,58,3.91,85.00,4.14,Monitor
+R00989,RailPartner Station 097,RailPartner Station 245,Western Express,Regional,156.1,4524,1527,33.75,96374.03,6616.96,1527,176,11.53,57,3.51,84.53,4.33,Monitor
+R01173,RailPartner Station 095,RailPartner Station 017,Coastal Link,Regional,197.7,4040,1304,32.28,102729.46,6608.09,1304,160,12.27,52,3.36,84.89,5.07,Monitor
+R00915,RailPartner Station 235,RailPartner Station 246,Midlands Railways,Regional,134.5,5324,1683,31.61,94991.79,6607.69,1683,224,13.31,80,4.06,83.07,3.93,Monitor
+R00801,RailPartner Station 005,RailPartner Station 181,Southern Coast Rail,Regional,120.3,5482,1823,33.25,92505.59,6589.90,1823,201,11.03,78,3.22,85.82,3.61,Monitor
+R00628,RailPartner Station 084,RailPartner Station 180,Coastal Link,Regional,147.3,4750,1583,33.33,96339.15,6573.76,1583,170,10.74,57,3.37,85.23,4.15,Monitor
+R00366,RailPartner Station 081,RailPartner Station 158,Midlands Railways,Regional,143.3,4784,1603,33.51,94271.60,6553.94,1603,173,10.79,58,3.33,85.19,4.09,Monitor
+R00065,RailPartner Station 186,RailPartner Station 223,Highland Connect,Regional,142.0,4705,1635,34.75,95837.30,6550.30,1635,192,11.74,65,3.42,85.70,4.01,Monitor
+R00944,RailPartner Station 208,RailPartner Station 246,Southern Coast Rail,Regional,110.5,5506,1867,33.91,88921.10,6548.77,1867,208,11.14,75,3.43,85.85,3.51,Monitor
+R00689,RailPartner Station 043,RailPartner Station 233,Midlands Railways,Regional,121.0,5138,1740,33.87,90021.18,6516.44,1740,190,10.92,69,3.31,85.28,3.75,Monitor
+R00347,RailPartner Station 249,RailPartner Station 235,Anglia Rail Services,Regional,156.9,4627,1516,32.76,96748.50,6505.36,1516,168,11.08,62,3.35,84.73,4.29,Monitor
+R01037,RailPartner Station 078,RailPartner Station 096,Anglia Rail Services,Regional,182.4,4053,1332,32.86,99169.08,6501.66,1332,140,10.51,48,3.21,85.11,4.88,Monitor
+R00249,RailPartner Station 164,RailPartner Station 140,Northern Connect Rail,Regional,145.1,4871,1625,33.36,94821.53,6496.51,1625,170,10.46,55,3.32,85.71,4.00,Monitor
+R00308,RailPartner Station 186,RailPartner Station 218,Central Metro Rail,Regional,130.4,4943,1680,33.99,91728.19,6493.04,1680,190,11.31,69,3.59,85.00,3.86,Monitor
+R01200,RailPartner Station 143,RailPartner Station 019,Coastal Link,Regional,168.3,4373,1445,33.04,97810.84,6492.75,1445,167,11.56,56,3.71,84.51,4.49,Monitor
+R01178,RailPartner Station 172,RailPartner Station 174,Coastal Link,Regional,152.7,4723,1546,32.73,97050.38,6485.82,1546,164,10.61,63,3.40,86.12,4.20,Monitor
+R00741,RailPartner Station 037,RailPartner Station 076,Capital Intercity,Regional,152.6,4645,1544,33.24,95620.31,6483.21,1544,169,10.95,62,3.21,86.29,4.20,Monitor
+R01006,RailPartner Station 182,RailPartner Station 142,Central Metro Rail,Regional,134.7,4898,1655,33.79,92566.54,6473.30,1655,185,11.18,54,3.49,83.56,3.91,Monitor
+R00635,RailPartner Station 119,RailPartner Station 009,Central Metro Rail,Regional,146.5,4666,1571,33.67,95312.85,6470.66,1571,205,13.05,76,4.01,83.99,4.12,Monitor
+R00430,RailPartner Station 014,RailPartner Station 227,Coastal Link,Regional,162.7,4216,1452,34.44,95594.36,6461.44,1452,163,11.23,55,3.44,84.83,4.45,Monitor
+R00369,RailPartner Station 003,RailPartner Station 218,CrossCountry Connect,Regional,177.1,4077,1380,33.85,98969.78,6450.46,1380,137,9.93,43,3.05,86.66,4.67,Monitor
+R00306,RailPartner Station 108,RailPartner Station 100,Central Metro Rail,Regional,134.8,4885,1630,33.37,93166.46,6443.23,1630,219,13.44,82,3.90,82.88,3.95,Monitor
+R01132,RailPartner Station 192,RailPartner Station 063,Eastern Regional,Regional,165.0,4247,1431,33.69,96890.35,6426.34,1431,168,11.74,62,3.80,84.67,4.49,Monitor
+R01079,RailPartner Station 024,RailPartner Station 168,Northern Connect Rail,Regional,160.8,4475,1480,33.07,95092.09,6422.48,1480,170,11.49,64,3.70,84.79,4.34,Monitor
+R00886,RailPartner Station 033,RailPartner Station 121,Northern Connect Rail,Regional,122.5,5017,1694,33.77,88769.01,6416.50,1694,232,13.70,80,3.61,82.64,3.79,Monitor
+R00981,RailPartner Station 248,RailPartner Station 234,Northern Connect Rail,Regional,196.6,4007,1266,31.59,99892.45,6412.13,1266,142,11.22,58,3.49,86.68,5.06,Monitor
+R00632,RailPartner Station 112,RailPartner Station 229,Coastal Link,Regional,166.7,4436,1435,32.35,96977.56,6408.41,1435,140,9.76,53,3.33,86.40,4.47,Monitor
+R01057,RailPartner Station 250,RailPartner Station 132,Central Metro Rail,Regional,154.0,4687,1498,31.96,94488.28,6394.20,1498,194,12.95,81,3.75,85.36,4.27,Monitor
+R00364,RailPartner Station 138,RailPartner Station 091,Midlands Railways,Regional,154.9,4397,1464,33.30,94601.50,6388.67,1464,180,12.30,67,3.83,84.00,4.36,Monitor
+R00938,RailPartner Station 213,RailPartner Station 129,Western Express,Regional,146.7,4781,1529,31.98,93067.68,6381.53,1529,197,12.88,58,4.43,82.41,4.17,Monitor
+R01026,RailPartner Station 215,RailPartner Station 105,Midlands Railways,Regional,131.8,4805,1641,34.15,89424.12,6376.34,1641,186,11.33,61,3.80,83.70,3.89,Monitor
+R01108,RailPartner Station 025,RailPartner Station 106,Eastern Regional,Regional,141.1,4832,1581,32.72,93413.67,6375.03,1581,185,11.70,66,3.55,85.46,4.03,Monitor
+R00572,RailPartner Station 193,RailPartner Station 054,Highland Connect,Regional,160.7,4329,1447,33.43,95206.78,6373.34,1447,191,13.20,53,3.63,82.40,4.40,Monitor
+R00722,RailPartner Station 047,RailPartner Station 245,CrossCountry Connect,Regional,163.5,4110,1431,34.82,94871.33,6364.06,1431,159,11.11,69,2.96,85.82,4.45,Monitor
+R00456,RailPartner Station 134,RailPartner Station 086,Highland Connect,Regional,165.0,4227,1433,33.90,96023.23,6362.08,1433,151,10.54,52,3.38,85.55,4.44,Monitor
+R00215,RailPartner Station 029,RailPartner Station 080,Highland Connect,Regional,122.0,5240,1734,33.09,89440.25,6359.81,1734,198,11.42,79,3.36,85.80,3.67,Monitor
+R00613,RailPartner Station 075,RailPartner Station 195,Coastal Link,Regional,139.4,4844,1574,32.49,90440.15,6357.00,1574,194,12.33,68,3.90,85.66,4.04,Monitor
+R00519,RailPartner Station 050,RailPartner Station 059,CrossCountry Connect,Regional,139.2,4754,1597,33.59,92932.56,6355.12,1597,212,13.27,74,3.89,83.73,3.98,Monitor
+R01179,RailPartner Station 131,RailPartner Station 231,Highland Connect,Regional,148.3,4446,1508,33.92,93075.98,6352.36,1508,175,11.60,69,3.45,85.18,4.21,Monitor
+R00008,RailPartner Station 117,RailPartner Station 134,Eastern Regional,Regional,154.1,4337,1486,34.26,94490.85,6352.34,1486,167,11.24,54,3.22,86.21,4.27,Monitor
+R01156,RailPartner Station 022,RailPartner Station 064,Anglia Rail Services,Regional,109.4,5417,1819,33.58,86012.23,6352.23,1819,206,11.32,67,3.51,86.20,3.49,Monitor
+R00925,RailPartner Station 215,RailPartner Station 182,Eastern Regional,Regional,156.8,4452,1457,32.73,94215.06,6342.84,1457,146,10.02,53,3.40,87.04,4.35,Monitor
+R00818,RailPartner Station 227,RailPartner Station 154,Highland Connect,Regional,174.9,3880,1355,34.92,97876.09,6328.40,1355,138,10.18,48,3.62,85.86,4.67,Monitor
+R00940,RailPartner Station 211,RailPartner Station 085,Midlands Railways,Regional,141.0,4653,1563,33.59,91495.60,6320.65,1563,200,12.80,78,3.15,83.19,4.04,Monitor
+R00619,RailPartner Station 111,RailPartner Station 038,Highland Connect,Regional,133.2,4947,1623,32.81,89836.74,6301.34,1623,193,11.89,55,3.90,83.40,3.88,Monitor
+R00753,RailPartner Station 152,RailPartner Station 051,CrossCountry Connect,Regional,134.8,4743,1618,34.11,89221.51,6287.99,1618,198,12.24,69,3.86,84.14,3.89,Monitor
+R00034,RailPartner Station 026,RailPartner Station 056,Midlands Railways,Regional,158.9,4509,1446,32.07,93788.84,6286.52,1446,148,10.24,47,3.48,85.75,4.35,Monitor
+R00304,RailPartner Station 175,RailPartner Station 122,Highland Connect,Regional,127.1,5046,1665,33.00,88166.51,6283.88,1665,198,11.89,68,3.87,84.50,3.77,Monitor
+R00643,RailPartner Station 028,RailPartner Station 115,Central Metro Rail,Regional,117.9,5172,1731,33.47,86475.71,6282.74,1731,223,12.88,88,3.71,84.38,3.63,Monitor
+R01198,RailPartner Station 127,RailPartner Station 199,CrossCountry Connect,Regional,117.3,5043,1705,33.81,86498.72,6282.40,1705,173,10.15,67,3.51,86.03,3.68,Monitor
+R00858,RailPartner Station 039,RailPartner Station 136,CrossCountry Connect,Regional,157.5,4335,1471,33.93,93779.87,6280.67,1471,166,11.28,66,3.35,85.98,4.27,Monitor
+R00348,RailPartner Station 229,RailPartner Station 151,Midlands Railways,Regional,153.5,4309,1455,33.77,92099.55,6277.97,1455,189,12.99,57,4.42,83.69,4.31,Monitor
+R01139,RailPartner Station 137,RailPartner Station 182,Coastal Link,Regional,122.5,5058,1689,33.39,88755.28,6265.92,1689,199,11.78,67,4.14,83.71,3.71,Monitor
+R00576,RailPartner Station 105,RailPartner Station 222,Capital Intercity,Regional,130.0,4968,1603,32.27,88950.91,6265.53,1603,196,12.23,61,4.05,84.39,3.91,Monitor
+R00686,RailPartner Station 049,RailPartner Station 150,Northern Connect Rail,Regional,163.9,4430,1428,32.23,92343.43,6259.78,1428,169,11.83,58,3.95,84.20,4.38,Monitor
+R00011,RailPartner Station 109,RailPartner Station 161,Western Express,Regional,143.9,4725,1576,33.35,90880.55,6255.40,1576,176,11.17,59,3.50,86.22,3.97,Monitor
+R00296,RailPartner Station 079,RailPartner Station 138,Coastal Link,Regional,126.5,4805,1644,34.21,88357.90,6252.12,1644,190,11.56,58,3.42,85.30,3.80,Monitor
+R00906,RailPartner Station 245,RailPartner Station 015,Welsh Regional Rail,Regional,155.4,4456,1474,33.08,92721.03,6235.89,1474,178,12.08,68,3.45,84.28,4.23,Monitor
+R00673,RailPartner Station 047,RailPartner Station 213,Coastal Link,Regional,183.6,3972,1293,32.55,96123.51,6232.22,1293,149,11.52,43,3.75,84.17,4.82,Monitor
+R00566,RailPartner Station 021,RailPartner Station 147,Capital Intercity,Regional,126.1,4866,1635,33.60,88255.38,6227.78,1635,209,12.78,77,4.18,84.05,3.81,Monitor
+R00660,RailPartner Station 205,RailPartner Station 166,Coastal Link,Regional,142.0,4556,1549,34.00,90129.04,6204.00,1549,172,11.10,64,3.80,84.11,4.01,Monitor
+R00371,RailPartner Station 189,RailPartner Station 196,Eastern Regional,Regional,135.1,4707,1600,33.99,89902.55,6196.47,1600,185,11.56,58,3.85,83.94,3.87,Monitor
+R00122,RailPartner Station 071,RailPartner Station 032,Capital Intercity,Regional,127.7,4883,1643,33.65,87536.69,6184.03,1643,189,11.50,66,3.78,85.22,3.76,Monitor
+R00433,RailPartner Station 116,RailPartner Station 147,Highland Connect,Regional,114.4,5090,1704,33.48,85040.17,6172.10,1704,197,11.56,76,3.31,85.79,3.62,Monitor
+R00375,RailPartner Station 235,RailPartner Station 247,Coastal Link,Regional,159.4,4272,1426,33.38,93250.78,6170.13,1426,171,11.99,65,3.31,84.45,4.33,Monitor
+R00843,RailPartner Station 180,RailPartner Station 061,Eastern Regional,Regional,161.8,4188,1384,33.05,93435.41,6166.44,1384,149,10.77,54,3.49,84.90,4.46,Monitor
+R00955,RailPartner Station 136,RailPartner Station 042,Highland Connect,Regional,150.9,4427,1484,33.52,91436.10,6162.07,1484,167,11.25,57,3.25,85.96,4.15,Monitor
+R00744,RailPartner Station 222,RailPartner Station 060,Welsh Regional Rail,Regional,111.5,5025,1750,34.83,83966.49,6158.14,1750,208,11.89,62,3.39,84.09,3.52,Monitor
+R00508,RailPartner Station 235,RailPartner Station 139,Anglia Rail Services,Regional,121.6,4906,1645,33.53,84594.69,6154.88,1645,205,12.46,71,3.58,84.10,3.74,Monitor
+R00097,RailPartner Station 246,RailPartner Station 006,Southern Coast Rail,Regional,134.0,4798,1586,33.06,88242.06,6154.28,1586,172,10.84,66,3.49,85.84,3.88,Monitor
+R00520,RailPartner Station 067,RailPartner Station 138,Anglia Rail Services,Regional,172.3,4031,1313,32.57,94152.33,6145.73,1313,163,12.41,52,3.82,83.01,4.68,Monitor
+R00106,RailPartner Station 136,RailPartner Station 250,Northern Connect Rail,Regional,177.0,4054,1322,32.61,94040.11,6143.94,1322,151,11.42,45,3.79,84.53,4.65,Monitor
+R00717,RailPartner Station 181,RailPartner Station 180,Coastal Link,Regional,114.0,5219,1754,33.61,83828.82,6142.92,1754,194,11.06,72,3.55,85.96,3.50,Monitor
+R00289,RailPartner Station 114,RailPartner Station 101,Northern Connect Rail,Regional,126.0,5044,1630,32.32,86099.51,6133.52,1630,199,12.21,61,3.82,83.67,3.76,Monitor
+R00115,RailPartner Station 097,RailPartner Station 027,Capital Intercity,Regional,127.3,4828,1586,32.85,84648.13,6131.26,1586,164,10.34,57,3.28,86.33,3.87,Monitor
+R01036,RailPartner Station 209,RailPartner Station 075,Midlands Railways,Regional,124.8,4699,1608,34.22,85797.21,6129.75,1608,184,11.44,75,3.51,84.86,3.81,Monitor
+R00338,RailPartner Station 160,RailPartner Station 134,Welsh Regional Rail,Regional,162.4,4131,1372,33.21,91731.91,6128.60,1372,160,11.66,53,3.62,85.21,4.47,Monitor
+R00682,RailPartner Station 023,RailPartner Station 103,Anglia Rail Services,Regional,124.5,5117,1659,32.42,86358.93,6123.38,1659,188,11.33,72,3.11,84.75,3.69,Monitor
+R00587,RailPartner Station 184,RailPartner Station 211,CrossCountry Connect,Regional,133.3,4772,1578,33.07,87348.82,6121.89,1578,196,12.42,66,3.40,84.49,3.88,Monitor
+R00557,RailPartner Station 008,RailPartner Station 175,Capital Intercity,Regional,109.4,5335,1776,33.29,83267.21,6119.40,1776,200,11.26,75,3.26,86.06,3.45,Monitor
+R00160,RailPartner Station 109,RailPartner Station 236,CrossCountry Connect,Regional,125.8,4838,1614,33.36,87100.69,6115.66,1614,196,12.14,69,3.81,85.33,3.79,Monitor
+R00061,RailPartner Station 230,RailPartner Station 056,Eastern Regional,Regional,134.6,4633,1556,33.59,87940.51,6111.42,1556,156,10.03,56,3.25,86.27,3.93,Monitor
+R01171,RailPartner Station 017,RailPartner Station 242,CrossCountry Connect,Regional,137.5,4496,1553,34.54,88828.38,6110.82,1553,196,12.62,70,4.45,84.61,3.93,Monitor
+R01130,RailPartner Station 210,RailPartner Station 022,Northern Connect Rail,Regional,114.3,5117,1718,33.57,81981.65,6102.18,1718,202,11.76,62,3.74,83.69,3.55,Monitor
+R00724,RailPartner Station 237,RailPartner Station 212,CrossCountry Connect,Regional,103.8,5413,1785,32.98,81351.53,6087.00,1785,179,10.03,60,3.44,87.19,3.41,Monitor
+R00505,RailPartner Station 232,RailPartner Station 071,Central Metro Rail,Regional,128.4,5054,1611,31.88,84576.63,6074.92,1611,168,10.43,64,3.28,86.25,3.77,Monitor
+R00618,RailPartner Station 081,RailPartner Station 201,Welsh Regional Rail,Regional,133.0,4621,1548,33.50,85201.70,6069.67,1548,179,11.56,70,3.65,84.53,3.92,Monitor
+R00393,RailPartner Station 249,RailPartner Station 130,Central Metro Rail,Regional,146.5,4554,1486,32.63,88178.55,6059.20,1486,168,11.31,61,3.43,85.45,4.08,Monitor
+R00281,RailPartner Station 119,RailPartner Station 103,Capital Intercity,Regional,118.2,5033,1726,34.29,83721.59,6047.31,1726,217,12.57,80,3.29,84.99,3.50,Monitor
+R00554,RailPartner Station 123,RailPartner Station 126,Capital Intercity,Regional,147.1,4275,1459,34.13,89765.26,6044.95,1459,173,11.86,62,3.57,86.17,4.14,Monitor
+R00662,RailPartner Station 062,RailPartner Station 111,CrossCountry Connect,Regional,146.1,4528,1453,32.09,87764.04,6042.60,1453,164,11.29,56,3.48,84.55,4.16,Monitor
+R00303,RailPartner Station 033,RailPartner Station 058,Western Express,Regional,122.9,4757,1622,34.10,82778.81,6038.70,1622,181,11.16,70,3.29,86.61,3.72,Monitor
+R00857,RailPartner Station 094,RailPartner Station 078,Western Express,Regional,142.4,4424,1462,33.05,87237.00,6036.29,1462,165,11.29,56,3.54,84.19,4.13,Monitor
+R00327,RailPartner Station 196,RailPartner Station 153,CrossCountry Connect,Regional,134.7,4650,1565,33.66,86468.68,6030.38,1565,181,11.57,65,3.73,84.90,3.85,Monitor
+R00936,RailPartner Station 068,RailPartner Station 130,Coastal Link,Regional,131.3,4949,1592,32.17,86209.74,6028.51,1592,178,11.18,73,2.86,85.09,3.79,Monitor
+R00935,RailPartner Station 028,RailPartner Station 012,Midlands Railways,Regional,123.3,4753,1612,33.92,83734.38,6023.13,1612,204,12.66,71,3.79,84.56,3.74,Monitor
+R00830,RailPartner Station 031,RailPartner Station 007,Western Express,Regional,110.0,5169,1731,33.49,80539.22,6018.01,1731,212,12.25,60,3.61,84.38,3.48,Monitor
+R00516,RailPartner Station 229,RailPartner Station 242,Welsh Regional Rail,Regional,127.6,4639,1532,33.02,85608.95,6009.87,1532,172,11.23,63,3.38,86.09,3.92,Monitor
+R00648,RailPartner Station 212,RailPartner Station 132,Northern Connect Rail,Regional,109.2,5252,1733,33.00,81068.78,6006.42,1733,199,11.48,67,3.23,85.56,3.47,Monitor
+R00901,RailPartner Station 176,RailPartner Station 238,Welsh Regional Rail,Regional,150.8,4324,1438,33.26,87735.86,5998.93,1438,156,10.85,53,3.90,85.86,4.17,Monitor
+R00236,RailPartner Station 217,RailPartner Station 102,Southern Coast Rail,Regional,129.3,4756,1554,32.67,86860.15,5998.56,1554,197,12.68,63,3.71,83.63,3.86,Monitor
+R00821,RailPartner Station 167,RailPartner Station 087,Central Metro Rail,Regional,110.9,5181,1714,33.08,80766.80,5995.30,1714,202,11.79,71,3.53,85.78,3.50,Monitor
+R00406,RailPartner Station 235,RailPartner Station 170,Capital Intercity,Regional,146.1,4404,1473,33.45,87425.72,5973.84,1473,170,11.54,64,3.41,85.33,4.06,Monitor
+R00330,RailPartner Station 003,RailPartner Station 092,Western Express,Regional,146.3,4325,1427,32.99,86816.45,5971.58,1427,175,12.26,49,3.76,83.79,4.18,Monitor
+R00961,RailPartner Station 116,RailPartner Station 208,Welsh Regional Rail,Regional,103.0,5314,1770,33.31,79591.34,5968.20,1770,212,11.98,69,3.81,84.90,3.37,Monitor
+R00856,RailPartner Station 066,RailPartner Station 144,Southern Coast Rail,Regional,89.2,5711,1944,34.04,75329.11,5963.26,1944,210,10.80,77,3.37,85.74,3.07,Monitor
+R01117,RailPartner Station 103,RailPartner Station 243,Coastal Link,Regional,103.3,5345,1787,33.43,78001.50,5955.56,1787,198,11.08,71,3.94,85.66,3.33,Monitor
+R00084,RailPartner Station 095,RailPartner Station 153,Welsh Regional Rail,Regional,152.7,4371,1430,32.72,88534.92,5955.52,1430,174,12.17,65,3.69,85.08,4.16,Monitor
+R01033,RailPartner Station 060,RailPartner Station 064,Western Express,Regional,98.2,5485,1832,33.40,78794.97,5952.35,1832,200,10.92,65,3.52,84.66,3.25,Monitor
+R00484,RailPartner Station 066,RailPartner Station 045,Western Express,Regional,113.6,5135,1707,33.24,81132.97,5949.69,1707,179,10.49,58,3.70,84.78,3.49,Monitor
+R00070,RailPartner Station 077,RailPartner Station 237,Anglia Rail Services,Regional,105.0,5283,1770,33.50,79103.25,5944.03,1770,199,11.24,74,3.55,85.24,3.36,Monitor
+R01161,RailPartner Station 072,RailPartner Station 163,Northern Connect Rail,Regional,160.6,4167,1357,32.57,88684.75,5939.66,1357,133,9.80,41,3.38,87.06,4.38,Monitor
+R00345,RailPartner Station 069,RailPartner Station 161,Anglia Rail Services,Regional,145.7,4213,1437,34.11,87883.40,5938.56,1437,170,11.83,57,3.80,84.47,4.13,Monitor
+R00839,RailPartner Station 070,RailPartner Station 146,Western Express,Regional,110.7,5121,1737,33.92,80188.02,5938.52,1737,215,12.38,78,3.83,85.49,3.42,Monitor
+R01068,RailPartner Station 174,RailPartner Station 130,Southern Coast Rail,Regional,109.0,5136,1709,33.27,78710.83,5937.97,1709,196,11.47,75,3.75,86.68,3.47,Monitor
+R00945,RailPartner Station 165,RailPartner Station 018,Coastal Link,Regional,114.4,4728,1644,34.77,80156.08,5935.35,1644,168,10.22,60,3.12,86.44,3.61,Monitor
+R01062,RailPartner Station 023,RailPartner Station 245,Western Express,Regional,128.2,4660,1553,33.33,83403.56,5933.71,1553,196,12.62,86,3.48,84.23,3.82,Monitor
+R00460,RailPartner Station 049,RailPartner Station 194,Northern Connect Rail,Regional,149.4,4450,1444,32.45,86693.40,5924.60,1444,163,11.29,63,3.34,84.77,4.10,Monitor
+R00072,RailPartner Station 075,RailPartner Station 118,Eastern Regional,Regional,129.9,4548,1525,33.53,84086.23,5916.79,1525,176,11.54,61,4.08,85.13,3.88,Monitor
+R00953,RailPartner Station 175,RailPartner Station 236,Capital Intercity,Regional,116.9,4993,1666,33.37,81606.19,5915.48,1666,206,12.36,67,3.82,84.28,3.55,Monitor
+R00191,RailPartner Station 019,RailPartner Station 191,Western Express,Regional,124.6,4747,1585,33.39,82163.20,5914.14,1585,167,10.54,54,3.49,86.28,3.73,Monitor
+R00411,RailPartner Station 077,RailPartner Station 190,Highland Connect,Regional,109.8,5104,1724,33.78,78789.24,5905.87,1724,204,11.83,70,3.77,85.64,3.43,Monitor
+R00601,RailPartner Station 140,RailPartner Station 011,Northern Connect Rail,Regional,90.8,5395,1863,34.53,75018.88,5904.55,1863,200,10.74,65,3.65,84.73,3.17,Monitor
+R00493,RailPartner Station 235,RailPartner Station 210,Midlands Railways,Regional,108.6,5204,1747,33.57,80359.34,5903.77,1747,175,10.02,59,3.13,87.07,3.38,Monitor
+R00706,RailPartner Station 242,RailPartner Station 149,CrossCountry Connect,Regional,134.7,4683,1522,32.50,84128.68,5903.09,1522,180,11.83,69,3.68,85.72,3.88,Monitor
+R00180,RailPartner Station 216,RailPartner Station 072,Southern Coast Rail,Regional,148.4,4382,1435,32.75,87039.84,5902.47,1435,168,11.71,54,4.11,84.75,4.11,Monitor
+R00151,RailPartner Station 165,RailPartner Station 035,Coastal Link,Regional,109.8,5138,1691,32.91,79855.61,5899.75,1691,188,11.12,77,3.66,86.11,3.49,Monitor
+R00783,RailPartner Station 162,RailPartner Station 135,Central Metro Rail,Regional,122.8,4668,1579,33.83,80969.29,5898.47,1579,176,11.15,52,3.61,85.10,3.74,Monitor
+R01095,RailPartner Station 216,RailPartner Station 037,Northern Connect Rail,Regional,141.8,4335,1433,33.06,84460.16,5896.62,1433,159,11.10,44,3.48,85.53,4.11,Monitor
+R00788,RailPartner Station 153,RailPartner Station 220,Southern Coast Rail,Regional,110.1,5184,1718,33.14,79883.71,5895.64,1718,188,10.94,68,3.40,85.47,3.43,Monitor
+R00334,RailPartner Station 131,RailPartner Station 180,Eastern Regional,Regional,116.5,4864,1639,33.70,80734.11,5893.47,1639,177,10.80,64,3.52,86.46,3.60,Monitor
+R01168,RailPartner Station 223,RailPartner Station 191,Welsh Regional Rail,Regional,162.4,4218,1312,31.10,88333.72,5886.73,1312,157,11.97,52,3.76,82.69,4.49,Monitor
+R01106,RailPartner Station 179,RailPartner Station 068,Northern Connect Rail,Regional,116.4,4934,1643,33.30,79340.08,5885.32,1643,192,11.69,66,3.61,84.32,3.58,Monitor
+R00681,RailPartner Station 015,RailPartner Station 189,Southern Coast Rail,Regional,119.9,4611,1565,33.94,81032.08,5883.25,1565,180,11.50,65,3.44,84.54,3.76,Monitor
+R01129,RailPartner Station 187,RailPartner Station 112,Southern Coast Rail,Regional,114.6,5190,1666,32.10,80081.74,5876.91,1666,174,10.44,63,3.72,85.83,3.53,Monitor
+R00610,RailPartner Station 218,RailPartner Station 219,Coastal Link,Regional,173.9,3877,1266,32.65,89084.13,5866.76,1266,157,12.40,49,3.47,84.29,4.63,Monitor
+R00742,RailPartner Station 233,RailPartner Station 029,Welsh Regional Rail,Regional,102.1,5145,1727,33.57,77234.40,5864.39,1727,206,11.93,63,3.97,84.37,3.40,Monitor
+R00401,RailPartner Station 123,RailPartner Station 068,Capital Intercity,Regional,123.3,4734,1559,32.93,81946.98,5856.50,1559,169,10.84,56,3.27,86.21,3.76,Monitor
+R01028,RailPartner Station 206,RailPartner Station 006,Central Metro Rail,Regional,173.8,3832,1273,33.22,87184.36,5853.36,1273,141,11.08,62,3.33,85.88,4.60,Monitor
+R00210,RailPartner Station 032,RailPartner Station 227,Western Express,Regional,132.6,4467,1484,33.22,83962.96,5851.32,1484,160,10.78,60,3.51,84.61,3.94,Monitor
+R00908,RailPartner Station 061,RailPartner Station 133,Coastal Link,Regional,144.2,4341,1439,33.15,85937.97,5848.75,1439,166,11.54,65,3.28,85.72,4.06,Monitor
+R00811,RailPartner Station 035,RailPartner Station 071,Southern Coast Rail,Regional,88.9,5449,1885,34.59,73936.38,5847.67,1885,222,11.78,76,4.07,85.06,3.10,Monitor
+R00029,RailPartner Station 194,RailPartner Station 220,Anglia Rail Services,Regional,96.7,5449,1779,32.65,76592.34,5837.49,1779,199,11.19,66,3.54,85.28,3.28,Monitor
+R00743,RailPartner Station 191,RailPartner Station 067,Coastal Link,Regional,128.3,4728,1548,32.74,82468.29,5818.38,1548,201,12.98,70,3.75,84.19,3.76,Monitor
+R00885,RailPartner Station 153,RailPartner Station 233,Central Metro Rail,Regional,125.5,4649,1566,33.68,81951.15,5813.47,1566,180,11.49,76,3.35,85.89,3.71,Monitor
+R00349,RailPartner Station 025,RailPartner Station 226,Welsh Regional Rail,Regional,134.9,4539,1465,32.28,82342.55,5811.17,1465,166,11.33,54,3.30,84.38,3.97,Monitor
+R00315,RailPartner Station 168,RailPartner Station 110,Welsh Regional Rail,Regional,135.9,4429,1454,32.83,83110.08,5801.02,1454,167,11.49,52,3.65,84.91,3.99,Monitor
+R00570,RailPartner Station 032,RailPartner Station 003,Coastal Link,Regional,128.2,4509,1528,33.89,81031.25,5800.22,1528,179,11.71,65,3.52,85.27,3.80,Monitor
+R00413,RailPartner Station 182,RailPartner Station 095,Midlands Railways,Regional,133.8,4442,1462,32.91,82651.02,5800.06,1462,152,10.40,51,3.32,85.77,3.97,Monitor
+R00075,RailPartner Station 090,RailPartner Station 060,Central Metro Rail,Regional,129.2,4722,1542,32.66,81843.89,5794.86,1542,181,11.74,58,3.86,84.25,3.76,Monitor
+R00081,RailPartner Station 073,RailPartner Station 226,CrossCountry Connect,Regional,139.5,4332,1436,33.15,83502.20,5794.15,1436,169,11.77,49,3.73,84.64,4.03,Monitor
+R00245,RailPartner Station 105,RailPartner Station 234,Highland Connect,Regional,138.1,4467,1455,32.57,82624.75,5789.91,1455,190,13.06,71,3.88,84.59,3.98,Monitor
+R00024,RailPartner Station 209,RailPartner Station 119,Capital Intercity,Regional,129.7,4522,1526,33.75,81104.63,5789.08,1526,184,12.06,65,3.91,83.09,3.79,Monitor
+R00357,RailPartner Station 211,RailPartner Station 235,Welsh Regional Rail,Regional,124.2,4838,1581,32.68,80260.27,5777.64,1581,197,12.46,68,3.60,83.47,3.65,Monitor
+R00946,RailPartner Station 213,RailPartner Station 055,Capital Intercity,Regional,129.3,4538,1505,33.16,81275.32,5769.29,1505,172,11.43,67,3.59,85.19,3.83,Monitor
+R00288,RailPartner Station 157,RailPartner Station 050,Eastern Regional,Regional,111.6,4910,1645,33.50,77122.50,5762.03,1645,176,10.70,64,3.80,84.76,3.50,Monitor
+R00667,RailPartner Station 196,RailPartner Station 062,Anglia Rail Services,Regional,131.1,4444,1497,33.69,81727.50,5743.78,1497,155,10.35,55,3.23,84.51,3.84,Monitor
+R01032,RailPartner Station 156,RailPartner Station 082,Eastern Regional,Regional,116.1,4717,1587,33.64,78224.64,5743.20,1587,192,12.10,73,3.58,84.76,3.62,Monitor
+R00532,RailPartner Station 243,RailPartner Station 185,Highland Connect,Regional,108.1,5164,1683,32.59,77024.63,5742.58,1683,201,11.94,72,3.41,84.93,3.41,Monitor
+R00477,RailPartner Station 128,RailPartner Station 078,Highland Connect,Regional,139.2,4469,1435,32.11,83836.95,5740.82,1435,145,10.10,57,3.11,85.78,4.00,Monitor
+R00827,RailPartner Station 154,RailPartner Station 231,Southern Coast Rail,Regional,183.1,3704,1188,32.07,88609.71,5737.98,1188,118,9.93,43,3.48,86.27,4.83,Monitor
+R00399,RailPartner Station 116,RailPartner Station 109,Highland Connect,Regional,91.4,5254,1787,34.01,72820.54,5736.31,1787,197,11.02,83,3.36,86.03,3.21,Monitor
+R00553,RailPartner Station 169,RailPartner Station 141,CrossCountry Connect,Regional,125.2,4588,1524,33.22,80517.75,5724.66,1524,176,11.55,58,3.86,84.03,3.76,Monitor
+R00958,RailPartner Station 104,RailPartner Station 117,Northern Connect Rail,Regional,130.2,4367,1480,33.89,80662.09,5712.94,1480,173,11.69,59,3.83,84.69,3.86,Monitor
+R01047,RailPartner Station 203,RailPartner Station 144,Midlands Railways,Regional,97.1,5127,1724,33.63,72788.69,5709.41,1724,200,11.60,58,3.98,83.67,3.31,Monitor
+R00359,RailPartner Station 059,RailPartner Station 121,Coastal Link,Commuter,78.3,6418,2110,32.88,64765.01,5709.26,2110,256,12.13,66,4.03,83.68,2.71,Monitor
+R00287,RailPartner Station 228,RailPartner Station 215,Eastern Regional,Regional,108.4,4863,1628,33.48,75808.46,5703.32,1628,194,11.92,71,4.01,84.20,3.50,Monitor
+R00599,RailPartner Station 045,RailPartner Station 135,Welsh Regional Rail,Regional,115.5,4785,1606,33.56,78695.32,5702.88,1606,168,10.46,61,3.45,85.29,3.55,Monitor
+R00703,RailPartner Station 093,RailPartner Station 140,Southern Coast Rail,Regional,114.2,4760,1597,33.55,77958.95,5699.08,1597,176,11.02,62,3.32,84.86,3.57,Monitor
+R01175,RailPartner Station 219,RailPartner Station 074,Highland Connect,Regional,125.2,4460,1519,34.06,80285.69,5687.31,1519,166,10.93,66,3.87,84.88,3.74,Monitor
+R00941,RailPartner Station 202,RailPartner Station 104,Eastern Regional,Regional,117.7,4589,1573,34.28,78881.57,5686.18,1573,202,12.84,73,3.93,86.44,3.61,Monitor
+R01059,RailPartner Station 068,RailPartner Station 056,Anglia Rail Services,Regional,102.4,4988,1707,34.22,75205.20,5681.89,1707,182,10.66,68,3.40,86.11,3.33,Monitor
+R00339,RailPartner Station 190,RailPartner Station 150,Western Express,Regional,110.4,4900,1647,33.61,78240.37,5681.54,1647,194,11.78,67,3.69,84.29,3.45,Monitor
+R00332,RailPartner Station 240,RailPartner Station 241,Capital Intercity,Regional,117.7,4716,1574,33.38,78783.81,5661.29,1574,161,10.23,62,3.45,86.35,3.60,Monitor
+R00679,RailPartner Station 015,RailPartner Station 197,Midlands Railways,Regional,132.7,4299,1488,34.61,80650.71,5659.44,1488,167,11.22,58,3.53,85.60,3.80,Monitor
+R00085,RailPartner Station 118,RailPartner Station 077,Eastern Regional,Regional,111.9,4804,1593,33.16,76595.67,5658.22,1593,179,11.24,57,3.66,85.06,3.55,Monitor
+R00702,RailPartner Station 052,RailPartner Station 179,Capital Intercity,Regional,119.8,4598,1553,33.78,77198.82,5655.67,1553,168,10.82,58,3.59,83.91,3.64,Monitor
+R00593,RailPartner Station 149,RailPartner Station 239,Capital Intercity,Regional,132.4,4401,1467,33.33,80360.29,5654.63,1467,180,12.27,62,3.74,83.97,3.85,Monitor
+R00805,RailPartner Station 131,RailPartner Station 056,Northern Connect Rail,Regional,104.2,5009,1703,34.00,75811.65,5653.03,1703,182,10.69,79,3.04,86.33,3.32,Monitor
+R00201,RailPartner Station 061,RailPartner Station 203,Northern Connect Rail,Regional,152.5,4120,1358,32.96,83031.99,5650.86,1358,147,10.82,41,3.63,84.43,4.16,Monitor
+R00361,RailPartner Station 109,RailPartner Station 179,Central Metro Rail,Regional,109.1,4931,1628,33.02,76427.07,5648.87,1628,193,11.86,70,3.96,84.19,3.47,Monitor
+R00701,RailPartner Station 099,RailPartner Station 079,Southern Coast Rail,Commuter,69.9,6497,2187,33.66,60963.84,5639.35,2187,213,9.74,64,3.62,85.30,2.58,Monitor
+R01020,RailPartner Station 023,RailPartner Station 157,Western Express,Regional,109.4,5177,1619,31.27,76175.95,5629.24,1619,187,11.55,70,3.71,85.91,3.48,Monitor
+R00954,RailPartner Station 099,RailPartner Station 066,CrossCountry Connect,Regional,94.7,5326,1756,32.97,72549.67,5626.00,1756,208,11.85,76,3.42,84.26,3.20,Monitor
+R00311,RailPartner Station 231,RailPartner Station 038,Northern Connect Rail,Regional,138.4,4222,1397,33.09,82036.06,5621.87,1397,165,11.81,52,3.49,85.10,4.02,Monitor
+R00163,RailPartner Station 237,RailPartner Station 111,CrossCountry Connect,Regional,92.9,5090,1759,34.56,73360.26,5618.24,1759,196,11.14,62,3.59,84.67,3.19,Monitor
+R00208,RailPartner Station 212,RailPartner Station 161,Southern Coast Rail,Regional,99.6,5181,1684,32.50,73802.80,5612.85,1684,168,9.98,59,3.43,86.53,3.33,Monitor
+R00479,RailPartner Station 172,RailPartner Station 203,Central Metro Rail,Regional,132.0,4454,1460,32.78,81265.08,5612.45,1460,173,11.85,65,3.78,84.40,3.84,Monitor
+R00889,RailPartner Station 047,RailPartner Station 053,Coastal Link,Regional,162.6,3915,1272,32.49,83639.55,5610.50,1272,141,11.08,48,3.70,85.02,4.41,Monitor
+R00909,RailPartner Station 049,RailPartner Station 060,Highland Connect,Regional,122.7,4547,1521,33.45,77280.56,5602.09,1521,190,12.49,51,3.59,82.73,3.68,Monitor
+R00866,RailPartner Station 013,RailPartner Station 214,Capital Intercity,Regional,136.8,4358,1411,32.38,79620.46,5585.96,1411,157,11.13,45,3.24,83.69,3.96,Monitor
+R01030,RailPartner Station 012,RailPartner Station 210,Midlands Railways,Regional,95.1,5059,1728,34.16,71709.07,5585.42,1728,184,10.65,64,3.45,86.32,3.23,Monitor
+R00291,RailPartner Station 192,RailPartner Station 017,Eastern Regional,Regional,135.9,4259,1408,33.06,80662.32,5580.51,1408,130,9.23,41,3.09,86.91,3.96,Monitor
+R00606,RailPartner Station 094,RailPartner Station 061,Highland Connect,Regional,133.7,4342,1446,33.30,80196.25,5579.29,1446,208,14.38,86,3.55,83.66,3.86,Monitor
+R00819,RailPartner Station 107,RailPartner Station 004,Northern Connect Rail,Regional,98.4,4977,1669,33.53,72617.00,5570.61,1669,193,11.56,64,3.56,85.41,3.34,Monitor
+R00207,RailPartner Station 012,RailPartner Station 202,Anglia Rail Services,Regional,108.5,4736,1629,34.40,74738.11,5568.16,1629,189,11.60,59,3.71,85.28,3.42,Monitor
+R00044,RailPartner Station 129,RailPartner Station 238,Welsh Regional Rail,Regional,128.9,4318,1472,34.09,79439.12,5566.85,1472,168,11.41,40,3.86,83.79,3.78,Monitor
+R00549,RailPartner Station 024,RailPartner Station 125,Southern Coast Rail,Regional,122.4,4436,1482,33.41,77423.11,5565.80,1482,176,11.88,61,3.84,86.20,3.76,Monitor
+R00434,RailPartner Station 098,RailPartner Station 129,Western Express,Commuter,79.9,6165,2039,33.07,63647.86,5553.37,2039,229,11.23,78,3.56,84.57,2.72,Monitor
+R00881,RailPartner Station 202,RailPartner Station 081,Anglia Rail Services,Regional,108.7,4750,1593,33.54,74366.17,5551.89,1593,195,12.24,69,3.69,84.62,3.49,Monitor
+R00974,RailPartner Station 055,RailPartner Station 192,Central Metro Rail,Regional,116.2,4475,1524,34.06,75881.59,5551.57,1524,184,12.07,60,3.77,83.54,3.64,Monitor
+R00471,RailPartner Station 200,RailPartner Station 249,Capital Intercity,Regional,121.6,4582,1497,32.67,77643.12,5539.66,1497,140,9.35,41,3.18,86.12,3.70,Monitor
+R00093,RailPartner Station 106,RailPartner Station 008,Coastal Link,Commuter,78.9,5934,2045,34.46,64722.86,5536.62,2045,234,11.44,74,3.67,84.82,2.71,Monitor
+R00275,RailPartner Station 183,RailPartner Station 066,Southern Coast Rail,Regional,92.3,5171,1756,33.96,71940.26,5536.10,1756,207,11.79,62,3.60,84.52,3.15,Monitor
+R00524,RailPartner Station 226,RailPartner Station 053,Midlands Railways,Regional,122.0,4569,1533,33.55,75778.66,5532.81,1533,186,12.13,60,3.39,85.06,3.61,Monitor
+R00718,RailPartner Station 103,RailPartner Station 133,Midlands Railways,Regional,92.9,5014,1744,34.78,70757.84,5532.72,1744,209,11.98,64,4.02,84.71,3.17,Monitor
+R00463,RailPartner Station 075,RailPartner Station 105,CrossCountry Connect,Regional,108.5,4987,1597,32.02,75418.05,5527.64,1597,184,11.52,60,3.46,84.03,3.46,Monitor
+R00426,RailPartner Station 004,RailPartner Station 074,Central Metro Rail,Regional,93.3,5061,1698,33.55,70642.53,5526.65,1698,199,11.72,72,3.30,84.98,3.25,Monitor
+R00687,RailPartner Station 094,RailPartner Station 156,Capital Intercity,Regional,96.9,5013,1681,33.53,71426.38,5521.99,1681,175,10.41,73,2.95,87.06,3.28,Monitor
+R01013,RailPartner Station 057,RailPartner Station 116,Coastal Link,Regional,85.7,5200,1762,33.88,68601.06,5518.87,1762,193,10.95,75,3.51,85.51,3.13,Monitor
+R00870,RailPartner Station 140,RailPartner Station 197,Eastern Regional,Regional,113.3,4663,1547,33.18,74541.25,5509.97,1547,171,11.05,63,3.00,85.75,3.56,Monitor
+R01088,RailPartner Station 004,RailPartner Station 208,Capital Intercity,Regional,102.0,4929,1622,32.91,71621.99,5507.76,1622,209,12.89,69,4.26,83.64,3.40,Monitor
+R01082,RailPartner Station 176,RailPartner Station 005,Welsh Regional Rail,Commuter,78.1,5911,2020,34.17,62708.68,5504.14,2020,217,10.74,75,3.28,84.30,2.72,Monitor
+R01153,RailPartner Station 235,RailPartner Station 129,Western Express,Regional,93.0,5080,1721,33.88,71675.46,5502.12,1721,171,9.94,73,3.34,87.78,3.20,Monitor
+R00859,RailPartner Station 246,RailPartner Station 035,Central Metro Rail,Commuter,60.5,6743,2231,33.09,58102.12,5498.93,2231,268,12.01,90,3.62,83.65,2.46,Monitor
+R00491,RailPartner Station 238,RailPartner Station 117,Southern Coast Rail,Regional,129.7,4266,1403,32.89,78173.79,5496.53,1403,186,13.26,61,3.72,83.27,3.92,Monitor
+R00948,RailPartner Station 093,RailPartner Station 209,Southern Coast Rail,Regional,122.8,4394,1460,33.23,76259.15,5493.45,1460,168,11.51,66,3.28,85.47,3.76,Monitor
+R00421,RailPartner Station 005,RailPartner Station 101,CrossCountry Connect,Regional,95.9,5167,1710,33.09,70151.70,5493.30,1710,173,10.12,66,3.49,86.57,3.21,Monitor
+R00246,RailPartner Station 207,RailPartner Station 159,Western Express,Regional,113.8,4602,1537,33.40,73888.34,5490.85,1537,160,10.41,47,3.45,86.49,3.57,Monitor
+R00840,RailPartner Station 098,RailPartner Station 075,Eastern Regional,Regional,93.1,5081,1721,33.87,70970.52,5487.82,1721,205,11.91,74,3.58,83.51,3.19,Monitor
+R01147,RailPartner Station 127,RailPartner Station 144,Capital Intercity,Commuter,70.0,6329,2146,33.91,61185.81,5487.80,2146,234,10.90,67,3.36,85.11,2.56,Monitor
+R00442,RailPartner Station 199,RailPartner Station 003,Northern Connect Rail,Regional,104.6,4624,1625,35.14,73090.96,5482.67,1625,171,10.52,59,3.36,85.09,3.37,Protect High Demand
+R00108,RailPartner Station 160,RailPartner Station 132,Western Express,Regional,113.7,4684,1543,32.94,74379.84,5476.37,1543,185,11.99,67,3.22,85.28,3.55,Monitor
+R00200,RailPartner Station 100,RailPartner Station 158,Highland Connect,Commuter,79.1,6051,2010,33.22,62623.82,5470.33,2010,230,11.44,71,3.70,85.46,2.72,Monitor
+R00459,RailPartner Station 196,RailPartner Station 014,Western Express,Regional,123.8,4151,1451,34.96,76269.04,5466.31,1451,163,11.23,63,3.44,86.64,3.77,Monitor
+R00807,RailPartner Station 102,RailPartner Station 101,Highland Connect,Regional,95.2,4827,1687,34.95,71369.54,5463.83,1687,195,11.56,61,3.88,84.14,3.24,Monitor
+R00386,RailPartner Station 242,RailPartner Station 104,Highland Connect,Regional,114.2,4589,1544,33.65,75099.98,5459.68,1544,198,12.82,65,4.00,84.14,3.54,Monitor
+R00978,RailPartner Station 001,RailPartner Station 243,CrossCountry Connect,Regional,90.3,5170,1748,33.81,69184.13,5456.51,1748,184,10.53,64,3.44,85.64,3.12,Monitor
+R00795,RailPartner Station 167,RailPartner Station 096,Anglia Rail Services,Regional,110.0,4684,1572,33.56,73948.42,5449.15,1572,171,10.88,65,3.65,85.69,3.47,Monitor
+R00487,RailPartner Station 212,RailPartner Station 220,Anglia Rail Services,Regional,85.7,5486,1783,32.50,67398.17,5443.60,1783,196,10.99,68,3.44,85.75,3.05,Monitor
+R00835,RailPartner Station 115,RailPartner Station 234,Coastal Link,Regional,120.6,4384,1475,33.65,74564.01,5442.90,1475,161,10.92,63,3.44,85.58,3.69,Monitor
+R00062,RailPartner Station 032,RailPartner Station 177,Southern Coast Rail,Regional,130.6,4280,1403,32.78,77477.89,5439.71,1403,153,10.91,50,3.44,84.24,3.88,Monitor
+R00429,RailPartner Station 241,RailPartner Station 085,Southern Coast Rail,Regional,122.6,4323,1437,33.24,75928.01,5428.76,1437,146,10.16,61,2.98,87.20,3.78,Monitor
+R01195,RailPartner Station 047,RailPartner Station 123,Eastern Regional,Regional,151.4,3894,1300,33.38,80185.29,5412.33,1300,158,12.15,70,3.11,85.68,4.16,Monitor
+R00810,RailPartner Station 246,RailPartner Station 032,Western Express,Commuter,72.0,5969,2043,34.23,59528.06,5410.92,2043,232,11.36,66,3.86,83.61,2.65,Monitor
+R01094,RailPartner Station 175,RailPartner Station 220,Welsh Regional Rail,Commuter,62.5,6471,2196,33.94,56771.20,5407.33,2196,241,10.97,89,3.52,85.74,2.46,Monitor
+R00320,RailPartner Station 039,RailPartner Station 037,Southern Coast Rail,Regional,125.3,4202,1409,33.53,74727.24,5406.73,1409,160,11.36,71,3.28,86.78,3.84,Monitor
+R01023,RailPartner Station 144,RailPartner Station 045,Anglia Rail Services,Regional,84.8,5201,1792,34.45,67249.47,5387.81,1792,194,10.83,55,3.77,84.60,3.01,Monitor
+R00995,RailPartner Station 190,RailPartner Station 163,CrossCountry Connect,Regional,98.4,5027,1679,33.40,69930.08,5387.37,1679,198,11.79,74,3.33,84.84,3.21,Monitor
+R00297,RailPartner Station 247,RailPartner Station 032,Central Metro Rail,Regional,132.2,4147,1361,32.82,76877.48,5387.22,1361,173,12.71,59,3.70,84.74,3.96,Monitor
+R00083,RailPartner Station 123,RailPartner Station 039,Eastern Regional,Regional,120.3,4378,1437,32.82,75291.64,5377.78,1437,163,11.34,57,3.44,84.60,3.74,Monitor
+R00012,RailPartner Station 018,RailPartner Station 027,Coastal Link,Commuter,77.3,5790,2006,34.65,60719.23,5375.30,2006,212,10.57,63,3.74,84.57,2.68,Monitor
+R00037,RailPartner Station 103,RailPartner Station 245,Northern Connect Rail,Regional,100.1,4841,1636,33.79,70190.37,5374.39,1636,153,9.35,54,3.14,86.84,3.29,Monitor
+R01055,RailPartner Station 080,RailPartner Station 105,Anglia Rail Services,Commuter,76.7,5955,2038,34.22,61012.06,5369.83,2038,237,11.63,90,3.44,84.97,2.63,Monitor
+R00419,RailPartner Station 101,RailPartner Station 216,Capital Intercity,Regional,90.9,4975,1687,33.91,68124.73,5365.50,1687,181,10.73,68,3.29,85.94,3.18,Monitor
+R00761,RailPartner Station 225,RailPartner Station 145,Capital Intercity,Regional,123.2,4315,1471,34.09,74454.78,5364.22,1471,168,11.42,63,3.61,84.95,3.65,Monitor
+R00080,RailPartner Station 018,RailPartner Station 189,Capital Intercity,Regional,107.0,4767,1572,32.98,72442.69,5362.70,1572,206,13.10,63,3.93,83.08,3.41,Monitor
+R00322,RailPartner Station 104,RailPartner Station 168,Central Metro Rail,Regional,154.2,3838,1256,32.73,80092.08,5354.45,1256,173,13.77,70,3.73,84.98,4.26,Monitor
+R00920,RailPartner Station 231,RailPartner Station 005,Central Metro Rail,Regional,123.7,4342,1436,33.07,75002.66,5353.38,1436,153,10.65,45,3.25,85.62,3.73,Monitor
+R00022,RailPartner Station 161,RailPartner Station 079,Capital Intercity,Regional,80.7,5366,1796,33.47,65661.44,5345.55,1796,196,10.91,67,3.50,85.91,2.98,Monitor
+R00257,RailPartner Station 102,RailPartner Station 113,Highland Connect,Regional,121.4,4517,1422,31.48,73880.10,5344.53,1422,164,11.53,59,3.31,85.51,3.76,Monitor
+R00878,RailPartner Station 049,RailPartner Station 048,CrossCountry Connect,Regional,139.0,4133,1303,31.53,75925.46,5343.38,1303,148,11.36,50,3.34,85.07,4.10,Monitor
+R01024,RailPartner Station 204,RailPartner Station 088,Capital Intercity,Commuter,75.8,6024,1997,33.15,60304.22,5331.52,1997,223,11.17,71,3.30,84.91,2.67,Monitor
+R00164,RailPartner Station 122,RailPartner Station 130,Northern Connect Rail,Regional,103.9,4783,1606,33.58,71244.69,5331.32,1606,203,12.64,74,3.73,83.69,3.32,Monitor
+R00188,RailPartner Station 246,RailPartner Station 238,Northern Connect Rail,Regional,110.2,4771,1555,32.59,72441.18,5316.43,1555,173,11.13,72,3.10,86.05,3.42,Monitor
+R00799,RailPartner Station 044,RailPartner Station 209,Southern Coast Rail,Regional,120.3,4303,1421,33.02,74105.95,5307.22,1421,179,12.60,66,3.95,83.77,3.73,Monitor
+R00725,RailPartner Station 165,RailPartner Station 023,Anglia Rail Services,Commuter,78.3,5601,1944,34.71,60916.11,5303.60,1944,213,10.96,74,4.06,85.16,2.73,Monitor
+R00923,RailPartner Station 066,RailPartner Station 145,Coastal Link,Regional,109.3,4659,1538,33.01,71405.77,5290.08,1538,192,12.48,68,4.09,84.14,3.44,Monitor
+R00125,RailPartner Station 124,RailPartner Station 148,Western Express,Regional,101.0,4573,1583,34.62,69543.32,5287.74,1583,196,12.38,67,3.84,84.19,3.34,Monitor
+R00975,RailPartner Station 157,RailPartner Station 046,Anglia Rail Services,Regional,112.7,4662,1538,32.99,72935.89,5284.46,1538,175,11.38,65,3.35,85.96,3.44,Monitor
+R00942,RailPartner Station 013,RailPartner Station 046,Capital Intercity,Regional,133.5,4032,1370,33.98,75113.47,5279.67,1370,163,11.90,57,3.51,85.29,3.85,Monitor
+R00730,RailPartner Station 001,RailPartner Station 103,Northern Connect Rail,Regional,84.7,5113,1730,33.84,65405.55,5274.56,1730,220,12.72,62,4.51,83.70,3.05,Monitor
+R01051,RailPartner Station 197,RailPartner Station 178,Midlands Railways,Regional,91.1,4900,1669,34.06,67022.86,5267.29,1669,187,11.20,64,3.55,85.14,3.16,Monitor
+R00625,RailPartner Station 115,RailPartner Station 087,Northern Connect Rail,Regional,83.0,5014,1740,34.70,65519.81,5265.74,1740,195,11.21,68,3.24,85.40,3.03,Monitor
+R00816,RailPartner Station 012,RailPartner Station 032,Central Metro Rail,Regional,110.9,4516,1510,33.44,71331.79,5264.74,1510,161,10.66,66,3.75,86.81,3.49,Monitor
+R00763,RailPartner Station 126,RailPartner Station 250,Northern Connect Rail,Regional,133.2,4200,1399,33.31,74501.64,5250.67,1399,165,11.79,53,3.52,84.80,3.75,Monitor
+R00394,RailPartner Station 039,RailPartner Station 041,Southern Coast Rail,Regional,112.8,4236,1466,34.61,69322.99,5249.24,1466,149,10.16,46,3.84,85.59,3.58,Monitor
+R00431,RailPartner Station 234,RailPartner Station 198,Welsh Regional Rail,Regional,128.8,4075,1375,33.74,73927.79,5246.66,1375,129,9.38,50,3.15,85.86,3.82,Monitor
+R00994,RailPartner Station 159,RailPartner Station 005,Welsh Regional Rail,Regional,95.2,5002,1637,32.73,68512.12,5244.89,1637,196,11.97,71,3.43,85.07,3.20,Monitor
+R00573,RailPartner Station 234,RailPartner Station 159,Welsh Regional Rail,Regional,115.4,4426,1473,33.28,71301.78,5244.71,1473,156,10.59,54,3.13,85.26,3.56,Monitor
+R00800,RailPartner Station 195,RailPartner Station 176,Central Metro Rail,Commuter,68.0,5943,2026,34.09,56292.48,5243.42,2026,204,10.07,55,3.51,85.34,2.59,Monitor
+R00616,RailPartner Station 215,RailPartner Station 196,Welsh Regional Rail,Regional,112.1,4483,1490,33.24,71913.62,5231.97,1490,191,12.82,61,4.30,82.63,3.51,Monitor
+R00481,RailPartner Station 205,RailPartner Station 077,Welsh Regional Rail,Regional,89.6,5002,1668,33.35,67075.31,5229.66,1668,183,10.97,70,3.26,85.63,3.14,Monitor
+R00963,RailPartner Station 072,RailPartner Station 075,Capital Intercity,Regional,112.0,4360,1496,34.31,71220.79,5226.04,1496,161,10.76,48,3.55,86.29,3.49,Monitor
+R01053,RailPartner Station 107,RailPartner Station 237,CrossCountry Connect,Regional,81.8,5107,1726,33.80,64563.75,5224.31,1726,231,13.38,84,3.97,83.74,3.03,Monitor
+R01148,RailPartner Station 243,RailPartner Station 063,Northern Connect Rail,Regional,97.2,4917,1622,32.99,67352.33,5220.95,1622,194,11.96,64,3.74,84.36,3.22,Monitor
+R01125,RailPartner Station 078,RailPartner Station 095,Capital Intercity,Regional,151.1,3938,1235,31.36,76483.74,5220.89,1235,136,11.01,49,3.25,85.21,4.23,Monitor
+R00385,RailPartner Station 218,RailPartner Station 239,Western Express,Regional,121.8,4263,1389,32.58,71763.77,5220.78,1389,158,11.38,47,4.14,84.20,3.76,Monitor
+R00194,RailPartner Station 012,RailPartner Station 085,Northern Connect Rail,Regional,121.6,4275,1408,32.94,73130.79,5220.69,1408,174,12.36,59,3.68,85.19,3.71,Monitor
+R00692,RailPartner Station 018,RailPartner Station 235,CrossCountry Connect,Regional,86.6,4906,1701,34.67,65425.29,5218.99,1701,175,10.29,55,3.34,84.89,3.07,Monitor
+R00962,RailPartner Station 181,RailPartner Station 028,Northern Connect Rail,Commuter,68.7,6427,2055,31.97,57206.56,5218.29,2055,231,11.24,74,3.76,84.54,2.54,Monitor
+R01012,RailPartner Station 138,RailPartner Station 209,Coastal Link,Regional,118.4,4201,1432,34.09,71681.06,5217.25,1432,172,12.01,62,3.29,84.35,3.64,Monitor
+R00154,RailPartner Station 109,RailPartner Station 239,Central Metro Rail,Regional,102.0,4644,1548,33.33,68499.19,5210.19,1548,188,12.14,73,3.83,85.37,3.37,Monitor
+R00103,RailPartner Station 114,RailPartner Station 133,Capital Intercity,Regional,97.4,4748,1586,33.40,67674.81,5207.84,1586,195,12.30,67,3.54,85.38,3.28,Monitor
+R00117,RailPartner Station 128,RailPartner Station 141,Eastern Regional,Regional,90.1,4988,1697,34.02,66305.29,5206.32,1697,199,11.73,72,3.75,85.87,3.07,Monitor
+R00597,RailPartner Station 035,RailPartner Station 142,CrossCountry Connect,Commuter,62.1,6284,2126,33.83,55239.14,5204.00,2126,250,11.76,81,3.87,84.20,2.45,Monitor
+R01086,RailPartner Station 150,RailPartner Station 093,Highland Connect,Regional,114.3,4427,1459,32.96,70865.20,5203.04,1459,160,10.97,53,3.29,83.87,3.57,Monitor
+R00069,RailPartner Station 159,RailPartner Station 007,Welsh Regional Rail,Commuter,66.7,6097,2045,33.54,56539.17,5200.11,2045,226,11.05,72,3.50,84.37,2.54,Monitor
+R01176,RailPartner Station 019,RailPartner Station 149,Anglia Rail Services,Regional,120.5,4545,1445,31.79,71532.63,5192.32,1445,175,12.11,69,3.85,85.50,3.59,Monitor
+R00656,RailPartner Station 137,RailPartner Station 110,Welsh Regional Rail,Regional,92.0,4982,1658,33.28,65914.51,5191.05,1658,180,10.86,66,3.69,86.12,3.13,Monitor
+R00604,RailPartner Station 137,RailPartner Station 002,Northern Connect Rail,Regional,81.9,5084,1714,33.71,63204.11,5178.10,1714,209,12.19,82,3.53,84.24,3.02,Monitor
+R00751,RailPartner Station 010,RailPartner Station 250,Anglia Rail Services,Regional,102.9,4579,1538,33.59,68023.22,5160.79,1538,188,12.22,65,3.54,83.89,3.36,Monitor
+R01109,RailPartner Station 044,RailPartner Station 124,Eastern Regional,Regional,127.1,4196,1363,32.48,71680.82,5159.14,1363,140,10.27,54,3.44,86.33,3.79,Monitor
+R00752,RailPartner Station 109,RailPartner Station 235,Coastal Link,Regional,90.7,4954,1651,33.33,64868.73,5157.81,1651,160,9.69,65,2.95,86.53,3.12,Monitor
+R00608,RailPartner Station 211,RailPartner Station 076,Midlands Railways,Regional,82.1,5054,1723,34.09,63852.52,5147.32,1723,209,12.13,73,3.56,84.21,2.99,Monitor
+R00514,RailPartner Station 064,RailPartner Station 097,Highland Connect,Commuter,56.6,6168,2162,35.05,51946.80,5143.59,2162,230,10.64,83,3.40,85.21,2.38,Protect High Demand
+R01092,RailPartner Station 012,RailPartner Station 205,Welsh Regional Rail,Regional,97.7,4647,1571,33.81,66464.76,5138.02,1571,179,11.39,66,3.56,85.53,3.27,Monitor
+R00863,RailPartner Station 035,RailPartner Station 163,Midlands Railways,Commuter,73.5,5990,1948,32.52,57577.45,5137.69,1948,202,10.37,60,3.37,85.96,2.64,Monitor
+R00478,RailPartner Station 066,RailPartner Station 036,Welsh Regional Rail,Regional,100.4,4754,1572,33.07,67524.07,5123.40,1572,207,13.17,65,4.13,83.69,3.26,Monitor
+R01149,RailPartner Station 037,RailPartner Station 246,Anglia Rail Services,Regional,91.3,4859,1648,33.92,64986.04,5119.24,1648,200,12.14,86,3.38,85.45,3.11,Monitor
+R00346,RailPartner Station 090,RailPartner Station 221,Midlands Railways,Regional,127.5,3979,1350,33.93,71633.69,5110.08,1350,150,11.11,55,3.69,84.97,3.79,Monitor
+R00785,RailPartner Station 034,RailPartner Station 052,CrossCountry Connect,Regional,91.0,4915,1627,33.10,64339.13,5109.40,1627,184,11.31,51,3.80,84.33,3.14,Monitor
+R00142,RailPartner Station 036,RailPartner Station 019,Southern Coast Rail,Regional,116.4,4312,1419,32.91,70256.15,5107.55,1419,148,10.43,56,3.19,85.49,3.60,Monitor
+R00259,RailPartner Station 061,RailPartner Station 217,Eastern Regional,Regional,118.3,4204,1401,33.33,70068.72,5099.42,1401,142,10.14,42,3.47,86.03,3.64,Monitor
+R00094,RailPartner Station 098,RailPartner Station 229,Western Express,Regional,104.6,4716,1538,32.61,68820.19,5098.00,1538,169,10.99,62,3.69,85.37,3.31,Monitor
+R00498,RailPartner Station 119,RailPartner Station 111,Southern Coast Rail,Regional,101.4,4617,1535,33.25,68637.39,5097.83,1535,179,11.66,60,3.72,85.47,3.32,Monitor
+R00465,RailPartner Station 198,RailPartner Station 148,Highland Connect,Regional,102.2,4613,1541,33.41,67474.67,5091.93,1541,177,11.49,75,3.19,84.78,3.30,Monitor
+R00395,RailPartner Station 009,RailPartner Station 181,Highland Connect,Commuter,64.3,6214,2048,32.96,55177.84,5081.59,2048,247,12.06,80,3.92,85.06,2.48,Monitor
+R00214,RailPartner Station 124,RailPartner Station 091,Coastal Link,Regional,95.1,4742,1578,33.28,65266.59,5074.64,1578,202,12.80,69,3.75,84.55,3.22,Monitor
+R00615,RailPartner Station 129,RailPartner Station 240,Coastal Link,Commuter,73.9,5978,1947,32.57,57335.96,5074.16,1947,197,10.12,58,3.49,86.35,2.61,Monitor
+R00373,RailPartner Station 059,RailPartner Station 243,Anglia Rail Services,Commuter,65.8,5914,2017,34.11,54769.46,5072.22,2017,242,12.00,76,4.04,84.29,2.51,Monitor
+R00877,RailPartner Station 245,RailPartner Station 130,Welsh Regional Rail,Regional,103.0,4684,1553,33.16,67165.06,5065.58,1553,202,13.01,80,4.25,85.04,3.26,Monitor
+R00100,RailPartner Station 072,RailPartner Station 020,Capital Intercity,Regional,120.9,3986,1353,33.94,70541.56,5063.66,1353,135,9.98,46,3.39,85.97,3.74,Monitor
+R00089,RailPartner Station 033,RailPartner Station 035,Coastal Link,Commuter,68.4,5975,1946,32.57,55378.66,5062.46,1946,212,10.89,72,3.81,86.21,2.60,Monitor
+R00898,RailPartner Station 110,RailPartner Station 208,Northern Connect Rail,Commuter,74.4,5684,1923,33.83,56501.01,5061.10,1923,214,11.13,72,3.52,84.63,2.63,Monitor
+R00592,RailPartner Station 211,RailPartner Station 072,Northern Connect Rail,Regional,106.1,4395,1528,34.77,66771.72,5059.22,1528,159,10.41,59,3.76,85.87,3.31,Monitor
+R00350,RailPartner Station 166,RailPartner Station 159,Eastern Regional,Regional,97.1,4741,1557,32.84,65606.15,5058.63,1557,185,11.88,77,3.29,86.59,3.25,Monitor
+R00834,RailPartner Station 149,RailPartner Station 224,Western Express,Regional,87.2,4617,1640,35.52,63001.05,5053.53,1640,186,11.34,66,3.66,84.64,3.08,Protect High Demand
+R00243,RailPartner Station 093,RailPartner Station 216,Northern Connect Rail,Regional,109.9,4414,1473,33.37,67661.09,5052.54,1473,147,9.98,51,3.30,85.45,3.43,Monitor
+R00331,RailPartner Station 123,RailPartner Station 187,Central Metro Rail,Regional,86.2,4892,1636,33.44,63699.31,5049.68,1636,174,10.64,67,3.45,85.29,3.09,Monitor
+R00066,RailPartner Station 084,RailPartner Station 042,Midlands Railways,Regional,94.4,4732,1579,33.37,64673.83,5049.22,1579,183,11.59,64,3.75,85.44,3.20,Monitor
+R00833,RailPartner Station 241,RailPartner Station 047,Capital Intercity,Regional,128.4,4032,1314,32.59,71679.35,5046.98,1314,154,11.72,48,3.67,85.41,3.84,Monitor
+R00206,RailPartner Station 063,RailPartner Station 038,Highland Connect,Regional,97.7,4607,1553,33.71,65791.93,5046.40,1553,162,10.43,59,3.20,86.53,3.25,Monitor
+R00252,RailPartner Station 198,RailPartner Station 182,Coastal Link,Regional,104.0,4657,1525,32.75,67563.86,5043.46,1525,168,11.02,64,3.82,84.65,3.31,Monitor
+R00150,RailPartner Station 071,RailPartner Station 130,Northern Connect Rail,Regional,91.6,4942,1598,32.34,63295.10,5041.28,1598,198,12.39,77,3.98,84.59,3.15,Monitor
+R00977,RailPartner Station 205,RailPartner Station 209,Welsh Regional Rail,Regional,87.3,4805,1620,33.71,62858.46,5037.89,1620,169,10.43,56,3.83,85.24,3.11,Monitor
+R00486,RailPartner Station 190,RailPartner Station 085,Northern Connect Rail,Regional,93.2,4825,1572,32.58,64376.04,5037.72,1572,199,12.66,59,4.18,83.79,3.20,Monitor
+R01009,RailPartner Station 121,RailPartner Station 041,Northern Connect Rail,Commuter,65.8,5844,2004,34.29,54124.82,5037.30,2004,202,10.08,65,3.13,84.95,2.51,Monitor
+R00630,RailPartner Station 185,RailPartner Station 011,Midlands Railways,Commuter,65.9,5925,1976,33.35,54568.34,5029.65,1976,208,10.53,79,3.30,85.29,2.55,Monitor
+R00653,RailPartner Station 102,RailPartner Station 058,Welsh Regional Rail,Regional,90.5,4857,1598,32.90,63053.70,5029.23,1598,198,12.39,62,4.03,84.45,3.15,Monitor
+R00887,RailPartner Station 083,RailPartner Station 227,Western Express,Regional,90.3,4832,1598,33.07,63465.95,5024.84,1598,183,11.45,66,3.74,85.13,3.14,Monitor
+R00091,RailPartner Station 221,RailPartner Station 189,Central Metro Rail,Regional,122.4,4113,1363,33.14,70315.55,5019.05,1363,184,13.50,60,3.98,84.87,3.68,Monitor
+R00531,RailPartner Station 167,RailPartner Station 205,Western Express,Regional,81.6,4962,1695,34.16,61150.10,5014.92,1695,208,12.27,65,3.47,83.67,2.96,Monitor
+R00079,RailPartner Station 114,RailPartner Station 195,Coastal Link,Regional,86.1,4887,1629,33.33,62414.33,5014.43,1629,173,10.62,62,3.01,85.61,3.08,Monitor
+R00218,RailPartner Station 002,RailPartner Station 188,Welsh Regional Rail,Regional,97.8,4722,1549,32.80,64540.81,5003.49,1549,203,13.11,65,4.00,82.73,3.23,Monitor
+R01046,RailPartner Station 205,RailPartner Station 008,Southern Coast Rail,Commuter,73.1,5689,1910,33.57,56823.90,4995.89,1910,206,10.79,71,3.41,86.27,2.62,Monitor
+R00626,RailPartner Station 199,RailPartner Station 081,Coastal Link,Regional,91.8,4607,1585,34.40,63892.43,4994.31,1585,202,12.74,82,3.58,84.62,3.15,Monitor
+R00776,RailPartner Station 191,RailPartner Station 141,Southern Coast Rail,Regional,84.2,5023,1704,33.92,62887.32,4988.98,1704,198,11.62,76,3.42,85.08,2.93,Monitor
+R01143,RailPartner Station 028,RailPartner Station 151,Central Metro Rail,Regional,88.6,4730,1604,33.91,63044.62,4988.82,1604,189,11.78,60,3.75,84.63,3.11,Monitor
+R00026,RailPartner Station 018,RailPartner Station 231,Highland Connect,Regional,106.4,4352,1459,33.52,65804.16,4986.09,1459,175,11.99,62,3.84,85.35,3.42,Monitor
+R00664,RailPartner Station 231,RailPartner Station 043,Eastern Regional,Regional,108.6,4417,1437,32.53,67013.88,4984.46,1437,183,12.73,64,3.78,83.78,3.47,Monitor
+R00919,RailPartner Station 198,RailPartner Station 243,Eastern Regional,Regional,84.7,5041,1678,33.29,61963.87,4984.02,1678,200,11.92,68,3.76,84.64,2.97,Monitor
+R00777,RailPartner Station 199,RailPartner Station 083,Northern Connect Rail,Commuter,72.2,5746,1898,33.03,55200.43,4982.95,1898,223,11.75,75,3.74,84.49,2.63,Monitor
+R00271,RailPartner Station 206,RailPartner Station 193,Highland Connect,Regional,102.1,4491,1501,33.42,65567.43,4982.21,1501,163,10.86,53,3.71,85.55,3.32,Monitor
+R00757,RailPartner Station 096,RailPartner Station 232,Highland Connect,Regional,90.2,4708,1561,33.16,62661.99,4980.49,1561,182,11.66,70,3.66,86.23,3.19,Monitor
+R00195,RailPartner Station 200,RailPartner Station 152,Central Metro Rail,Regional,91.8,4737,1580,33.35,63023.59,4973.00,1580,192,12.15,62,3.62,83.43,3.15,Monitor
+R00379,RailPartner Station 165,RailPartner Station 042,CrossCountry Connect,Regional,96.7,4561,1530,33.55,63923.00,4970.74,1530,176,11.50,63,3.65,83.45,3.25,Monitor
+R00119,RailPartner Station 183,RailPartner Station 235,Southern Coast Rail,Regional,91.8,4911,1571,31.99,63431.63,4963.17,1571,174,11.08,53,3.62,85.89,3.16,Monitor
+R00544,RailPartner Station 203,RailPartner Station 096,Capital Intercity,Regional,107.1,4327,1445,33.39,66267.46,4956.78,1445,153,10.59,49,3.48,86.04,3.43,Monitor
+R00612,RailPartner Station 009,RailPartner Station 088,Central Metro Rail,Commuter,74.7,5689,1900,33.40,55619.69,4956.77,1900,218,11.47,73,3.48,84.87,2.61,Monitor
+R00895,RailPartner Station 180,RailPartner Station 097,Coastal Link,Regional,89.3,4799,1592,33.17,62001.75,4955.76,1592,184,11.56,73,3.44,85.17,3.11,Monitor
+R00174,RailPartner Station 014,RailPartner Station 149,Eastern Regional,Regional,112.3,4124,1413,34.26,67135.36,4951.97,1413,151,10.69,59,3.41,85.87,3.50,Monitor
+R00372,RailPartner Station 185,RailPartner Station 049,Central Metro Rail,Regional,102.5,4435,1475,33.26,65521.13,4949.96,1475,167,11.32,51,3.76,84.22,3.36,Monitor
+R00318,RailPartner Station 244,RailPartner Station 058,Southern Coast Rail,Commuter,72.0,5640,1928,34.18,54196.94,4948.30,1928,206,10.68,66,3.22,86.84,2.57,Monitor
+R00869,RailPartner Station 192,RailPartner Station 237,CrossCountry Connect,Commuter,76.8,5557,1837,33.06,56876.83,4941.62,1837,191,10.40,64,3.43,84.88,2.69,Monitor
+R00043,RailPartner Station 127,RailPartner Station 057,Capital Intercity,Regional,87.0,4945,1581,31.97,61686.03,4929.62,1581,173,10.94,63,3.33,84.90,3.12,Monitor
+R00321,RailPartner Station 074,RailPartner Station 058,Southern Coast Rail,Commuter,62.7,6018,1988,33.03,52113.72,4926.88,1988,222,11.17,70,3.64,85.16,2.48,Monitor
+R01058,RailPartner Station 223,RailPartner Station 128,Eastern Regional,Regional,106.2,4253,1457,34.26,66019.11,4925.35,1457,181,12.42,57,3.74,83.99,3.38,Monitor
+R00930,RailPartner Station 123,RailPartner Station 115,CrossCountry Connect,Commuter,74.8,5558,1846,33.21,55236.92,4914.48,1846,198,10.73,66,3.69,85.36,2.66,Monitor
+R00198,RailPartner Station 130,RailPartner Station 189,Welsh Regional Rail,Regional,86.0,4687,1592,33.97,60838.09,4914.03,1592,164,10.30,52,3.57,85.63,3.09,Monitor
+R00152,RailPartner Station 163,RailPartner Station 208,Capital Intercity,Commuter,78.0,5375,1815,33.77,56140.06,4912.57,1815,178,9.81,55,3.15,84.48,2.71,Monitor
+R00172,RailPartner Station 022,RailPartner Station 042,Anglia Rail Services,Commuter,75.1,5420,1835,33.86,55346.72,4906.60,1835,229,12.48,84,3.46,83.61,2.67,Monitor
+R00880,RailPartner Station 149,RailPartner Station 166,Anglia Rail Services,Regional,103.3,4389,1465,33.38,64566.64,4905.97,1465,160,10.92,60,3.56,86.90,3.35,Monitor
+R00750,RailPartner Station 152,RailPartner Station 089,Welsh Regional Rail,Regional,86.7,4651,1595,34.29,60678.22,4898.92,1595,180,11.29,61,3.51,85.58,3.07,Monitor
+R00408,RailPartner Station 064,RailPartner Station 030,Coastal Link,Commuter,54.2,6065,2088,34.43,48799.17,4892.11,2088,221,10.58,69,3.74,85.61,2.34,Monitor
+R00629,RailPartner Station 086,RailPartner Station 088,CrossCountry Connect,Regional,81.3,4821,1616,33.52,60011.72,4890.53,1616,172,10.64,65,3.32,85.83,3.03,Monitor
+R00025,RailPartner Station 167,RailPartner Station 068,CrossCountry Connect,Regional,86.2,5109,1595,31.22,61941.37,4886.92,1595,191,11.97,71,3.60,84.51,3.06,Monitor
+R00284,RailPartner Station 209,RailPartner Station 157,Eastern Regional,Regional,83.1,4995,1652,33.07,61008.63,4886.25,1652,196,11.86,65,3.71,85.32,2.96,Monitor
+R00832,RailPartner Station 223,RailPartner Station 093,Coastal Link,Regional,119.8,4037,1336,33.09,67920.18,4878.53,1336,143,10.70,53,3.23,86.13,3.65,Monitor
+R01043,RailPartner Station 197,RailPartner Station 024,Eastern Regional,Regional,106.2,4333,1441,33.26,65526.15,4877.54,1441,161,11.17,56,3.79,85.46,3.38,Monitor
+R01067,RailPartner Station 119,RailPartner Station 071,Central Metro Rail,Commuter,69.5,5662,1905,33.65,53342.70,4875.53,1905,219,11.50,75,3.82,84.88,2.56,Monitor
+R00329,RailPartner Station 236,RailPartner Station 027,Northern Connect Rail,Commuter,74.2,5470,1873,34.24,55090.71,4870.72,1873,216,11.53,73,3.62,85.56,2.60,Monitor
+R00907,RailPartner Station 228,RailPartner Station 218,Central Metro Rail,Regional,84.6,4714,1606,34.07,59761.78,4869.01,1606,191,11.89,59,4.14,84.12,3.03,Monitor
+R00791,RailPartner Station 082,RailPartner Station 151,Anglia Rail Services,Regional,105.2,4243,1436,33.84,65171.60,4858.63,1436,156,10.86,53,3.37,85.46,3.38,Monitor
+R00314,RailPartner Station 210,RailPartner Station 246,Welsh Regional Rail,Commuter,53.4,6387,2097,32.83,48332.08,4850.18,2097,227,10.82,60,3.74,85.27,2.31,Monitor
+R00642,RailPartner Station 080,RailPartner Station 108,Midlands Railways,Commuter,77.5,5352,1798,33.59,55320.62,4848.18,1798,214,11.90,53,3.76,84.05,2.70,Monitor
+R00589,RailPartner Station 220,RailPartner Station 230,Western Express,Commuter,65.2,5745,1951,33.96,52395.17,4844.36,1951,229,11.74,75,3.82,83.57,2.48,Monitor
+R00466,RailPartner Station 094,RailPartner Station 053,Welsh Regional Rail,Commuter,77.9,5387,1791,33.25,54672.74,4843.11,1791,178,9.94,60,3.29,87.92,2.70,Monitor
+R00238,RailPartner Station 091,RailPartner Station 012,Central Metro Rail,Regional,89.3,4560,1522,33.38,60556.19,4834.26,1522,170,11.17,58,3.63,85.72,3.18,Monitor
+R00114,RailPartner Station 129,RailPartner Station 023,Highland Connect,Commuter,57.4,5885,2002,34.02,49713.05,4830.10,2002,205,10.24,64,3.56,85.19,2.41,Monitor
+R00998,RailPartner Station 137,RailPartner Station 195,CrossCountry Connect,Commuter,65.2,5765,1918,33.27,50703.45,4825.15,1918,220,11.47,72,3.84,84.47,2.52,Monitor
+R00105,RailPartner Station 076,RailPartner Station 053,Coastal Link,Commuter,76.1,5302,1812,34.18,55116.54,4823.67,1812,189,10.43,51,3.78,85.25,2.66,Monitor
+R00030,RailPartner Station 110,RailPartner Station 241,Southern Coast Rail,Regional,85.6,4676,1582,33.83,60144.93,4822.57,1582,187,11.82,60,3.61,84.40,3.05,Monitor
+R00446,RailPartner Station 032,RailPartner Station 242,Southern Coast Rail,Commuter,74.9,5464,1827,33.44,54877.00,4822.16,1827,217,11.88,71,3.76,83.98,2.64,Monitor
+R00448,RailPartner Station 008,RailPartner Station 135,Capital Intercity,Regional,80.7,4817,1610,33.42,59606.95,4814.97,1610,192,11.93,57,3.78,83.02,2.99,Monitor
+R00569,RailPartner Station 059,RailPartner Station 069,Central Metro Rail,Regional,102.6,4357,1428,32.77,64395.90,4813.88,1428,189,13.24,68,3.38,83.80,3.37,Monitor
+R00624,RailPartner Station 188,RailPartner Station 230,Northern Connect Rail,Regional,106.7,4280,1433,33.48,64344.45,4806.43,1433,157,10.96,57,3.38,85.82,3.35,Monitor
+R00617,RailPartner Station 171,RailPartner Station 038,Northern Connect Rail,Regional,89.7,4714,1531,32.48,60589.30,4805.86,1531,178,11.63,69,3.43,85.58,3.14,Monitor
+R01061,RailPartner Station 102,RailPartner Station 038,Highland Connect,Regional,92.0,4735,1540,32.52,61005.11,4803.76,1540,169,10.97,65,3.63,84.73,3.12,Monitor
+R00316,RailPartner Station 174,RailPartner Station 164,CrossCountry Connect,Commuter,74.2,5579,1835,32.89,54322.77,4803.71,1835,212,11.55,56,3.79,82.88,2.62,Monitor
+R00183,RailPartner Station 145,RailPartner Station 010,Eastern Regional,Commuter,77.2,5239,1828,34.89,54395.53,4801.56,1828,203,11.11,85,3.25,87.18,2.63,Monitor
+R00912,RailPartner Station 155,RailPartner Station 013,Northern Connect Rail,Regional,99.7,4269,1469,34.41,63886.07,4800.38,1469,169,11.50,47,3.68,84.50,3.27,Monitor
+R01131,RailPartner Station 108,RailPartner Station 161,Capital Intercity,Regional,83.3,4672,1594,34.12,58154.05,4800.09,1594,193,12.11,67,3.65,84.40,3.01,Monitor
+R00609,RailPartner Station 205,RailPartner Station 224,Western Express,Regional,86.0,4859,1565,32.21,58971.24,4793.87,1565,191,12.20,56,3.51,84.44,3.06,Monitor
+R00699,RailPartner Station 214,RailPartner Station 179,Central Metro Rail,Regional,88.7,4653,1578,33.91,61180.09,4793.74,1578,170,10.77,62,3.63,85.49,3.04,Monitor
+R00523,RailPartner Station 013,RailPartner Station 164,CrossCountry Connect,Regional,105.7,4411,1387,31.44,64277.19,4786.95,1387,151,10.89,60,3.43,86.00,3.45,Monitor
+R00313,RailPartner Station 224,RailPartner Station 171,Central Metro Rail,Commuter,76.2,5297,1797,33.92,54459.11,4780.79,1797,202,11.24,57,3.81,84.84,2.66,Monitor
+R00680,RailPartner Station 183,RailPartner Station 238,Midlands Railways,Regional,104.6,4275,1417,33.15,63869.07,4779.38,1417,162,11.43,66,3.12,85.00,3.37,Monitor
+R00170,RailPartner Station 130,RailPartner Station 193,Southern Coast Rail,Regional,85.1,4850,1542,31.79,58595.56,4777.80,1542,172,11.15,63,3.51,85.00,3.10,Monitor
+R00700,RailPartner Station 013,RailPartner Station 188,Highland Connect,Regional,102.2,4348,1443,33.19,62889.14,4774.89,1443,177,12.27,48,3.70,82.96,3.31,Monitor
+R00793,RailPartner Station 156,RailPartner Station 008,Southern Coast Rail,Commuter,61.0,5785,1956,33.81,49617.70,4768.34,1956,197,10.07,67,3.06,86.26,2.44,Monitor
+R00454,RailPartner Station 235,RailPartner Station 083,CrossCountry Connect,Commuter,68.0,5667,1864,32.89,52421.36,4766.79,1864,217,11.64,71,3.42,84.19,2.56,Monitor
+R00734,RailPartner Station 092,RailPartner Station 208,Western Express,Commuter,78.9,5326,1742,32.71,53863.56,4764.20,1742,194,11.14,70,3.36,85.07,2.73,Monitor
+R00464,RailPartner Station 185,RailPartner Station 027,Welsh Regional Rail,Regional,80.2,4827,1614,33.44,58374.16,4757.80,1614,194,12.02,77,3.47,84.11,2.95,Monitor
+R00341,RailPartner Station 038,RailPartner Station 035,Coastal Link,Commuter,48.1,6299,2140,33.97,46558.44,4756.57,2140,225,10.51,70,3.52,84.93,2.22,Monitor
+R00527,RailPartner Station 095,RailPartner Station 243,Anglia Rail Services,Regional,92.3,4645,1479,31.84,59104.97,4746.86,1479,154,10.41,52,3.10,85.36,3.21,Monitor
+R00199,RailPartner Station 045,RailPartner Station 108,Midlands Railways,Commuter,77.5,5152,1741,33.79,53947.74,4741.19,1741,209,12.00,74,4.12,84.88,2.72,Monitor
+R00522,RailPartner Station 191,RailPartner Station 197,Northern Connect Rail,Regional,95.1,4443,1486,33.45,61543.04,4740.46,1486,168,11.31,66,3.47,85.87,3.19,Monitor
+R00986,RailPartner Station 099,RailPartner Station 071,Highland Connect,Commuter,60.8,5924,1966,33.19,49605.49,4735.74,1966,228,11.60,79,3.35,85.41,2.41,Monitor
+R00469,RailPartner Station 171,RailPartner Station 102,Southern Coast Rail,Regional,85.0,4462,1529,34.27,59386.35,4734.39,1529,158,10.33,68,3.15,86.50,3.10,Monitor
+R00258,RailPartner Station 108,RailPartner Station 218,Central Metro Rail,Regional,104.2,4248,1405,33.07,63196.04,4732.29,1405,177,12.60,75,3.38,85.26,3.37,Monitor
+R00802,RailPartner Station 110,RailPartner Station 135,Capital Intercity,Commuter,70.4,5564,1828,32.85,52351.17,4732.11,1828,201,11.00,56,3.95,84.70,2.59,Monitor
+R00230,RailPartner Station 226,RailPartner Station 187,Western Express,Commuter,56.8,6002,2006,33.42,47856.36,4727.45,2006,240,11.96,76,3.77,84.40,2.36,Monitor
+R00771,RailPartner Station 221,RailPartner Station 243,Highland Connect,Regional,91.3,4488,1491,33.22,59306.27,4727.05,1491,166,11.13,61,3.45,85.43,3.17,Monitor
+R00665,RailPartner Station 156,RailPartner Station 165,Northern Connect Rail,Commuter,70.0,5396,1852,34.32,52146.71,4725.27,1852,234,12.63,78,3.62,84.54,2.55,Monitor
+R00506,RailPartner Station 089,RailPartner Station 130,Northern Connect Rail,Commuter,74.2,5388,1765,32.76,53761.63,4725.19,1765,212,12.01,62,4.16,83.56,2.68,Monitor
+R00232,RailPartner Station 106,RailPartner Station 249,Capital Intercity,Commuter,74.1,5515,1823,33.06,53580.08,4722.76,1823,183,10.04,59,3.48,85.37,2.59,Monitor
+R00005,RailPartner Station 010,RailPartner Station 101,CrossCountry Connect,Commuter,55.3,5919,2010,33.96,48019.96,4722.20,2010,226,11.24,72,3.48,84.27,2.35,Monitor
+R01140,RailPartner Station 164,RailPartner Station 032,Capital Intercity,Commuter,79.2,5140,1747,33.99,53294.24,4721.53,1747,221,12.65,74,3.72,84.75,2.70,Monitor
+R00845,RailPartner Station 112,RailPartner Station 059,Central Metro Rail,Commuter,68.7,5656,1863,32.94,51741.11,4716.19,1863,202,10.84,61,3.53,84.99,2.53,Monitor
+R01189,RailPartner Station 160,RailPartner Station 062,Coastal Link,Regional,100.7,4301,1429,33.22,62434.06,4714.74,1429,166,11.62,58,3.65,83.79,3.30,Monitor
+R00377,RailPartner Station 094,RailPartner Station 163,Welsh Regional Rail,Regional,83.0,4680,1555,33.23,57643.38,4712.24,1555,180,11.58,66,3.46,85.07,3.03,Monitor
+R00646,RailPartner Station 098,RailPartner Station 172,Central Metro Rail,Commuter,72.0,5452,1830,33.57,52811.40,4706.50,1830,217,11.86,72,3.88,83.87,2.57,Monitor
+R00181,RailPartner Station 176,RailPartner Station 004,Capital Intercity,Commuter,56.3,5986,2009,33.56,47457.85,4702.99,2009,207,10.30,67,3.29,85.65,2.34,Monitor
+R00789,RailPartner Station 250,RailPartner Station 009,Highland Connect,Regional,82.3,4512,1559,34.55,57847.59,4701.17,1559,182,11.67,60,3.58,85.48,3.02,Monitor
+R00577,RailPartner Station 010,RailPartner Station 244,Eastern Regional,Regional,84.0,4709,1575,33.45,57981.07,4699.87,1575,184,11.68,68,3.28,85.02,2.98,Monitor
+R00822,RailPartner Station 052,RailPartner Station 247,Coastal Link,Regional,94.7,4229,1487,35.16,61242.17,4696.56,1487,154,10.36,56,3.35,85.39,3.16,Protect High Demand
+R01089,RailPartner Station 014,RailPartner Station 038,Anglia Rail Services,Regional,89.5,4455,1514,33.98,59596.49,4688.33,1514,157,10.37,54,3.44,86.64,3.10,Monitor
+R00650,RailPartner Station 155,RailPartner Station 231,Welsh Regional Rail,Regional,104.1,4124,1382,33.51,61780.00,4687.68,1382,165,11.94,52,3.84,84.47,3.39,Monitor
+R00921,RailPartner Station 039,RailPartner Station 197,Western Express,Regional,105.0,4165,1383,33.21,61576.68,4687.41,1383,151,10.92,58,3.49,84.75,3.39,Monitor
+R00489,RailPartner Station 045,RailPartner Station 232,CrossCountry Connect,Commuter,59.8,5627,1946,34.58,48447.60,4686.64,1946,217,11.15,70,3.71,84.92,2.41,Monitor
+R00747,RailPartner Station 063,RailPartner Station 227,Anglia Rail Services,Regional,93.2,4396,1487,33.83,59802.24,4686.31,1487,169,11.37,57,3.57,85.62,3.15,Monitor
+R00864,RailPartner Station 191,RailPartner Station 002,Central Metro Rail,Regional,81.0,4756,1578,33.18,57691.05,4683.16,1578,192,12.17,72,3.70,85.01,2.97,Monitor
+R00461,RailPartner Station 177,RailPartner Station 010,Anglia Rail Services,Commuter,78.7,5180,1706,32.93,54328.66,4679.61,1706,191,11.20,66,3.40,84.80,2.74,Monitor
+R00038,RailPartner Station 104,RailPartner Station 015,Capital Intercity,Regional,99.0,4310,1421,32.97,61052.00,4672.52,1421,170,11.96,51,3.69,84.04,3.29,Monitor
+R01180,RailPartner Station 021,RailPartner Station 027,Coastal Link,Commuter,56.0,5831,1969,33.77,46536.58,4670.49,1969,234,11.88,81,4.20,85.05,2.37,Monitor
+R00450,RailPartner Station 117,RailPartner Station 013,Southern Coast Rail,Commuter,70.4,5173,1828,35.34,50820.16,4667.71,1828,198,10.83,71,3.51,85.14,2.55,Protect High Demand
+R00779,RailPartner Station 057,RailPartner Station 156,Southern Coast Rail,Regional,82.0,4807,1568,32.62,57978.84,4662.46,1568,179,11.42,64,3.68,84.65,2.97,Monitor
+R00071,RailPartner Station 213,RailPartner Station 198,CrossCountry Connect,Regional,96.6,4256,1433,33.67,60190.53,4646.81,1433,161,11.24,66,3.23,84.59,3.24,Monitor
+R00997,RailPartner Station 214,RailPartner Station 108,Capital Intercity,Regional,84.1,4498,1518,33.75,57370.39,4645.23,1518,150,9.88,60,2.95,87.62,3.06,Monitor
+R00739,RailPartner Station 247,RailPartner Station 044,Highland Connect,Regional,117.1,3920,1282,32.70,62870.21,4644.29,1282,148,11.54,48,3.88,84.91,3.62,Monitor
+R00888,RailPartner Station 063,RailPartner Station 100,Highland Connect,Commuter,70.9,5439,1786,32.84,52001.85,4636.86,1786,211,11.81,66,3.82,83.78,2.60,Monitor
+R00784,RailPartner Station 142,RailPartner Station 035,Capital Intercity,Commuter,42.1,6368,2133,33.50,42390.37,4633.88,2133,246,11.53,76,3.73,85.68,2.17,Monitor
+R00470,RailPartner Station 023,RailPartner Station 008,Midlands Railways,Commuter,51.7,5862,2009,34.27,45851.10,4627.71,2009,235,11.70,84,3.50,85.49,2.30,Monitor
+R00185,RailPartner Station 117,RailPartner Station 140,Eastern Regional,Commuter,53.3,5910,2010,34.01,45975.08,4627.11,2010,222,11.04,80,3.59,85.93,2.30,Monitor
+R00826,RailPartner Station 001,RailPartner Station 126,Northern Connect Rail,Commuter,61.5,5509,1898,34.45,48688.92,4624.45,1898,204,10.75,63,3.42,84.95,2.44,Monitor
+R00261,RailPartner Station 215,RailPartner Station 028,Capital Intercity,Regional,87.0,4646,1526,32.85,57782.31,4624.24,1526,167,10.94,65,3.29,86.07,3.03,Monitor
+R00251,RailPartner Station 076,RailPartner Station 169,Anglia Rail Services,Regional,81.2,4841,1568,32.39,57425.19,4623.66,1568,176,11.22,61,3.47,84.59,2.95,Monitor
+R00179,RailPartner Station 195,RailPartner Station 048,Coastal Link,Commuter,73.3,5218,1781,34.13,51627.88,4619.42,1781,218,12.24,67,3.98,84.82,2.59,Monitor
+R00404,RailPartner Station 048,RailPartner Station 152,Capital Intercity,Regional,88.9,4435,1482,33.42,57909.22,4617.68,1482,150,10.12,49,3.35,85.54,3.12,Monitor
+R00966,RailPartner Station 192,RailPartner Station 215,Coastal Link,Commuter,78.5,4979,1715,34.44,53200.31,4615.38,1715,181,10.55,69,3.53,86.36,2.69,Monitor
+R00380,RailPartner Station 182,RailPartner Station 012,Southern Coast Rail,Commuter,77.8,5251,1741,33.16,53465.18,4614.77,1741,185,10.63,71,3.49,84.67,2.65,Monitor
+R00432,RailPartner Station 173,RailPartner Station 162,Capital Intercity,Commuter,65.4,5521,1825,33.06,48489.75,4607.99,1825,181,9.92,54,3.39,85.02,2.52,Monitor
+R00109,RailPartner Station 008,RailPartner Station 073,Eastern Regional,Regional,85.6,4454,1498,33.63,56965.20,4606.28,1498,166,11.08,53,3.58,84.11,3.07,Monitor
+R00358,RailPartner Station 158,RailPartner Station 199,CrossCountry Connect,Commuter,63.2,5796,1861,32.11,48168.03,4604.64,1861,181,9.73,52,3.49,86.09,2.47,Monitor
+R00710,RailPartner Station 050,RailPartner Station 177,Midlands Railways,Regional,96.9,4190,1412,33.70,59668.47,4603.65,1412,154,10.91,49,3.47,85.26,3.26,Monitor
+R01069,RailPartner Station 074,RailPartner Station 006,Western Express,Commuter,75.3,5196,1732,33.33,51717.71,4599.36,1732,196,11.32,77,3.37,86.03,2.66,Monitor
+R00253,RailPartner Station 174,RailPartner Station 019,Coastal Link,Commuter,61.0,5657,1881,33.25,47778.65,4596.54,1881,199,10.58,58,3.44,84.56,2.44,Monitor
+R00128,RailPartner Station 094,RailPartner Station 031,Highland Connect,Commuter,63.4,5642,1850,32.79,48853.85,4595.47,1850,199,10.76,75,3.45,85.81,2.48,Monitor
+R00817,RailPartner Station 100,RailPartner Station 069,Midlands Railways,Commuter,73.5,5276,1786,33.85,51259.94,4591.01,1786,213,11.93,62,3.60,83.74,2.57,Monitor
+R00982,RailPartner Station 148,RailPartner Station 039,Eastern Regional,Commuter,68.9,5286,1781,33.69,50229.73,4589.79,1781,188,10.56,56,3.61,84.90,2.58,Monitor
+R00586,RailPartner Station 098,RailPartner Station 250,Midlands Railways,Regional,82.7,4687,1544,32.94,56922.25,4584.54,1544,169,10.95,46,3.67,84.83,2.97,Monitor
+R00985,RailPartner Station 013,RailPartner Station 038,Welsh Regional Rail,Commuter,71.6,5314,1745,32.84,51046.87,4581.52,1745,223,12.78,79,3.80,85.09,2.63,Monitor
+R00416,RailPartner Station 034,RailPartner Station 062,Midlands Railways,Regional,81.7,4762,1549,32.53,56908.11,4580.43,1549,156,10.07,46,2.95,85.19,2.96,Monitor
+R00773,RailPartner Station 060,RailPartner Station 086,Coastal Link,Commuter,59.8,5548,1911,34.44,48207.83,4575.75,1911,215,11.25,67,3.87,84.44,2.39,Monitor
+R00388,RailPartner Station 106,RailPartner Station 155,Highland Connect,Regional,80.7,4705,1544,32.82,56089.93,4574.66,1544,189,12.24,80,3.77,86.13,2.96,Monitor
+R00342,RailPartner Station 117,RailPartner Station 033,Coastal Link,Commuter,75.6,5190,1727,33.28,52131.69,4569.65,1727,159,9.21,52,3.03,86.30,2.65,Monitor
+R00285,RailPartner Station 213,RailPartner Station 071,Capital Intercity,Commuter,70.5,5268,1785,33.88,50349.47,4566.80,1785,176,9.86,57,3.51,85.84,2.56,Monitor
+R00980,RailPartner Station 134,RailPartner Station 005,Southern Coast Rail,Commuter,66.8,5162,1744,33.79,49595.82,4555.69,1744,192,11.01,70,3.40,85.46,2.61,Monitor
+R00237,RailPartner Station 090,RailPartner Station 158,CrossCountry Connect,Commuter,69.6,5450,1785,32.75,50317.14,4553.47,1785,205,11.48,66,3.84,85.19,2.55,Monitor
+R00474,RailPartner Station 117,RailPartner Station 089,Capital Intercity,Commuter,65.2,5331,1824,34.21,48748.57,4547.72,1824,194,10.64,72,3.60,85.37,2.49,Monitor
+R01085,RailPartner Station 158,RailPartner Station 012,Eastern Regional,Commuter,62.4,5508,1860,33.77,47990.34,4545.61,1860,206,11.08,57,3.62,84.41,2.44,Monitor
+R00018,RailPartner Station 226,RailPartner Station 023,Capital Intercity,Commuter,58.1,5664,1878,33.16,46887.78,4545.39,1878,204,10.86,57,3.59,85.16,2.42,Monitor
+R00365,RailPartner Station 111,RailPartner Station 172,Anglia Rail Services,Commuter,70.9,5188,1756,33.85,50349.56,4543.94,1756,202,11.50,63,3.93,84.58,2.59,Monitor
+R00674,RailPartner Station 085,RailPartner Station 093,Midlands Railways,Regional,89.9,4232,1451,34.29,58111.67,4543.85,1451,166,11.44,51,3.65,84.68,3.13,Monitor
+R01096,RailPartner Station 225,RailPartner Station 182,CrossCountry Connect,Commuter,61.1,5381,1852,34.42,47839.69,4539.96,1852,203,10.96,55,3.71,84.50,2.45,Monitor
+R00312,RailPartner Station 068,RailPartner Station 095,Anglia Rail Services,Regional,86.6,4542,1489,32.78,56430.69,4539.14,1489,170,11.42,61,3.81,83.84,3.05,Monitor
+R00567,RailPartner Station 020,RailPartner Station 077,Northern Connect Rail,Commuter,68.8,5325,1820,34.18,49485.01,4533.96,1820,191,10.49,57,3.68,85.65,2.49,Monitor
+R00159,RailPartner Station 242,RailPartner Station 188,Northern Connect Rail,Commuter,58.4,5489,1894,34.51,47009.28,4528.71,1894,198,10.45,57,3.84,85.46,2.39,Monitor
+R00636,RailPartner Station 192,RailPartner Station 060,Northern Connect Rail,Regional,81.7,4696,1538,32.75,55259.89,4526.37,1538,170,11.05,59,3.85,83.97,2.94,Monitor
+R00178,RailPartner Station 165,RailPartner Station 046,Highland Connect,Regional,91.9,4276,1445,33.79,59033.47,4523.24,1445,160,11.07,55,3.45,83.96,3.13,Monitor
+R00153,RailPartner Station 241,RailPartner Station 152,Highland Connect,Regional,86.8,4491,1514,33.71,57929.47,4516.28,1514,157,10.37,45,3.77,85.34,2.98,Monitor
+R00814,RailPartner Station 105,RailPartner Station 213,Northern Connect Rail,Commuter,66.2,5389,1784,33.10,48080.59,4515.44,1784,185,10.37,56,3.18,86.05,2.53,Monitor
+R00274,RailPartner Station 169,RailPartner Station 075,Southern Coast Rail,Regional,83.4,4556,1507,33.08,55858.26,4511.17,1507,167,11.08,55,3.57,84.54,2.99,Monitor
+R00594,RailPartner Station 079,RailPartner Station 129,Eastern Regional,Commuter,45.3,6296,2020,32.08,42695.11,4510.30,2020,219,10.84,88,3.34,86.72,2.23,Monitor
+R00027,RailPartner Station 006,RailPartner Station 192,CrossCountry Connect,Regional,115.4,4017,1294,32.21,61730.74,4502.88,1294,147,11.36,40,3.94,83.32,3.48,Monitor
+R00913,RailPartner Station 194,RailPartner Station 102,Highland Connect,Commuter,61.9,5475,1825,33.33,47904.31,4499.07,1825,208,11.40,50,4.35,83.97,2.47,Monitor
+R01164,RailPartner Station 025,RailPartner Station 236,Midlands Railways,Regional,86.2,4397,1499,34.09,55733.43,4494.83,1499,181,12.07,66,3.58,84.75,3.00,Monitor
+R00031,RailPartner Station 003,RailPartner Station 153,Western Express,Commuter,76.8,5133,1696,33.04,50861.15,4493.10,1696,161,9.49,55,3.41,86.86,2.65,Monitor
+R00305,RailPartner Station 006,RailPartner Station 095,Highland Connect,Regional,119.8,3883,1253,32.27,62550.58,4487.78,1253,108,8.62,36,3.06,87.55,3.58,Monitor
+R00368,RailPartner Station 234,RailPartner Station 052,Eastern Regional,Regional,96.4,4164,1387,33.31,58043.14,4480.45,1387,178,12.83,54,3.86,84.88,3.23,Monitor
+R00499,RailPartner Station 218,RailPartner Station 119,Anglia Rail Services,Regional,95.7,4313,1394,32.32,57974.71,4480.30,1394,157,11.26,60,3.06,86.55,3.21,Monitor
+R01041,RailPartner Station 006,RailPartner Station 177,Western Express,Regional,108.6,3880,1272,32.78,59979.22,4480.10,1272,151,11.87,56,3.89,84.43,3.52,Monitor
+R00197,RailPartner Station 056,RailPartner Station 163,Northern Connect Rail,Commuter,62.4,5590,1816,32.49,47449.10,4479.75,1816,180,9.91,67,3.24,86.89,2.47,Monitor
+R00196,RailPartner Station 044,RailPartner Station 159,Western Express,Commuter,70.4,5279,1749,33.13,49170.57,4473.37,1749,180,10.29,59,3.40,85.13,2.56,Monitor
+R00546,RailPartner Station 221,RailPartner Station 054,Anglia Rail Services,Regional,129.3,3675,1189,32.35,63291.01,4471.82,1189,139,11.69,52,3.61,85.12,3.76,Monitor
+R00229,RailPartner Station 237,RailPartner Station 197,Midlands Railways,Commuter,61.8,5421,1833,33.81,47508.65,4455.90,1833,205,11.18,64,3.64,84.50,2.43,Monitor
+R00738,RailPartner Station 155,RailPartner Station 182,Welsh Regional Rail,Commuter,68.8,5263,1766,33.56,49453.12,4454.13,1766,183,10.36,48,3.52,85.02,2.52,Monitor
+R00622,RailPartner Station 003,RailPartner Station 023,CrossCountry Connect,Commuter,62.1,5392,1827,33.88,47164.28,4453.87,1827,212,11.60,56,3.60,84.10,2.44,Monitor
+R00096,RailPartner Station 104,RailPartner Station 159,Midlands Railways,Commuter,65.7,5145,1769,34.38,47623.18,4452.43,1769,216,12.21,71,3.87,84.38,2.52,Monitor
+R00168,RailPartner Station 007,RailPartner Station 051,Capital Intercity,Commuter,45.0,5918,1988,33.59,41509.67,4450.74,1988,221,11.12,70,3.31,86.30,2.24,Monitor
+R00914,RailPartner Station 190,RailPartner Station 245,Eastern Regional,Commuter,56.5,5662,1893,33.43,45305.08,4447.69,1893,216,11.41,65,4.21,84.41,2.35,Monitor
+R00775,RailPartner Station 052,RailPartner Station 035,Highland Connect,Commuter,51.2,6021,1956,32.49,43665.77,4444.35,1956,246,12.58,77,3.78,83.60,2.27,Monitor
+R01193,RailPartner Station 176,RailPartner Station 158,CrossCountry Connect,Commuter,45.6,6047,1985,32.83,42631.66,4440.25,1985,244,12.29,90,3.58,84.92,2.24,Monitor
+R00244,RailPartner Station 217,RailPartner Station 122,Capital Intercity,Commuter,62.5,5423,1789,32.99,47203.15,4437.17,1789,195,10.90,56,3.87,85.17,2.48,Monitor
+R01158,RailPartner Station 164,RailPartner Station 216,Western Express,Regional,80.9,4590,1520,33.12,54443.47,4435.34,1520,161,10.59,61,3.22,85.62,2.92,Monitor
+R01066,RailPartner Station 002,RailPartner Station 192,Central Metro Rail,Regional,80.1,4617,1516,32.84,54901.79,4434.47,1516,177,11.68,61,3.66,84.69,2.93,Monitor
+R01144,RailPartner Station 185,RailPartner Station 037,CrossCountry Connect,Commuter,65.4,5079,1731,34.08,47352.65,4432.78,1731,183,10.57,62,3.27,85.87,2.56,Monitor
+R00537,RailPartner Station 156,RailPartner Station 197,Southern Coast Rail,Regional,81.0,4508,1468,32.56,54047.73,4427.52,1468,144,9.81,62,3.16,86.71,3.02,Monitor
+R00112,RailPartner Station 081,RailPartner Station 189,Capital Intercity,Regional,82.4,4394,1471,33.48,55106.76,4425.49,1471,170,11.56,59,3.37,84.28,3.01,Monitor
+R01165,RailPartner Station 115,RailPartner Station 112,Midlands Railways,Commuter,53.1,5607,1885,33.62,44209.26,4424.57,1885,211,11.19,68,3.85,84.89,2.35,Monitor
+R00968,RailPartner Station 113,RailPartner Station 197,Eastern Regional,Commuter,78.4,4814,1647,34.21,50983.85,4423.67,1647,199,12.08,63,3.97,84.21,2.69,Monitor
+R00897,RailPartner Station 202,RailPartner Station 136,Midlands Railways,Commuter,65.9,5366,1752,32.65,47913.29,4423.09,1752,192,10.96,48,3.60,85.27,2.52,Monitor
+R00559,RailPartner Station 221,RailPartner Station 125,Southern Coast Rail,Regional,118.0,3785,1215,32.10,60713.22,4420.64,1215,142,11.69,55,3.60,85.42,3.64,Monitor
+R00148,RailPartner Station 006,RailPartner Station 116,Anglia Rail Services,Commuter,58.9,5384,1820,33.80,45593.65,4410.86,1820,197,10.82,71,3.38,85.50,2.42,Monitor
+R01097,RailPartner Station 151,RailPartner Station 128,Anglia Rail Services,Commuter,63.0,5369,1755,32.69,47129.84,4405.53,1755,187,10.66,56,3.46,85.88,2.51,Monitor
+R00709,RailPartner Station 060,RailPartner Station 225,Southern Coast Rail,Commuter,64.7,5454,1784,32.71,47610.49,4402.39,1784,220,12.33,70,3.86,84.59,2.47,Monitor
+R00299,RailPartner Station 108,RailPartner Station 154,CrossCountry Connect,Regional,91.4,4068,1400,34.41,56487.91,4398.54,1400,147,10.50,58,3.26,87.40,3.14,Monitor
+R00733,RailPartner Station 049,RailPartner Station 109,Anglia Rail Services,Commuter,71.0,5086,1725,33.92,48547.47,4397.66,1725,182,10.55,64,3.33,85.33,2.55,Monitor
+R00696,RailPartner Station 215,RailPartner Station 168,Welsh Regional Rail,Regional,101.1,4175,1342,32.14,58274.06,4395.35,1342,136,10.13,40,3.72,85.00,3.28,Monitor
+R00562,RailPartner Station 061,RailPartner Station 096,Coastal Link,Regional,107.2,3893,1272,32.67,59563.15,4395.35,1272,146,11.48,45,3.81,85.27,3.46,Monitor
+R01118,RailPartner Station 211,RailPartner Station 241,Western Express,Commuter,68.7,5258,1711,32.54,47763.79,4391.83,1711,193,11.28,74,3.29,85.13,2.57,Monitor
+R00824,RailPartner Station 238,RailPartner Station 229,Anglia Rail Services,Regional,104.7,3800,1282,33.74,58140.52,4380.50,1282,124,9.67,56,2.78,88.05,3.42,Monitor
+R00205,RailPartner Station 058,RailPartner Station 033,Eastern Regional,Commuter,69.2,5267,1734,32.92,48393.12,4373.75,1734,194,11.19,66,3.67,85.76,2.52,Monitor
+R00596,RailPartner Station 153,RailPartner Station 104,Coastal Link,Commuter,74.0,4974,1655,33.27,49276.62,4370.27,1655,192,11.60,62,3.77,84.46,2.64,Monitor
+R00242,RailPartner Station 236,RailPartner Station 020,Coastal Link,Regional,87.1,4267,1431,33.54,54169.53,4367.09,1431,180,12.58,67,3.49,83.58,3.05,Monitor
+R00039,RailPartner Station 064,RailPartner Station 133,Capital Intercity,Commuter,40.9,6069,2010,33.12,39306.86,4366.30,2010,243,12.09,71,3.94,83.75,2.17,Monitor
+R00127,RailPartner Station 146,RailPartner Station 045,Anglia Rail Services,Commuter,51.8,5794,1930,33.31,43616.47,4365.82,1930,234,12.12,70,3.83,82.91,2.26,Monitor
+R00568,RailPartner Station 019,RailPartner Station 036,Midlands Railways,Regional,84.7,4255,1455,34.20,54177.64,4363.93,1455,156,10.72,52,3.15,86.19,3.00,Monitor
+R00787,RailPartner Station 086,RailPartner Station 127,Coastal Link,Commuter,50.8,5621,1911,34.00,42985.49,4360.12,1911,232,12.14,73,3.58,84.17,2.28,Monitor
+R00765,RailPartner Station 038,RailPartner Station 006,Anglia Rail Services,Commuter,74.3,4914,1649,33.56,49225.26,4358.99,1649,163,9.88,47,3.63,85.36,2.64,Monitor
+R01110,RailPartner Station 014,RailPartner Station 203,Midlands Railways,Regional,94.9,4162,1365,32.80,55656.25,4358.99,1365,143,10.48,49,3.38,85.60,3.19,Monitor
+R00922,RailPartner Station 141,RailPartner Station 206,Anglia Rail Services,Commuter,65.8,5149,1737,33.73,46511.21,4351.93,1737,183,10.54,55,3.51,84.96,2.51,Monitor
+R00828,RailPartner Station 170,RailPartner Station 110,CrossCountry Connect,Commuter,67.4,5202,1730,33.26,48088.80,4351.40,1730,215,12.43,74,3.82,84.13,2.52,Monitor
+R00267,RailPartner Station 019,RailPartner Station 034,Capital Intercity,Commuter,54.1,5788,1868,32.27,43589.46,4350.96,1868,202,10.81,61,3.68,84.51,2.33,Monitor
+R00220,RailPartner Station 037,RailPartner Station 200,Northern Connect Rail,Commuter,66.8,5212,1727,33.14,47539.31,4346.59,1727,198,11.46,62,3.68,83.79,2.52,Monitor
+R01029,RailPartner Station 186,RailPartner Station 196,CrossCountry Connect,Commuter,38.4,6102,2069,33.91,39098.19,4346.19,2069,235,11.36,77,3.25,85.25,2.10,Monitor
+R01100,RailPartner Station 063,RailPartner Station 023,Western Express,Commuter,59.5,5358,1799,33.58,45173.12,4338.23,1799,201,11.17,51,3.55,83.97,2.41,Monitor
+R00894,RailPartner Station 133,RailPartner Station 214,Coastal Link,Commuter,58.8,5510,1822,33.07,44013.55,4333.73,1822,179,9.82,52,3.42,85.91,2.38,Monitor
+R00204,RailPartner Station 248,RailPartner Station 179,Central Metro Rail,Commuter,62.7,5173,1731,33.46,45965.01,4322.37,1731,182,10.51,61,3.42,85.64,2.50,Monitor
+R00952,RailPartner Station 247,RailPartner Station 124,Welsh Regional Rail,Regional,96.8,4039,1335,33.05,55816.17,4318.85,1335,143,10.71,53,3.48,85.03,3.24,Monitor
+R00383,RailPartner Station 001,RailPartner Station 033,Coastal Link,Commuter,66.3,5296,1714,32.36,47527.06,4317.59,1714,205,11.96,77,3.62,84.69,2.52,Monitor
+R00059,RailPartner Station 170,RailPartner Station 104,Coastal Link,Regional,90.7,4117,1354,32.89,54834.15,4317.56,1354,143,10.56,46,3.31,84.83,3.19,Monitor
+R00861,RailPartner Station 170,RailPartner Station 128,Western Express,Commuter,63.5,5214,1749,33.54,45623.04,4315.63,1749,199,11.38,62,3.65,83.97,2.47,Monitor
+R01016,RailPartner Station 120,RailPartner Station 217,Southern Coast Rail,Commuter,51.8,5525,1886,34.14,41368.45,4304.27,1886,168,8.91,58,3.23,86.14,2.28,Monitor
+R01126,RailPartner Station 239,RailPartner Station 078,Central Metro Rail,Commuter,70.7,5014,1660,33.11,47215.84,4303.31,1660,190,11.45,65,3.41,84.96,2.59,Monitor
+R00241,RailPartner Station 069,RailPartner Station 135,Western Express,Commuter,72.3,4903,1647,33.59,47787.79,4301.62,1647,196,11.90,40,4.54,83.63,2.61,Monitor
+R01031,RailPartner Station 013,RailPartner Station 009,Central Metro Rail,Commuter,61.2,5390,1773,32.89,44961.42,4294.51,1773,181,10.21,57,3.26,85.40,2.42,Monitor
+R00425,RailPartner Station 231,RailPartner Station 076,CrossCountry Connect,Commuter,55.6,5417,1831,33.80,43774.06,4288.83,1831,213,11.63,67,3.65,84.63,2.34,Monitor
+R00397,RailPartner Station 180,RailPartner Station 055,Capital Intercity,Commuter,48.3,5563,1903,34.21,41447.83,4288.74,1903,214,11.25,56,3.53,85.76,2.25,Monitor
+R00620,RailPartner Station 081,RailPartner Station 163,Western Express,Commuter,67.7,5027,1678,33.38,47148.47,4288.68,1678,185,11.03,67,3.48,85.35,2.56,Monitor
+R01074,RailPartner Station 027,RailPartner Station 063,CrossCountry Connect,Commuter,58.6,5253,1759,33.49,43352.69,4287.79,1759,202,11.48,66,3.81,84.97,2.44,Monitor
+R00324,RailPartner Station 250,RailPartner Station 113,Western Express,Commuter,77.4,4789,1574,32.87,49238.67,4277.96,1574,180,11.44,61,3.28,84.48,2.72,Monitor
+R00129,RailPartner Station 037,RailPartner Station 031,Capital Intercity,Commuter,70.6,5107,1654,32.39,48237.70,4272.32,1654,176,10.64,57,3.37,85.61,2.58,Monitor
+R00193,RailPartner Station 231,RailPartner Station 142,Eastern Regional,Commuter,71.0,5022,1633,32.52,46959.97,4271.99,1633,175,10.72,67,3.37,84.95,2.62,Monitor
+R00126,RailPartner Station 087,RailPartner Station 081,CrossCountry Connect,Commuter,58.8,5316,1754,32.99,44391.50,4271.07,1754,200,11.40,55,3.61,84.73,2.44,Monitor
+R00585,RailPartner Station 122,RailPartner Station 206,CrossCountry Connect,Commuter,77.6,4861,1597,32.85,48777.73,4250.82,1597,180,11.27,57,3.79,84.47,2.66,Monitor
+R00292,RailPartner Station 108,RailPartner Station 150,Midlands Railways,Commuter,58.1,5217,1765,33.83,43397.28,4245.68,1765,194,10.99,65,3.82,85.63,2.41,Monitor
+R00874,RailPartner Station 054,RailPartner Station 194,Capital Intercity,Regional,80.0,4345,1417,32.61,51444.04,4238.10,1417,155,10.94,59,3.28,86.33,2.99,Monitor
+R00182,RailPartner Station 230,RailPartner Station 021,CrossCountry Connect,Commuter,56.0,5513,1785,32.38,41825.02,4236.32,1785,200,11.20,63,3.59,85.71,2.37,Monitor
+R01134,RailPartner Station 239,RailPartner Station 168,Midlands Railways,Commuter,72.8,4795,1622,33.83,46776.67,4234.35,1622,178,10.97,56,3.83,84.28,2.61,Monitor
+R00067,RailPartner Station 215,RailPartner Station 016,Eastern Regional,Commuter,56.5,5347,1774,33.18,44159.14,4228.55,1774,205,11.56,69,3.91,85.14,2.38,Monitor
+R00607,RailPartner Station 053,RailPartner Station 031,Coastal Link,Commuter,55.9,5370,1809,33.69,43095.94,4213.97,1809,199,11.00,62,3.59,84.56,2.33,Monitor
+R00053,RailPartner Station 012,RailPartner Station 161,Southern Coast Rail,Commuter,57.0,5310,1738,32.73,42312.12,4200.62,1738,177,10.18,60,3.01,86.21,2.42,Monitor
+R01102,RailPartner Station 146,RailPartner Station 160,Highland Connect,Commuter,50.7,5523,1841,33.33,40742.95,4198.45,1841,195,10.59,67,3.39,84.69,2.28,Monitor
+R00004,RailPartner Station 177,RailPartner Station 067,Northern Connect Rail,Commuter,73.5,4736,1608,33.95,47155.19,4188.34,1608,195,12.13,62,3.81,84.19,2.60,Monitor
+R00707,RailPartner Station 048,RailPartner Station 236,Eastern Regional,Commuter,67.3,5095,1667,32.72,44995.43,4187.75,1667,184,11.04,75,3.28,85.19,2.51,Monitor
+R00781,RailPartner Station 191,RailPartner Station 219,Northern Connect Rail,Commuter,68.4,4973,1638,32.94,45207.58,4180.20,1638,178,10.87,62,3.65,85.08,2.55,Monitor
+R00492,RailPartner Station 231,RailPartner Station 122,CrossCountry Connect,Regional,81.8,4171,1366,32.75,52134.97,4178.53,1366,180,13.18,52,3.98,82.98,3.06,Monitor
+R00392,RailPartner Station 250,RailPartner Station 050,Highland Connect,Commuter,69.9,4943,1634,33.06,46739.56,4176.31,1634,169,10.34,62,3.05,86.76,2.56,Monitor
+R00896,RailPartner Station 130,RailPartner Station 002,Coastal Link,Commuter,42.7,5657,1917,33.89,37951.73,4172.09,1917,227,11.84,86,3.41,85.35,2.18,Monitor
+R00147,RailPartner Station 080,RailPartner Station 202,Capital Intercity,Commuter,43.8,5619,1935,34.44,39279.70,4170.87,1935,221,11.42,80,3.49,85.10,2.16,Monitor
+R01154,RailPartner Station 097,RailPartner Station 037,Welsh Regional Rail,Commuter,60.6,5084,1705,33.54,43129.27,4169.59,1705,204,11.96,56,3.77,83.62,2.45,Monitor
+R01034,RailPartner Station 075,RailPartner Station 132,Capital Intercity,Commuter,48.2,5646,1882,33.33,40656.01,4168.91,1882,216,11.48,71,3.28,84.35,2.22,Monitor
+R00009,RailPartner Station 082,RailPartner Station 183,Western Express,Commuter,48.6,5364,1858,34.64,40214.82,4166.97,1858,193,10.39,68,3.44,86.27,2.24,Monitor
+R00556,RailPartner Station 250,RailPartner Station 218,Eastern Regional,Commuter,73.5,4756,1596,33.56,46568.82,4157.58,1596,150,9.40,50,3.21,86.78,2.61,Monitor
+R00309,RailPartner Station 199,RailPartner Station 185,Midlands Railways,Commuter,45.6,5662,1889,33.36,39221.65,4156.99,1889,219,11.59,59,3.60,83.84,2.20,Monitor
+R00457,RailPartner Station 061,RailPartner Station 166,Central Metro Rail,Commuter,77.2,4593,1556,33.88,48043.64,4156.75,1556,173,11.12,52,3.59,84.72,2.67,Monitor
+R00333,RailPartner Station 014,RailPartner Station 248,Welsh Regional Rail,Regional,88.9,4079,1363,33.42,52921.30,4155.29,1363,166,12.18,58,3.89,83.68,3.05,Monitor
+R00726,RailPartner Station 164,RailPartner Station 102,Eastern Regional,Commuter,57.2,5206,1722,33.08,41700.66,4143.64,1722,169,9.81,53,3.51,84.66,2.41,Monitor
+R00956,RailPartner Station 121,RailPartner Station 228,CrossCountry Connect,Commuter,26.0,6566,2190,33.35,32525.72,4139.79,2190,257,11.74,101,3.31,85.87,1.89,Monitor
+R01194,RailPartner Station 017,RailPartner Station 138,Central Metro Rail,Commuter,79.4,4551,1496,32.87,47154.03,4133.87,1496,166,11.10,55,3.34,83.62,2.76,Monitor
+R00390,RailPartner Station 225,RailPartner Station 152,Anglia Rail Services,Commuter,56.2,5352,1774,33.15,42775.76,4132.52,1774,202,11.39,69,3.73,84.43,2.33,Monitor
+R00482,RailPartner Station 243,RailPartner Station 206,Capital Intercity,Commuter,48.9,5380,1828,33.98,39826.71,4130.30,1828,191,10.45,58,3.41,84.85,2.26,Monitor
+R00970,RailPartner Station 007,RailPartner Station 208,Anglia Rail Services,Commuter,37.7,6025,2007,33.31,37126.19,4127.05,2007,218,10.86,75,3.38,85.81,2.06,Monitor
+R01185,RailPartner Station 032,RailPartner Station 243,Western Express,Commuter,42.4,5776,1913,33.12,38523.89,4126.13,1913,214,11.19,67,3.81,85.27,2.16,Monitor
+R00504,RailPartner Station 153,RailPartner Station 044,Midlands Railways,Commuter,63.1,5068,1671,32.97,43946.81,4115.74,1671,163,9.75,51,3.31,85.79,2.46,Monitor
+R00812,RailPartner Station 232,RailPartner Station 231,Capital Intercity,Commuter,55.3,5194,1737,33.44,42024.38,4113.35,1737,185,10.65,69,3.52,86.33,2.37,Monitor
+R01150,RailPartner Station 010,RailPartner Station 060,Capital Intercity,Commuter,43.3,5719,1923,33.62,38345.22,4113.21,1923,230,11.96,80,3.43,84.25,2.14,Monitor
+R00770,RailPartner Station 152,RailPartner Station 044,Highland Connect,Commuter,63.4,5017,1656,33.01,43997.24,4110.17,1656,160,9.66,55,3.49,86.11,2.48,Monitor
+R01081,RailPartner Station 154,RailPartner Station 114,Coastal Link,Commuter,63.2,4929,1665,33.78,43064.52,4104.35,1665,196,11.77,63,3.78,84.42,2.47,Monitor
+R00427,RailPartner Station 237,RailPartner Station 063,Highland Connect,Commuter,43.5,5650,1875,33.19,37564.24,4102.77,1875,216,11.52,74,3.35,84.84,2.19,Monitor
+R00947,RailPartner Station 209,RailPartner Station 161,Southern Coast Rail,Commuter,47.5,5382,1816,33.74,39236.97,4101.65,1816,222,12.22,78,3.36,85.18,2.26,Monitor
+R00407,RailPartner Station 094,RailPartner Station 057,Welsh Regional Rail,Commuter,45.7,5311,1843,34.70,39097.62,4095.33,1843,205,11.12,55,4.13,84.36,2.22,Monitor
+R00226,RailPartner Station 099,RailPartner Station 123,Anglia Rail Services,Commuter,41.5,5638,1897,33.65,37255.61,4091.75,1897,208,10.96,62,3.70,85.16,2.16,Monitor
+R00841,RailPartner Station 198,RailPartner Station 219,Highland Connect,Regional,88.3,4058,1327,32.70,51156.42,4088.66,1327,154,11.61,52,4.13,83.74,3.08,Monitor
+R00400,RailPartner Station 165,RailPartner Station 162,Coastal Link,Commuter,52.6,5264,1781,33.83,41305.88,4088.19,1781,219,12.30,73,3.54,84.61,2.30,Monitor
+R00959,RailPartner Station 172,RailPartner Station 077,Capital Intercity,Commuter,47.9,5468,1810,33.10,39460.88,4068.40,1810,217,11.99,64,3.89,83.84,2.25,Monitor
+R00445,RailPartner Station 043,RailPartner Station 146,Highland Connect,Commuter,38.7,5884,1944,33.04,36455.18,4062.90,1944,206,10.60,63,3.92,84.39,2.09,Monitor
+R01188,RailPartner Station 058,RailPartner Station 035,Central Metro Rail,Commuter,28.0,6140,2072,33.75,32268.99,4051.60,2072,238,11.49,69,3.63,83.72,1.96,Monitor
+R00016,RailPartner Station 212,RailPartner Station 210,Coastal Link,Commuter,30.1,6117,2055,33.59,33218.06,4049.31,2055,246,11.97,75,3.59,83.84,1.97,Monitor
+R00013,RailPartner Station 057,RailPartner Station 095,Midlands Railways,Commuter,66.9,4888,1623,33.20,44145.76,4039.63,1623,155,9.55,46,3.31,85.43,2.49,Monitor
+R00657,RailPartner Station 028,RailPartner Station 052,Western Express,Commuter,43.9,5636,1871,33.20,37753.24,4037.98,1871,208,11.12,76,3.67,85.62,2.16,Monitor
+R00645,RailPartner Station 066,RailPartner Station 235,Coastal Link,Commuter,34.0,5901,1976,33.49,34176.60,4033.90,1976,236,11.94,74,3.99,84.67,2.04,Monitor
+R00639,RailPartner Station 157,RailPartner Station 239,Capital Intercity,Commuter,39.8,5599,1890,33.76,36336.11,4026.82,1890,187,9.89,47,3.51,85.43,2.13,Monitor
+R00638,RailPartner Station 221,RailPartner Station 062,Coastal Link,Commuter,73.2,4661,1548,33.21,45701.29,4020.47,1548,181,11.69,61,3.99,84.62,2.60,Monitor
+R00184,RailPartner Station 059,RailPartner Station 125,Southern Coast Rail,Commuter,50.3,5144,1766,34.33,38435.52,4013.23,1766,192,10.87,75,3.47,86.21,2.27,Monitor
+R00545,RailPartner Station 166,RailPartner Station 122,Highland Connect,Commuter,57.5,5020,1648,32.83,40664.31,4011.99,1648,190,11.53,62,3.75,83.55,2.43,Monitor
+R00905,RailPartner Station 067,RailPartner Station 068,Eastern Regional,Commuter,51.1,5306,1742,32.83,39656.38,4003.10,1742,186,10.68,54,3.69,85.09,2.30,Monitor
+R00326,RailPartner Station 019,RailPartner Station 090,Capital Intercity,Commuter,56.8,5071,1697,33.46,40818.79,4001.67,1697,183,10.78,64,3.48,85.85,2.36,Monitor
+R00146,RailPartner Station 177,RailPartner Station 088,Western Express,Commuter,57.6,5088,1680,33.02,40754.07,3999.63,1680,191,11.37,68,3.39,84.41,2.38,Monitor
+R00965,RailPartner Station 104,RailPartner Station 245,Southern Coast Rail,Commuter,63.3,4896,1631,33.31,42528.69,3998.80,1631,188,11.53,63,3.24,84.88,2.45,Monitor
+R00766,RailPartner Station 024,RailPartner Station 180,Western Express,Commuter,35.1,5677,1927,33.94,33862.42,3989.25,1927,202,10.48,64,3.69,85.67,2.07,Monitor
+R00501,RailPartner Station 125,RailPartner Station 108,Capital Intercity,Commuter,55.2,4991,1687,33.80,40038.02,3987.58,1687,195,11.56,64,4.05,84.56,2.36,Monitor
+R00558,RailPartner Station 120,RailPartner Station 213,Northern Connect Rail,Commuter,47.6,5273,1775,33.66,37272.72,3982.24,1775,189,10.65,66,3.77,84.42,2.24,Monitor
+R00233,RailPartner Station 214,RailPartner Station 034,Western Express,Commuter,33.4,5826,1983,34.04,33453.12,3979.18,1983,222,11.20,77,3.44,84.59,2.01,Monitor
+R00110,RailPartner Station 074,RailPartner Station 112,Midlands Railways,Commuter,38.4,5870,1933,32.93,35828.52,3978.48,1933,210,10.86,73,3.35,85.41,2.06,Monitor
+R00362,RailPartner Station 222,RailPartner Station 004,Eastern Regional,Commuter,35.1,5684,1931,33.97,33761.63,3975.91,1931,223,11.55,74,3.97,83.89,2.06,Monitor
+R00382,RailPartner Station 170,RailPartner Station 132,Capital Intercity,Commuter,54.6,5109,1681,32.90,39839.96,3974.10,1681,195,11.60,69,3.50,85.01,2.36,Monitor
+R01004,RailPartner Station 031,RailPartner Station 240,CrossCountry Connect,Commuter,33.7,5828,1960,33.63,33372.17,3970.82,1960,233,11.89,76,3.68,83.92,2.03,Monitor
+R00929,RailPartner Station 061,RailPartner Station 073,Coastal Link,Regional,88.3,3802,1278,33.61,49696.92,3968.95,1278,158,12.36,55,3.64,83.74,3.11,Monitor
+R00804,RailPartner Station 152,RailPartner Station 111,Midlands Railways,Commuter,52.0,5292,1734,32.77,38426.01,3950.95,1734,211,12.17,79,3.33,83.93,2.28,Monitor
+R00409,RailPartner Station 003,RailPartner Station 051,Northern Connect Rail,Commuter,46.3,5251,1791,34.11,37267.63,3947.78,1791,197,11.00,63,3.60,84.14,2.20,Monitor
+R00223,RailPartner Station 086,RailPartner Station 187,Midlands Railways,Commuter,37.0,5739,1883,32.81,34497.72,3941.69,1883,192,10.20,59,3.56,84.74,2.09,Monitor
+R00778,RailPartner Station 014,RailPartner Station 036,Southern Coast Rail,Regional,82.9,3955,1293,32.69,48963.94,3937.70,1293,145,11.21,44,3.93,83.06,3.05,Monitor
+R00088,RailPartner Station 059,RailPartner Station 085,Eastern Regional,Commuter,50.0,5326,1726,32.41,37486.89,3927.34,1726,189,10.95,54,3.81,84.40,2.28,Monitor
+R00428,RailPartner Station 147,RailPartner Station 189,Eastern Regional,Commuter,45.4,5237,1777,33.93,37056.37,3919.26,1777,213,11.99,68,3.89,84.45,2.21,Monitor
+R00764,RailPartner Station 052,RailPartner Station 080,Northern Connect Rail,Commuter,46.7,5346,1748,32.70,37426.56,3910.32,1748,192,10.98,60,3.75,84.55,2.24,Monitor
+R00310,RailPartner Station 238,RailPartner Station 175,Eastern Regional,Commuter,51.8,5185,1698,32.75,38183.07,3892.89,1698,201,11.84,71,4.07,85.90,2.29,Monitor
+R00381,RailPartner Station 155,RailPartner Station 077,Coastal Link,Commuter,52.2,5240,1710,32.63,39389.18,3881.00,1710,192,11.23,63,3.86,84.25,2.27,Monitor
+R00713,RailPartner Station 247,RailPartner Station 008,Anglia Rail Services,Commuter,53.6,4994,1648,33.00,38297.40,3876.14,1648,163,9.89,53,3.61,85.83,2.35,Monitor
+R00563,RailPartner Station 175,RailPartner Station 248,Highland Connect,Commuter,33.1,5631,1884,33.46,32225.72,3870.75,1884,205,10.88,73,3.46,85.75,2.05,Monitor
+R00988,RailPartner Station 227,RailPartner Station 024,Highland Connect,Commuter,44.2,5334,1761,33.01,35112.68,3853.09,1761,180,10.22,52,3.35,84.34,2.19,Monitor
+R00035,RailPartner Station 221,RailPartner Station 223,Welsh Regional Rail,Regional,88.7,3725,1252,33.61,48117.11,3851.35,1252,163,13.02,56,3.83,83.26,3.08,Monitor
+R00591,RailPartner Station 112,RailPartner Station 046,Central Metro Rail,Commuter,50.3,5112,1695,33.16,37309.52,3848.36,1695,193,11.39,68,3.38,84.65,2.27,Monitor
+R00727,RailPartner Station 182,RailPartner Station 016,Western Express,Commuter,37.1,5615,1867,33.25,33485.83,3830.73,1867,182,9.75,54,3.45,85.40,2.05,Monitor
+R01005,RailPartner Station 015,RailPartner Station 132,CrossCountry Connect,Commuter,33.2,5525,1878,33.99,32309.37,3829.12,1878,188,10.01,70,3.30,85.77,2.04,Monitor
+R00272,RailPartner Station 220,RailPartner Station 235,Midlands Railways,Commuter,23.8,6181,2022,32.71,28739.32,3821.84,2022,238,11.77,80,3.54,85.00,1.89,Monitor
+R01170,RailPartner Station 185,RailPartner Station 198,Capital Intercity,Commuter,40.4,5426,1785,32.90,35058.74,3821.05,1785,216,12.10,75,3.59,86.34,2.14,Monitor
+R00637,RailPartner Station 096,RailPartner Station 006,Central Metro Rail,Regional,85.2,3752,1258,33.53,47234.89,3812.65,1258,144,11.45,45,3.41,83.07,3.03,Monitor
+R00676,RailPartner Station 102,RailPartner Station 239,Coastal Link,Commuter,49.8,5248,1689,32.18,36886.88,3799.96,1689,194,11.49,63,3.84,84.52,2.25,Monitor
+R00598,RailPartner Station 215,RailPartner Station 145,Northern Connect Rail,Commuter,49.0,4926,1658,33.66,35817.13,3794.86,1658,198,11.94,57,3.47,83.26,2.29,Monitor
+R00951,RailPartner Station 048,RailPartner Station 032,Highland Connect,Commuter,47.7,5034,1693,33.63,36344.07,3791.67,1693,190,11.22,50,3.71,83.86,2.24,Monitor
+R01167,RailPartner Station 079,RailPartner Station 082,Capital Intercity,Commuter,23.7,5864,2006,34.21,28430.42,3778.00,2006,216,10.77,66,3.69,84.64,1.88,Monitor
+R00328,RailPartner Station 171,RailPartner Station 045,Anglia Rail Services,Commuter,38.9,5216,1789,34.30,32979.92,3751.79,1789,193,10.79,52,3.87,85.14,2.10,Monitor
+R00073,RailPartner Station 069,RailPartner Station 170,Coastal Link,Commuter,72.3,4462,1457,32.65,42302.91,3746.91,1457,165,11.32,63,3.37,85.09,2.57,Monitor
+R00344,RailPartner Station 060,RailPartner Station 226,Welsh Regional Rail,Commuter,35.7,5574,1832,32.87,32472.22,3743.32,1832,217,11.84,72,3.76,84.94,2.04,Monitor
+R00363,RailPartner Station 166,RailPartner Station 169,Midlands Railways,Commuter,51.4,5038,1623,32.22,36614.48,3731.80,1623,175,10.78,52,3.74,84.73,2.30,Monitor
+R00143,RailPartner Station 179,RailPartner Station 051,Southern Coast Rail,Commuter,24.6,5837,1954,33.48,28461.39,3703.82,1954,206,10.54,67,3.44,86.04,1.90,Monitor
+R00904,RailPartner Station 174,RailPartner Station 069,Northern Connect Rail,Commuter,41.1,5232,1739,33.24,33981.56,3698.47,1739,188,10.81,71,3.49,85.08,2.13,Monitor
+R00759,RailPartner Station 173,RailPartner Station 004,CrossCountry Connect,Commuter,26.1,5735,1928,33.62,28442.10,3693.56,1928,231,11.98,80,3.59,84.27,1.92,Monitor
+R00414,RailPartner Station 143,RailPartner Station 136,Coastal Link,Commuter,60.3,4791,1542,32.19,37717.36,3690.32,1542,155,10.05,58,3.33,86.13,2.39,Monitor
+R00006,RailPartner Station 042,RailPartner Station 099,CrossCountry Connect,Commuter,24.9,5625,1938,34.45,27671.14,3684.26,1938,228,11.76,70,3.93,84.06,1.90,Monitor
+R00882,RailPartner Station 167,RailPartner Station 127,Highland Connect,Commuter,24.7,5965,1989,33.34,28875.61,3677.98,1989,188,9.45,71,3.07,86.82,1.85,Monitor
+R00340,RailPartner Station 167,RailPartner Station 046,CrossCountry Connect,Commuter,39.5,5182,1722,33.23,32250.57,3675.08,1722,186,10.80,62,3.26,85.51,2.13,Monitor
+R00836,RailPartner Station 208,RailPartner Station 185,Midlands Railways,Commuter,27.1,5753,1907,33.15,28436.29,3660.04,1907,230,12.06,73,4.10,84.61,1.92,Monitor
+R00485,RailPartner Station 124,RailPartner Station 219,Welsh Regional Rail,Commuter,59.8,4618,1507,32.63,38229.45,3645.31,1507,177,11.75,57,3.75,84.87,2.42,Monitor
+R01038,RailPartner Station 008,RailPartner Station 091,Eastern Regional,Commuter,27.2,5651,1884,33.34,28126.98,3641.25,1884,197,10.46,60,3.83,85.82,1.93,Monitor
+R00095,RailPartner Station 048,RailPartner Station 037,Capital Intercity,Commuter,53.2,4747,1576,33.20,37125.23,3636.25,1576,177,11.23,54,3.37,82.76,2.31,Monitor
+R00265,RailPartner Station 230,RailPartner Station 168,Anglia Rail Services,Commuter,58.3,4592,1534,33.41,37343.85,3631.92,1534,171,11.15,61,3.54,86.90,2.37,Monitor
+R00227,RailPartner Station 216,RailPartner Station 196,Central Metro Rail,Commuter,33.3,5261,1768,33.61,30437.77,3614.44,1768,208,11.76,67,3.85,84.57,2.04,Monitor
+R01115,RailPartner Station 206,RailPartner Station 242,Eastern Regional,Commuter,32.9,5239,1795,34.26,30061.10,3605.39,1795,208,11.59,64,3.81,84.55,2.01,Monitor
+R00472,RailPartner Station 130,RailPartner Station 081,Anglia Rail Services,Commuter,36.0,5260,1763,33.52,31073.17,3592.86,1763,228,12.93,80,3.74,84.77,2.04,Monitor
+R00711,RailPartner Station 076,RailPartner Station 182,CrossCountry Connect,Commuter,20.6,5695,1980,34.77,25602.65,3589.07,1980,231,11.67,71,3.66,83.62,1.81,Monitor
+R00437,RailPartner Station 147,RailPartner Station 085,Central Metro Rail,Commuter,42.6,4997,1681,33.64,32990.75,3582.85,1681,175,10.41,65,3.28,86.20,2.13,Monitor
+R01010,RailPartner Station 020,RailPartner Station 017,Eastern Regional,Commuter,62.7,4505,1470,32.63,37403.14,3569.25,1470,174,11.84,74,3.34,85.37,2.43,Monitor
+R00410,RailPartner Station 037,RailPartner Station 155,Northern Connect Rail,Commuter,50.0,4647,1555,33.46,35117.40,3554.87,1555,174,11.19,58,3.23,84.88,2.29,Monitor
+R00694,RailPartner Station 049,RailPartner Station 026,Southern Coast Rail,Commuter,61.0,4433,1477,33.32,36951.17,3552.96,1477,173,11.71,50,3.58,84.50,2.41,Monitor
+R00883,RailPartner Station 006,RailPartner Station 179,Coastal Link,Commuter,50.0,4867,1602,32.92,34826.22,3549.01,1602,178,11.11,54,4.04,83.91,2.22,Monitor
+R01084,RailPartner Station 132,RailPartner Station 020,Southern Coast Rail,Commuter,41.3,5151,1663,32.28,32577.77,3536.79,1663,157,9.44,49,3.46,84.59,2.13,Monitor
+R00829,RailPartner Station 056,RailPartner Station 185,Midlands Railways,Commuter,22.1,5785,1911,33.03,25536.00,3533.88,1911,209,10.94,79,3.35,85.43,1.85,Monitor
+R00398,RailPartner Station 111,RailPartner Station 126,Highland Connect,Commuter,35.7,5256,1722,32.76,30611.86,3531.04,1722,188,10.92,70,3.57,86.83,2.05,Monitor
+R00453,RailPartner Station 226,RailPartner Station 147,Capital Intercity,Commuter,30.5,5381,1806,33.56,28897.93,3516.45,1806,202,11.18,89,3.10,85.68,1.95,Monitor
+R00786,RailPartner Station 223,RailPartner Station 163,Central Metro Rail,Commuter,48.2,4592,1558,33.93,33743.27,3515.49,1558,185,11.87,56,3.51,83.74,2.26,Monitor
+R00133,RailPartner Station 155,RailPartner Station 053,Coastal Link,Commuter,38.8,4815,1659,34.45,31223.93,3497.16,1659,213,12.84,65,4.06,82.15,2.11,Monitor
+R00149,RailPartner Station 054,RailPartner Station 011,Western Express,Commuter,40.1,5183,1656,31.95,31422.72,3490.50,1656,191,11.53,66,3.63,84.94,2.11,Monitor
+R01169,RailPartner Station 040,RailPartner Station 113,Southern Coast Rail,Commuter,28.8,5414,1816,33.54,28106.46,3489.94,1816,220,12.11,70,4.10,84.33,1.92,Monitor
+R00772,RailPartner Station 163,RailPartner Station 165,Eastern Regional,Commuter,31.8,5252,1738,33.09,28666.69,3488.87,1738,189,10.87,66,3.27,84.72,2.01,Monitor
+R00712,RailPartner Station 016,RailPartner Station 194,Central Metro Rail,Commuter,23.3,5662,1845,32.59,26015.58,3485.17,1845,205,11.11,69,3.57,84.49,1.89,Monitor
+R00996,RailPartner Station 148,RailPartner Station 022,Eastern Regional,Commuter,21.9,5735,1881,32.80,25918.99,3476.43,1881,212,11.27,57,3.57,84.38,1.85,Monitor
+R00264,RailPartner Station 047,RailPartner Station 014,Coastal Link,Commuter,55.4,4337,1472,33.94,35557.03,3472.53,1472,165,11.21,56,3.55,85.09,2.36,Monitor
+R01071,RailPartner Station 155,RailPartner Station 200,Southern Coast Rail,Commuter,42.9,5006,1597,31.90,32348.88,3457.99,1597,148,9.27,44,3.48,85.88,2.17,Monitor
+R00239,RailPartner Station 096,RailPartner Station 002,CrossCountry Connect,Commuter,27.6,5144,1768,34.37,27074.90,3454.57,1768,211,11.93,68,3.85,85.35,1.95,Monitor
+R01160,RailPartner Station 032,RailPartner Station 010,Southern Coast Rail,Commuter,29.8,5371,1765,32.86,28494.64,3441.45,1765,186,10.54,57,3.70,84.60,1.95,Monitor
+R00280,RailPartner Station 049,RailPartner Station 025,Capital Intercity,Commuter,36.7,4802,1627,33.88,29417.52,3387.98,1627,170,10.45,60,3.37,86.04,2.08,Monitor
+R00323,RailPartner Station 238,RailPartner Station 044,Highland Connect,Commuter,50.8,4421,1465,33.14,32734.65,3372.54,1465,140,9.56,49,3.31,85.38,2.30,Monitor
+R00376,RailPartner Station 055,RailPartner Station 247,Central Metro Rail,Commuter,33.2,4947,1624,32.83,27815.96,3265.76,1624,182,11.21,70,3.59,86.40,2.01,Monitor
+R00444,RailPartner Station 145,RailPartner Station 230,Highland Connect,Commuter,28.3,5023,1694,33.72,25711.12,3246.22,1694,183,10.80,55,3.75,86.21,1.92,Monitor
+R00420,RailPartner Station 155,RailPartner Station 115,Midlands Railways,Commuter,19.3,5344,1781,33.33,22596.99,3229.10,1781,187,10.50,63,3.61,85.20,1.81,Monitor
+R00652,RailPartner Station 088,RailPartner Station 117,Highland Connect,Commuter,14.9,5620,1853,32.97,21234.11,3228.58,1853,204,11.01,72,3.44,85.39,1.74,Monitor
+R00483,RailPartner Station 017,RailPartner Station 163,Northern Connect Rail,Commuter,23.9,4939,1685,34.12,24478.98,3187.52,1685,216,12.82,59,4.08,83.26,1.89,Monitor
+R00254,RailPartner Station 240,RailPartner Station 045,Anglia Rail Services,Commuter,12.2,5545,1880,33.90,20117.36,3144.36,1880,211,11.22,63,3.67,83.90,1.67,Monitor
+R00850,RailPartner Station 052,RailPartner Station 038,Western Express,Commuter,17.2,5484,1756,32.02,21602.72,3126.79,1756,205,11.67,59,4.19,84.62,1.78,Monitor
+R00290,RailPartner Station 052,RailPartner Station 234,Coastal Link,Commuter,28.6,4590,1610,35.08,24469.14,3095.48,1610,203,12.61,65,3.70,83.08,1.92,Protect High Demand
+R00668,RailPartner Station 165,RailPartner Station 236,Anglia Rail Services,Commuter,13.5,4999,1750,35.01,19159.68,3048.35,1750,226,12.91,70,4.03,84.38,1.74,Protect High Demand
+R01162,RailPartner Station 239,RailPartner Station 049,Northern Connect Rail,Commuter,17.0,4881,1704,34.91,20566.36,3017.64,1704,188,11.03,82,3.16,86.41,1.77,Monitor
+R01166,RailPartner Station 219,RailPartner Station 239,Coastal Link,Commuter,33.1,4559,1486,32.59,24963.11,2997.99,1486,175,11.78,56,3.73,84.96,2.02,Monitor
+R00438,RailPartner Station 225,RailPartner Station 067,Capital Intercity,Commuter,13.2,5038,1738,34.50,18495.25,2953.63,1738,202,11.62,71,3.34,84.89,1.70,Monitor
+R00600,RailPartner Station 014,RailPartner Station 006,Western Express,Commuter,31.7,4291,1410,32.86,23655.97,2822.89,1410,158,11.21,56,3.75,85.86,2.00,Monitor
+R00972,RailPartner Station 120,RailPartner Station 097,Coastal Link,Regional,176.3,52,24,46.15,2078.95,134.78,24,0,0.00,0,1.71,95.83,5.62,Monitor
+R00685,RailPartner Station 100,RailPartner Station 170,Midlands Railways,Regional,169.3,56,22,39.29,1414.46,97.89,22,3,13.64,2,3.40,85.00,4.45,Protect High Demand
+R00949,RailPartner Station 180,RailPartner Station 217,Anglia Rail Services,Regional,196.8,51,21,41.18,1590.88,96.42,21,3,14.29,2,2.21,84.21,4.59,Protect High Demand
+R00317,RailPartner Station 030,RailPartner Station 087,Anglia Rail Services,Regional,151.6,49,20,40.82,1165.93,79.67,20,4,20.00,0,9.95,80.00,3.98,Protect High Demand
+R00561,RailPartner Station 186,RailPartner Station 060,Highland Connect,Regional,141.3,55,19,34.55,973.04,73.58,19,1,5.26,0,6.68,89.47,3.87,Monitor
+R00248,RailPartner Station 249,RailPartner Station 084,Western Express,Regional,130.7,44,19,43.18,1059.92,73.28,19,2,10.53,1,2.61,94.44,3.86,Protect High Demand
+R00449,RailPartner Station 090,RailPartner Station 212,Highland Connect,Regional,160.6,51,14,27.45,991.15,67.68,14,2,14.29,1,3.62,76.92,4.83,Monitor
+R00550,RailPartner Station 181,RailPartner Station 126,CrossCountry Connect,Regional,148.2,49,16,32.65,776.09,60.90,16,1,6.25,0,2.75,87.50,3.81,Monitor
+R01181,RailPartner Station 022,RailPartner Station 129,Northern Connect Rail,Commuter,34.1,58,26,44.83,438.96,53.43,26,2,7.69,1,1.96,88.00,2.06,Monitor
+R00045,RailPartner Station 019,RailPartner Station 043,Anglia Rail Services,Regional,200.0,43,11,25.58,803.19,52.82,11,0,0.00,0,1.30,90.00,4.80,Monitor
+R00678,RailPartner Station 012,RailPartner Station 181,Capital Intercity,Commuter,54.7,57,23,40.35,606.62,50.55,23,3,13.04,0,3.76,80.95,2.20,Protect High Demand
+R00131,RailPartner Station 157,RailPartner Station 161,Welsh Regional Rail,Commuter,61.7,52,18,34.62,504.29,48.39,18,0,0.00,0,1.88,94.12,2.69,Monitor
+R00581,RailPartner Station 175,RailPartner Station 050,Coastal Link,Regional,142.4,50,14,28.00,760.52,42.68,14,0,0.00,0,1.08,100.00,3.05,Monitor
+R00796,RailPartner Station 167,RailPartner Station 056,Midlands Railways,Commuter,38.5,60,20,33.33,329.53,42.41,20,1,5.00,1,1.63,84.21,2.12,Monitor
+R00293,RailPartner Station 194,RailPartner Station 083,Western Express,Commuter,44.2,58,18,31.03,316.82,36.92,18,5,27.78,3,3.93,73.33,2.05,Monitor

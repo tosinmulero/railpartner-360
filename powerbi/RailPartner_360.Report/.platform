@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "RailPartner_360"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1bdced5f-8a2e-45e4-97ec-b66a8040628d"
+  }
+}

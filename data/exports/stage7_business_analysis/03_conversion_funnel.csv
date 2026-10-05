@@ -1,0 +1,26 @@
+sales_channel,customer_segment,business_traveller_flag,searches,searches_with_availability,bookings,conversion_rate_pct,average_lowest_fare_gbp,average_booking_lead_days
+B2B Partner,Frequent Business,True,1450456,1433201,706173,48.69,36.64,5.78
+B2B Partner,Leisure Frequent,False,262093,258838,103255,39.40,34.60,12.68
+Mobile App,Frequent Business,True,332206,328231,119220,35.89,36.65,5.79
+B2B Partner,Occasional Business,True,655928,648221,211979,32.32,36.70,5.78
+B2B Partner,Mixed Traveller,True,674413,666236,217622,32.27,36.64,5.78
+Tablet,Frequent Business,True,23009,22723,7395,32.14,36.64,5.74
+Mobile Web,Frequent Business,True,84517,83507,26715,31.61,36.80,5.78
+Desktop Web,Frequent Business,True,123594,122106,38995,31.55,36.77,5.76
+B2B Partner,Leisure Occasional,False,122675,121119,38188,31.13,34.65,12.62
+Mobile App,Leisure Frequent,False,709256,700580,196186,27.66,34.60,12.66
+Tablet,Leisure Frequent,False,47585,46999,11545,24.26,34.54,12.66
+Desktop Web,Leisure Frequent,False,258461,255331,62432,24.16,34.67,12.65
+Mobile Web,Leisure Frequent,False,179463,177337,43295,24.12,34.58,12.64
+Mobile App,Mixed Traveller,True,155044,153217,34093,21.99,36.67,5.78
+Mobile App,Occasional Business,True,150583,148769,33097,21.98,36.65,5.77
+Mobile App,Leisure Occasional,False,330711,326757,68796,20.80,34.64,12.65
+Tablet,Mixed Traveller,True,10472,10324,2006,19.16,36.18,5.83
+Desktop Web,Mixed Traveller,True,56805,56138,10789,18.99,36.63,5.81
+Tablet,Occasional Business,True,9671,9549,1833,18.95,36.80,5.75
+Mobile Web,Occasional Business,True,38329,37816,7233,18.87,36.69,5.79
+Mobile Web,Mixed Traveller,True,39135,38677,7378,18.85,36.44,5.84
+Desktop Web,Occasional Business,True,56211,55526,10585,18.83,36.64,5.79
+Desktop Web,Leisure Occasional,False,124371,122901,22432,18.04,34.74,12.63
+Tablet,Leisure Occasional,False,22391,22116,4002,17.87,34.50,12.62
+Mobile Web,Leisure Occasional,False,82621,81627,14756,17.86,34.70,12.65

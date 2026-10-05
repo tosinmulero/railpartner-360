@@ -1,0 +1,66 @@
+# ============================================================
+# RailPartner 360 — Git Ignore
+# ============================================================
+
+# Environment variables / credentials
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# VS Code / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated large datasets
+data/raw/
+data/processed/
+
+# Keep final analytical exports
+!data/exports/
+!data/exports/**
+
+# dbt generated files
+dbt/**/target/
+dbt/**/logs/
+dbt/**/dbt_packages/
+
+# Power BI backups / local cache
+powerbi/backups/
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Temporary / backup files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated synthetic datasets
+data/synthetic/
+
+# Local backup artifacts
+reports/backups/
+*_backup.py
+
+# External / interim working data
+data/external/
+data/interim/
+
+# Local dbt user credentials
+dbt/profiles.yml
+dbt/.user.yml

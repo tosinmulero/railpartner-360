@@ -1,0 +1,17 @@
+﻿project:
+  name: RailPartner 360
+  version: 1.0.0
+  description: B2B Rail Retail and Customer Intelligence Platform
+
+data_generation:
+  searches: 6000000
+  bookings: 2000000
+  customers: 250000
+  partners: 50
+  start_date: 2024-01-01
+  end_date: 2026-09-30
+  random_seed: 42
+
+analytics:
+  country: GB
+  currency: GBP

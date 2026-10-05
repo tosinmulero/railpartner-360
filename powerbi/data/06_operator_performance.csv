@@ -1,0 +1,13 @@
+operator_id,operator_name,service_type,journeys,completed_journeys,operator_cancellations,disrupted_journeys,severe_delay_journeys,cancellation_rate_pct,disruption_rate_pct,average_within_3_minutes_pct,average_arrival_delay_minutes
+O008,Central Metro Rail,Commuter,158061,147760,6039,18093,2272,3.82,11.45,84.23,3.64
+O011,Welsh Regional Rail,Regional,139934,130961,5254,15883,1976,3.75,11.35,85.31,3.56
+O001,Northern Connect Rail,Regional,169739,158759,6393,19172,2372,3.77,11.29,84.09,3.66
+O005,Coastal Link,Regional,195812,183221,7351,22042,2707,3.75,11.26,85.18,3.59
+O006,Highland Connect,Regional,151052,141377,5745,16989,2090,3.80,11.25,85.12,3.59
+O004,Midlands Railways,Regional,160451,150151,5843,18003,2283,3.64,11.22,85.25,3.52
+O007,Eastern Regional,Regional,177566,166097,6650,19860,2500,3.75,11.18,85.17,3.56
+O009,CrossCountry Connect,Intercity,190943,178616,7127,21337,2696,3.73,11.17,84.90,3.53
+O002,Capital Intercity,Intercity,189276,177045,7064,21138,2575,3.73,11.17,84.96,3.52
+O003,Western Express,Intercity,181768,170086,6738,20275,2602,3.71,11.15,85.27,3.54
+O010,Anglia Rail Services,Regional,138284,129409,5128,15413,1926,3.71,11.15,84.68,3.55
+O012,Southern Coast Rail,Commuter,147114,137612,5567,16316,2016,3.78,11.09,85.31,3.51

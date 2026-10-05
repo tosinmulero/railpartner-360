@@ -1,0 +1,2 @@
+total_searches,total_bookings,total_passengers,conversion_rate_pct,gross_booking_value_gbp,net_ticket_value_gbp,platform_revenue_gbp,average_booking_value_gbp,b2b_booking_share_pct,total_journeys,completed_journeys,operator_cancelled_journeys,disruption_rate_pct,operator_cancellation_rate_pct,within_3_minutes_pct,refund_records,total_refund_amount_gbp,commercial_value_at_risk_gbp
+6000000,2000000,2384693,33.33,136400067.92,130770535.25,9030419.68,68.20,63.86,2000000,1871094,74899,11.23,3.74,85.01,196235,9180795.75,9719988.47

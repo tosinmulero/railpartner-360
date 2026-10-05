@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "RailPartner_360"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "dd6fde0f-134b-4e94-bdb2-c71c64cb49eb"
+  }
+}

@@ -1,0 +1,31 @@
+refund_type,refund_reason,sales_channel,business_traveller_flag,refund_records,eligible_value_gbp,refund_amount_gbp,commercial_value_at_risk_gbp,average_processing_days
+Full Refund,Operator Cancellation,B2B Partner,True,42303,2729318.56,2687409.70,2848912.09,5.04
+Customer Refund,Customer Cancellation,B2B Partner,True,30792,2062001.36,1677698.49,1798970.02,4.95
+Delay Compensation,Journey Delay,B2B Partner,True,42470,2819503.06,1127633.27,1127633.27,4.92
+Full Refund,Operator Cancellation,Mobile App,False,9895,593369.43,583598.75,636520.69,5.06
+Full Refund,Operator Cancellation,Mobile App,True,6993,457980.41,451196.27,490923.20,5.02
+Full Refund,Operator Cancellation,B2B Partner,False,5403,330528.60,326585.71,346454.39,5.00
+Customer Refund,Customer Cancellation,Mobile App,True,5069,350107.33,284962.75,314922.69,4.90
+Delay Compensation,Journey Delay,Mobile App,False,9834,618639.07,244994.20,244994.20,4.86
+Full Refund,Operator Cancellation,Desktop Web,False,3264,198577.62,194556.76,212141.71,4.82
+Customer Refund,Customer Cancellation,Mobile App,False,3638,233001.44,189744.83,210063.79,5.36
+Delay Compensation,Journey Delay,Mobile App,True,6890,467409.30,185213.73,185213.73,5.11
+Full Refund,Operator Cancellation,Desktop Web,True,2270,146222.49,144632.99,157402.38,5.08
+Full Refund,Operator Cancellation,Mobile Web,False,2169,135564.26,133482.31,145403.74,4.93
+Delay Compensation,Journey Delay,B2B Partner,False,5303,336711.23,136127.47,136127.47,5.02
+Full Refund,Operator Cancellation,Mobile Web,True,1579,102588.36,100453.37,109381.61,5.26
+Customer Refund,Customer Cancellation,B2B Partner,False,1865,118943.18,97501.97,104592.40,5.11
+Customer Refund,Customer Cancellation,Desktop Web,True,1588,106388.65,87087.76,96291.34,4.85
+Delay Compensation,Journey Delay,Desktop Web,False,3228,210521.50,85869.40,85869.40,4.80
+Customer Refund,Customer Cancellation,Desktop Web,False,1182,79559.95,64261.80,71093.59,4.99
+Customer Refund,Customer Cancellation,Mobile Web,True,1062,67977.94,55682.75,61632.80,4.95
+Delay Compensation,Journey Delay,Desktop Web,True,2249,151541.98,59474.81,59474.81,5.14
+Delay Compensation,Journey Delay,Mobile Web,False,2273,141555.65,56958.60,56958.60,5.07
+Customer Refund,Customer Cancellation,Mobile Web,False,824,56196.10,45355.74,50177.80,4.56
+Delay Compensation,Journey Delay,Mobile Web,True,1595,108903.71,43529.58,43529.58,4.86
+Full Refund,Operator Cancellation,Tablet,False,588,37771.62,37262.72,40567.02,4.61
+Full Refund,Operator Cancellation,Tablet,True,435,29160.76,28559.77,31088.86,4.33
+Customer Refund,Customer Cancellation,Tablet,True,295,19963.92,16304.57,18017.09,5.23
+Delay Compensation,Journey Delay,Tablet,False,579,36572.06,13976.54,13976.54,5.10
+Delay Compensation,Journey Delay,Tablet,True,415,29518.14,11648.27,11648.27,4.67
+Customer Refund,Customer Cancellation,Tablet,False,185,10960.60,9030.87,10005.39,5.16

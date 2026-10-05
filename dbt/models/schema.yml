@@ -1,0 +1,223 @@
+version: 2
+
+models:
+
+  - name: stg_dim_partner
+
+    columns:
+
+      - name: partner_id
+        tests:
+          - not_null
+          - unique
+
+
+  - name: stg_dim_customer
+
+    columns:
+
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+
+
+  - name: stg_dim_operator
+
+    columns:
+
+      - name: operator_id
+        tests:
+          - not_null
+          - unique
+
+
+  - name: stg_dim_station
+
+    columns:
+
+      - name: station_id
+        tests:
+          - not_null
+          - unique
+
+
+  - name: stg_dim_route
+
+    columns:
+
+      - name: route_id
+        tests:
+          - not_null
+          - unique
+
+      - name: origin_station_id
+        tests:
+          - relationships:
+              to: ref('stg_dim_station')
+              field: station_id
+
+      - name: destination_station_id
+        tests:
+          - relationships:
+              to: ref('stg_dim_station')
+              field: station_id
+
+      - name: primary_operator_id
+        tests:
+          - relationships:
+              to: ref('stg_dim_operator')
+              field: operator_id
+
+
+  - name: stg_dim_ticket
+
+    columns:
+
+      - name: ticket_id
+        tests:
+          - not_null
+          - unique
+
+
+  - name: stg_dim_date
+
+    columns:
+
+      - name: date_id
+        tests:
+          - not_null
+          - unique
+
+
+  - name: stg_fact_searches
+
+    columns:
+
+      - name: search_id
+        tests:
+          - not_null
+          - unique
+
+      - name: customer_id
+        tests:
+          - relationships:
+              to: ref('stg_dim_customer')
+              field: customer_id
+
+      - name: route_id
+        tests:
+          - relationships:
+              to: ref('stg_dim_route')
+              field: route_id
+
+
+  - name: stg_fact_bookings
+
+    columns:
+
+      - name: booking_id
+        tests:
+          - not_null
+          - unique
+
+      - name: search_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_fact_searches')
+              field: search_id
+
+      - name: customer_id
+        tests:
+          - relationships:
+              to: ref('stg_dim_customer')
+              field: customer_id
+
+      - name: route_id
+        tests:
+          - relationships:
+              to: ref('stg_dim_route')
+              field: route_id
+
+      - name: ticket_id
+        tests:
+          - relationships:
+              to: ref('stg_dim_ticket')
+              field: ticket_id
+
+
+  - name: stg_fact_journeys
+
+    columns:
+
+      - name: journey_id
+        tests:
+          - not_null
+          - unique
+
+      - name: booking_id
+        tests:
+          - not_null
+          - unique
+          - relationships:
+              to: ref('stg_fact_bookings')
+              field: booking_id
+
+      - name: operator_id
+        tests:
+          - relationships:
+              to: ref('stg_dim_operator')
+              field: operator_id
+
+
+  - name: stg_fact_refunds
+
+    columns:
+
+      - name: refund_id
+        tests:
+          - not_null
+          - unique
+
+      - name: booking_id
+        tests:
+          - relationships:
+              to: ref('stg_fact_bookings')
+              field: booking_id
+
+      - name: journey_id
+        tests:
+          - relationships:
+              to: ref('stg_fact_journeys')
+              field: journey_id
+
+
+  - name: mart_partner_performance
+
+    columns:
+
+      - name: partner_id
+        tests:
+          - not_null
+          - unique
+
+
+  - name: mart_customer_360
+
+    columns:
+
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+
+
+  - name: mart_route_performance
+
+    columns:
+
+      - name: route_id
+        tests:
+          - not_null
+          - unique

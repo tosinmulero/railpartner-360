@@ -1,0 +1,20 @@
+select
+    total_searches,
+    total_bookings,
+    total_passengers,
+    conversion_rate_pct,
+    gross_booking_value_gbp,
+    net_ticket_value_gbp,
+    platform_revenue_gbp,
+    average_booking_value_gbp,
+    b2b_booking_share_pct,
+    total_journeys,
+    completed_journeys,
+    operator_cancelled_journeys,
+    disruption_rate_pct,
+    operator_cancellation_rate_pct,
+    within_3_minutes_pct,
+    refund_records,
+    total_refund_amount_gbp,
+    commercial_value_at_risk_gbp
+from marts.mart_executive_kpis;

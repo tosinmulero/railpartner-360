@@ -1,0 +1,109 @@
+table 'Operator Performance'
+	lineageTag: 847cf604-9923-4397-b1c0-8a3c45bf6211
+
+	column operator_id
+		dataType: string
+		lineageTag: 8750cf68-ab2a-480f-b9d0-839605fa8511
+		summarizeBy: none
+		sourceColumn: operator_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column operator_name
+		dataType: string
+		lineageTag: c7068ae7-79e1-438c-ae67-b6031ded76ea
+		summarizeBy: none
+		sourceColumn: operator_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column service_type
+		dataType: string
+		lineageTag: eebb1776-3b2c-45c1-a30b-919eac5fdb3a
+		summarizeBy: none
+		sourceColumn: service_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column journeys
+		dataType: int64
+		lineageTag: af21f501-a405-474c-a074-ea2a160b87ae
+		summarizeBy: none
+		sourceColumn: journeys
+
+		annotation SummarizationSetBy = Automatic
+
+	column completed_journeys
+		dataType: int64
+		lineageTag: b3b55f99-a404-44e8-9aa5-a89c4b58cfe5
+		summarizeBy: none
+		sourceColumn: completed_journeys
+
+		annotation SummarizationSetBy = Automatic
+
+	column operator_cancellations
+		dataType: int64
+		lineageTag: 117dd6f5-e4f5-4a6d-b6f4-4cc9ba3ec338
+		summarizeBy: none
+		sourceColumn: operator_cancellations
+
+		annotation SummarizationSetBy = Automatic
+
+	column disrupted_journeys
+		dataType: int64
+		lineageTag: 46558f93-c83c-4e8f-bbbb-04ebffd0f030
+		summarizeBy: none
+		sourceColumn: disrupted_journeys
+
+		annotation SummarizationSetBy = Automatic
+
+	column severe_delay_journeys
+		dataType: int64
+		lineageTag: 3a9166e5-ccda-4941-9c2d-dfd2244e10bb
+		summarizeBy: none
+		sourceColumn: severe_delay_journeys
+
+		annotation SummarizationSetBy = Automatic
+
+	column cancellation_rate_pct
+		dataType: double
+		lineageTag: 12e7da39-d5cd-465a-b43b-d091f0b2752d
+		summarizeBy: none
+		sourceColumn: cancellation_rate_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column disruption_rate_pct
+		dataType: double
+		lineageTag: fbeabba6-373e-4ba2-b3fd-8f1e245037a8
+		summarizeBy: none
+		sourceColumn: disruption_rate_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column average_within_3_minutes_pct
+		dataType: double
+		lineageTag: 5e32cfa9-1746-4138-b2b0-5f7aa373f3cd
+		summarizeBy: none
+		sourceColumn: average_within_3_minutes_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	column average_arrival_delay_minutes
+		dataType: double
+		lineageTag: 09075780-494f-4bbb-b88d-c984a7cda227
+		summarizeBy: none
+		sourceColumn: average_arrival_delay_minutes
+
+		annotation SummarizationSetBy = Automatic
+
+	partition OperatorPerformance = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents("C:\Users\OLUWATOSIN OLUWASEUN\Downloads\railpartner-360\powerbi\data\06_operator_performance.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"operator_id", type text}, {"operator_name", type text}, {"service_type", type text}, {"journeys", Int64.Type}, {"completed_journeys", Int64.Type}, {"operator_cancellations", Int64.Type}, {"disrupted_journeys", Int64.Type}, {"severe_delay_journeys", Int64.Type}, {"cancellation_rate_pct", type number}, {"disruption_rate_pct", type number}, {"average_within_3_minutes_pct", type number}, {"average_arrival_delay_minutes", type number}}, "en-GB")
+				in
+					#"Changed Type"
+

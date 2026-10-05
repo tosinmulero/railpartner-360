@@ -1,0 +1,51 @@
+partner_id,partner_name,partner_type,partner_segment,service_tier,searches,bookings,conversion_rate_pct,gross_booking_value_gbp,platform_revenue_gbp,disruption_rate_pct,operator_cancellations,refund_records,refund_amount_gbp,commercial_value_at_risk_gbp,revenue_per_booking_gbp,revenue_rank,conversion_rank,risk_rank
+P0027,Rail Commerce Partner 027,Expense Management Platform,Enterprise,Strategic,121859,48950,40.17,3389782.22,217451.01,11.31,1812,4928,229504.92,242984.91,4.44,1,29,8
+P0049,Rail Commerce Partner 049,Rail Retail Partner,Enterprise,Strategic,121173,48652,40.15,3357565.05,214053.84,11.12,1788,4827,222025.65,235133.56,4.40,2,31,13
+P0019,Rail Commerce Partner 019,Business Travel Agency,Enterprise,Strategic,121187,49245,40.64,3389771.60,204109.68,11.23,1843,4944,234698.45,247501.48,4.14,3,6,3
+P0026,Rail Commerce Partner 026,Corporate Travel Platform,Enterprise,Strategic,121535,49074,40.38,3402676.39,199349.53,11.36,1836,4994,235802.59,248326.88,4.06,4,20,1
+P0041,Rail Commerce Partner 041,Expense Management Platform,Enterprise,Strategic,121325,48785,40.21,3360153.61,193643.38,11.03,1848,4809,234511.42,246923.13,3.97,5,27,4
+P0036,Rail Commerce Partner 036,Corporate Travel Platform,Enterprise,Strategic,122051,49164,40.28,3374004.32,190100.82,11.18,1831,4953,228981.44,240510.43,3.87,6,25,11
+P0048,Rail Commerce Partner 048,Online Travel Agency,Enterprise,Strategic,121802,48792,40.06,3374830.65,186707.05,10.98,1787,4774,230999.42,242757.27,3.83,7,33,9
+P0035,Rail Commerce Partner 035,Expense Management Platform,Enterprise,Strategic,121645,49082,40.35,3369982.14,171842.32,11.29,1797,4902,231535.00,242046.57,3.50,8,21,10
+P0039,Rail Commerce Partner 039,Online Travel Agency,Enterprise,Premium,94615,38285,40.46,2648950.71,157193.49,11.17,1404,3792,180566.17,190298.26,4.11,9,16,14
+P0009,Rail Commerce Partner 009,Corporate Travel Platform,Enterprise,Strategic,121474,49442,40.70,3401323.92,154852.34,11.22,1843,5004,238395.74,248268.14,3.13,10,5,2
+P0025,Rail Commerce Partner 025,Business Travel Agency,Enterprise,Strategic,121970,48753,39.97,3362491.77,152511.37,11.34,1879,4957,235975.65,245646.62,3.13,11,34,6
+P0024,Rail Commerce Partner 024,Business Travel Agency,Enterprise,Strategic,121633,49112,40.38,3397709.73,142944.11,11.12,1790,4896,235932.60,244903.32,2.91,12,20,7
+P0021,Rail Commerce Partner 021,Business Travel Agency,Enterprise,Strategic,121621,48613,39.97,3370233.17,139988.82,11.54,1882,5024,236992.47,245958.61,2.88,13,34,5
+P0034,Rail Commerce Partner 034,Online Travel Agency,Enterprise,Strategic,121579,49062,40.35,3396940.40,135680.26,11.12,1802,4788,227384.72,235558.24,2.77,14,21,12
+P0002,Rail Commerce Partner 002,Expense Management Platform,Enterprise,Premium,95031,38309,40.31,2632978.06,128943.31,11.13,1463,3828,179945.44,188085.04,3.37,15,24,15
+P0010,Rail Commerce Partner 010,Expense Management Platform,Enterprise,Standard,75858,30666,40.43,2139369.39,124884.52,11.41,1182,3154,145118.20,152790.95,4.07,16,17,16
+P0040,Rail Commerce Partner 040,Rail Retail Partner,Mid-Market,Strategic,60740,24491,40.32,1694128.64,118160.73,11.25,890,2443,114959.05,122216.28,4.82,17,23,21
+P0028,Rail Commerce Partner 028,Corporate Travel Platform,Mid-Market,Strategic,61066,24795,40.60,1706786.57,107098.97,11.25,941,2529,116629.61,123326.84,4.32,18,8,19
+P0007,Rail Commerce Partner 007,Business Travel Agency,Mid-Market,Premium,47657,19312,40.52,1331379.01,100833.11,10.96,716,1908,89353.89,95560.87,5.22,19,12,29
+P0044,Rail Commerce Partner 044,Online Travel Agency,Mid-Market,Premium,47139,18935,40.17,1303735.31,100252.60,11.21,686,1884,84573.37,90499.37,5.29,20,29,34
+P0015,Rail Commerce Partner 015,Expense Management Platform,Mid-Market,Strategic,60669,24363,40.16,1683662.15,92031.03,11.36,936,2486,118109.06,123965.97,3.78,21,30,18
+P0031,Rail Commerce Partner 031,Business Travel Agency,Mid-Market,Strategic,60842,24624,40.47,1706350.50,91459.94,11.15,961,2482,117152.39,123018.96,3.71,22,15,20
+P0011,Rail Commerce Partner 011,Online Travel Agency,Mid-Market,Premium,47607,19075,40.07,1327832.50,90265.28,11.08,718,1873,86548.68,92059.84,4.73,23,32,33
+P0029,Rail Commerce Partner 029,Corporate Travel Platform,Mid-Market,Strategic,60301,24415,40.49,1690299.69,85738.91,11.03,853,2386,108418.83,113427.42,3.51,24,13,22
+P0047,Rail Commerce Partner 047,Expense Management Platform,Mid-Market,Premium,47724,19352,40.55,1354349.47,84079.20,11.23,722,1912,90855.65,96000.87,4.34,25,10,28
+P0008,Rail Commerce Partner 008,Business Travel Agency,Mid-Market,Premium,47196,19097,40.46,1312127.25,83117.35,11.16,704,1875,93204.69,98484.10,4.35,26,16,26
+P0016,Rail Commerce Partner 016,Online Travel Agency,Mid-Market,Standard,37924,15352,40.48,1061026.35,81854.32,11.28,589,1555,74543.73,79728.65,5.33,27,14,36
+P0004,Rail Commerce Partner 004,Rail Retail Partner,Mid-Market,Standard,38070,15358,40.34,1078017.85,81294.74,11.18,597,1550,71175.16,76067.75,5.29,28,22,38
+P0001,Rail Commerce Partner 001,Business Travel Agency,Enterprise,Standard,75586,30560,40.43,2132458.65,80189.09,10.87,1106,2973,143896.00,148809.42,2.62,29,17,17
+P0045,Rail Commerce Partner 045,Business Travel Agency,Mid-Market,Premium,47550,19128,40.23,1319451.77,78140.40,11.41,704,1973,92993.86,97938.42,4.09,30,26,27
+P0012,Rail Commerce Partner 012,Mobility Platform,Mid-Market,Premium,47633,19216,40.34,1325456.42,77405.56,11.06,708,1937,90493.42,95389.20,4.03,31,22,30
+P0046,Rail Commerce Partner 046,Business Travel Agency,Mid-Market,Premium,47173,19474,41.28,1345283.31,75227.25,11.62,751,1988,94354.65,99134.52,3.86,32,1,24
+P0005,Rail Commerce Partner 005,Corporate Travel Platform,Mid-Market,Standard,38068,15376,40.39,1050071.35,74628.33,11.25,541,1551,75777.96,80552.78,4.85,33,19,35
+P0038,Rail Commerce Partner 038,Expense Management Platform,Mid-Market,Premium,47662,19266,40.42,1313281.10,69349.41,11.45,724,1942,90392.49,94864.87,3.60,34,18,31
+P0020,Rail Commerce Partner 020,Rail Retail Partner,Mid-Market,Premium,47211,19257,40.79,1335035.17,68190.05,11.14,707,1920,94522.15,98897.90,3.54,35,4,25
+P0042,Rail Commerce Partner 042,Business Travel Agency,Mid-Market,Premium,47734,19202,40.23,1327795.14,66782.62,11.24,684,1976,89206.07,93300.09,3.48,36,26,32
+P0013,Rail Commerce Partner 013,Rail Retail Partner,Mid-Market,Premium,47191,19162,40.61,1320106.22,64851.30,11.58,732,2007,95789.18,100174.52,3.38,37,7,23
+P0032,Rail Commerce Partner 032,Mobility Platform,Mid-Market,Standard,37960,15384,40.53,1065171.21,53630.94,11.08,607,1571,75526.09,79028.52,3.49,38,11,37
+P0018,Rail Commerce Partner 018,Corporate Travel Platform,Mid-Market,Standard,38118,15315,40.18,1068982.23,53338.32,10.93,595,1514,70547.33,73828.64,3.48,39,28,39
+P0043,Rail Commerce Partner 043,Rail Retail Partner,Mid-Market,Standard,37659,15211,40.39,1046478.82,52405.58,11.11,531,1499,70564.05,73777.50,3.45,40,19,40
+P0003,Rail Commerce Partner 003,Business Travel Agency,SMB,Premium,19085,7569,39.66,521424.81,48606.40,10.87,278,729,32599.69,35462.52,6.42,41,38,43
+P0023,Rail Commerce Partner 023,Mobility Platform,SMB,Premium,19084,7743,40.57,524606.48,46746.24,11.15,276,753,33817.29,36651.39,6.04,42,9,42
+P0050,Rail Commerce Partner 050,Corporate Travel Platform,SMB,Strategic,24430,9865,40.38,688739.31,45639.43,11.86,422,1050,51584.36,54706.78,4.63,43,20,41
+P0006,Rail Commerce Partner 006,Mobility Platform,SMB,Standard,15171,6045,39.85,413832.38,37022.40,12.57,249,637,29886.42,32267.76,6.12,44,36,45
+P0014,Rail Commerce Partner 014,Business Travel Agency,SMB,Standard,15216,6170,40.55,424946.24,35693.82,10.42,208,594,27961.06,30110.34,5.79,45,10,48
+P0033,Rail Commerce Partner 033,Online Travel Agency,SMB,Standard,15128,6032,39.87,411440.07,33458.35,10.96,247,609,29444.02,31728.96,5.55,46,35,46
+P0037,Rail Commerce Partner 037,Corporate Travel Platform,SMB,Standard,15087,6170,40.90,431342.51,33373.08,10.57,207,612,29332.62,31495.06,5.41,47,2,47
+P0030,Rail Commerce Partner 030,Rail Retail Partner,SMB,Standard,15214,6209,40.81,434473.92,24300.77,11.21,261,669,32433.85,34133.24,3.91,48,3,44
+P0022,Rail Commerce Partner 022,Online Travel Agency,Mid-Market,Premium,2425,959,39.55,67743.10,4446.88,11.37,36,94,4627.31,4905.23,4.64,49,39,49
+P0017,Rail Commerce Partner 017,Rail Retail Partner,Mid-Market,Standard,1887,749,39.69,48427.45,2637.09,12.55,32,81,3312.75,3481.65,3.52,50,37,50
