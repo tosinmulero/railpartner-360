@@ -1,5 +1,19 @@
 # RailPartner 360
 
+<p align="center">
+  <a href="https://github.com/tosinmulero/railpartner-360"><img src="https://img.shields.io/badge/PRIMARY_FLAGSHIP-06B6D4?style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/ANALYTICS_ENGINEERING-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
+  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827">
+  <img src="https://img.shields.io/badge/PBIR-7C3AED?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/01_executive_overview.png" alt="RailPartner 360 Executive Overview" width="100%">
+</p>
+
+<p align="center"><b>6M searches • 2M bookings • £136.40M GBV • £9.03M platform revenue • 55 Power BI visuals</b></p>
+
 ## B2B Rail Retail & Customer Intelligence Platform
 
 RailPartner 360 is an end-to-end analytics engineering and business intelligence portfolio project built to demonstrate how large-scale rail retail, customer, partner, commercial and operational data can be transformed into decision-ready insight.
