@@ -1,5 +1,8 @@
 # RailPartner 360
 
+[![RailPartner 360 Portfolio Quality](https://github.com/tosinmulero/railpartner-360/actions/workflows/portfolio-quality.yml/badge.svg)](https://github.com/tosinmulero/railpartner-360/actions/workflows/portfolio-quality.yml)
+
+
 <p align="center">
   <a href="https://github.com/tosinmulero/railpartner-360"><img src="https://img.shields.io/badge/PRIMARY_FLAGSHIP-06B6D4?style=for-the-badge"></a>
   <img src="https://img.shields.io/badge/ANALYTICS_ENGINEERING-2563EB?style=for-the-badge">
@@ -250,6 +253,21 @@ Warnings:  0
 
 FINAL VALIDATION: PASSED
 ```
+
+---
+
+## Continuous Integration & Reproducibility
+
+The [Portfolio Quality GitHub Actions workflow](https://github.com/tosinmulero/railpartner-360/actions/workflows/portfolio-quality.yml) runs on pushes and pull requests to `main` and checks Python syntax, the version-controlled PBIP/PBIR/TMDL structure, dashboard JSON, seven committed analytics CSV exports, and five genuine Power BI screenshot assets.
+
+To run the same checks using **VS Code PowerShell**, from the repository root:
+
+```powershell
+python -m compileall -q src
+python src/validation/validate_final_portfolio.py
+```
+
+This repository-level CI is a **source and deliverable quality gate**. It does not generate the 6-million-search dataset, execute PostgreSQL or dbt against a database, or replace visual inspection and refresh testing in Power BI Desktop.
 
 ---
 
