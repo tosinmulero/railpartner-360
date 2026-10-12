@@ -1,0 +1,49 @@
+name: RailPartner 360 Portfolio Quality
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-portfolio:
+    name: Validate Python sources and Power BI project artifacts
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Compile Python source files
+        run: python -m compileall -q src
+
+      - name: Validate source-controlled PBIP, PBIR and analytical exports
+        run: python src/validation/validate_final_portfolio.py
+
+      - name: Validate dashboard evidence screenshots
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          screenshots = Path("docs/screenshots")
+          expected = [
+              "01_executive_overview.png",
+              "02_partner_performance.png",
+              "03_customer_conversion.png",
+              "04_routes_operations.png",
+              "05_refund_commercial_risk.png",
+          ]
+          missing = [name for name in expected if not (screenshots / name).is_file()]
+          if missing:
+              raise SystemExit("Missing Power BI screenshots: " + ", ".join(missing))
+          print("Verified all five dashboard screenshots.")
+          PY
