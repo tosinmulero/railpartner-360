@@ -29,6 +29,12 @@ The solution combines **PostgreSQL, SQL, dbt, Python, Power BI, PBIP, PBIR, TMDL
 
 ---
 
+## Recruiter quick review
+
+**[Read the dedicated portfolio case study](https://tosinmulero.github.io/data-analytics-portfolio/case-studies/railpartner-360.html)** · **[Open the evidence guide](docs/RECRUITER_GUIDE.md)** · [View a project visual](docs/screenshots/01_executive_overview.png)
+
+The evidence guide links the business question, documented results, methodology and source artefacts without relying on unverified claims.
+
 ## Executive Summary
 
 RailPartner 360 was designed around five commercial questions:
